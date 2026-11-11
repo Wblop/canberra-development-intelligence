@@ -1,0 +1,106 @@
+{
+  "updated_at": null,
+  "seeded_at": "2026-11-11",
+  "refresh_method": "Initial curated snapshot (automated RSS refresh configured separately)",
+  "note": "External publishers retain responsibility for their content. These links are not independently fact-checked.",
+  "feeds_ok": null,
+  "feeds_checked": 8,
+  "articles": [
+    {
+      "title": "It's not a motel: Court backs Planning Authority's refusal of Gold Creek golf course development",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/its-not-a-motel-court-backs-planning-authoritys-refusal-of-gold-creek-golf-course-development/1014658/",
+      "published_at": "2026-11-11",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Public Consultation Begins on New Canberra Suburb",
+      "source": "Outdoor Design",
+      "url": "https://www.outdoordesign.com.au/news-info/public-consultation-begins-on-new-canberra-suburb/11546",
+      "published_at": "2026-11-11",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Thousands of new homes proposed for Brisbane's entertainment precinct",
+      "source": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-11-10/qld-fortitude-valley-development-tall-over-sprawl/107367058",
+      "published_at": "2026-11-10",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Tourism coup as Liangis family secures Hilton for its grand Manuka hotel development",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/tourism-coup-as-liangis-family-secures-hilton-for-its-grand-manuka-hotel-development/1014575/",
+      "published_at": "2026-11-10",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Help shape Canberra's newest suburb",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/help-shape-canberras-newest-suburb/1013939/",
+      "published_at": "2026-11-09",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Rezoning paves way for 151-unit proposal on former Italian Club site",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/rezoning-paves-way-for-151-unit-proposal-on-former-italian-club-site/1013639/",
+      "published_at": "2026-11-06",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Approval trends alone won’t help us catch runaway housing costs",
+      "source": "Property Council of Australia",
+      "url": "https://www.propertycouncil.com.au/media-releases/approval-trends-alone-wont-help-us-catch-runaway-housing-costs",
+      "published_at": "2026-11-02",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Welcome surge in NSW approvals: Property Council",
+      "source": "Property Council of Australia",
+      "url": "https://www.propertycouncil.com.au/media-releases/welcome-surge-in-nsw-approvals-property-council",
+      "published_at": "2026-11-02",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Migration policies hit student accommodation pipeline when we can least afford it",
+      "source": "Property Council of Australia",
+      "url": "https://www.propertycouncil.com.au/property-australia/migration-policies-hit-student-accommodation-pipeline-when-we-can-least-afford-it",
+      "published_at": "2026-11-03",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Missing Middle Housing Reforms in place",
+      "source": "ACT Government / Our Canberra",
+      "url": "https://www.act.gov.au/our-canberra/latest-news/2026/october/missing-middle-housing-reforms-in-place",
+      "published_at": "2026-10-27",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Delivering on our plan for Canberra's future",
+      "source": "ACT Government",
+      "url": "https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/delivering-on-our-plan-for-canberras-future",
+      "published_at": "2026-10-20",
+      "region": "Canberra",
+      "topic": "Infrastructure"
+    },
+    {
+      "title": "Is the urban growth boundary pushing up house prices? We're going to find out",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/is-the-urban-growth-boundary-pushing-up-house-prices-were-going-to-find-out/1009538/",
+      "published_at": "2026-11-01",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    }
+  ]
+}
