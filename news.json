@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-11T11:22:10Z",
+  "updated_at": "2026-11-11T19:39:08Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Independence and space: new homes a step forward after family violence",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9389999/chc-australia-and-karinya-house-builds-three-homes-for-mothers/?src=rss",
+      "published_at": "2026-11-11T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "From Property Development to Industry Leadership: Tan Lindy's Vision for BCB Berhad",
+      "source": "Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMXNaeDlpbHVsTGEzVkdnSUMta093VlFlUTB4ZFQ1Vms5SHd6UWQ0WkQzSHVjZGNxOG9SUmQtWlVldzhQRmxyLUxuMmVsLVlHczIzNkJhbEs?oc=5",
+      "published_at": "2026-11-11T10:45:00Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
     {
       "title": "It's not a motel: Court backs Planning Authority's refusal of Gold Creek golf course development",
       "source": "Region Canberra",
@@ -356,14 +372,6 @@
       "published_at": "2026-10-30T07:00:00Z",
       "region": "Australia",
       "topic": "Planning & zoning"
-    },
-    {
-      "title": "Treasury Laws Amendment (Tax Reform No. 3) Bill 2026 and Income Tax Rates Amendment (Minimum Tax on Discretionary Trusts) Bill 2026 - Submission - Property Council Austra",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNa2h6R1F1TXV2LWhQT1NoTlhiWUNFenU2azF5RHpOeF8yNmluN3doZnlOWmdoTHNIUFNMSWtIWDM5OThtTFY3ZTJEMmFneEhyRjZKYXZXZVpfNHlMQlhIV1hoVXRRMnZPa3Z4VjFHTVlJdnc1RmlkdkVwdFh6ZzUyQ1RLLTg5RjRLS1hyUXlXd0RjZjFOVzhCRUJXenQybUxheDdJZVRaQ2RWclo0YzVRWWhsRVR5NmdTN2F0cDVtMlpqRGpsUzFFeW1GU3FvOXFyUXgtbzUzRXYxMzlHUXdBVlRUTzZLWDVqenRpczhMX05WZkYzbk90aGJUbF9WZFpMVFRRNno1alhld3ZJbEFpa093?oc=5",
-      "published_at": "2026-10-30T00:18:34Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "Second tranche of construction productivity reforms pass Assembly",
