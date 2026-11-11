@@ -32,7 +32,7 @@ def google_feed(q: str) -> str:
     )
 
 FEEDS = [
-    ("ACT Government / Our Canberra", "https://www.act.gov.au/our-canberra/rss", "Canberra"),
+    ("ACT Government publications", google_feed('site:act.gov.au ("housing" OR "land release" OR "new suburb" OR "planning" OR "construction") when:30d'), "Canberra"),
     ("Region Canberra", "https://region.com.au/feed/", "Canberra"),
     ("The Canberra Times", "https://www.canberratimes.com.au/rss.xml", "Canberra"),
     ("Canberra planning", google_feed('Canberra ("planning approval" OR rezoning OR "development application" OR "housing supply") when:30d'), "Canberra"),
@@ -117,8 +117,8 @@ def items_from_feed(xml: bytes, label: str, group: str):
             continue
         scope = "Canberra" if group == "Canberra" or CANBERRA.search(title) else "Australia"
         if group == "Canberra" and publisher not in (
-            "ACT Government / Our Canberra", "Region Canberra", "The Canberra Times"
-        ):
+            "ACT Government / Our Canberra", "Region Canberra", "The Canberra Times", "ACT Government publications"
+        ) and label != "ACT Government publications":
             # Targeted Canberra searches may contain Australian national results; require a location.
             if not CANBERRA.search(title):
                 continue
