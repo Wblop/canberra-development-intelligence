@@ -42,20 +42,20 @@ FEEDS = [
     ("National industry updates", google_feed('site:propertycouncil.com.au ("housing" OR "approvals" OR "planning" OR "development") when:30d'), "Australia"),
 ]
 KEYWORDS = re.compile(
-    r"\\b(?:housing|homes|dwelling|apartment|townhouse|residential|development|developer|"
+    r"\b(?:housing|homes|dwelling|apartment|townhouse|residential|development|developer|"
     r"property|planning|rezon(?:e|ing)|precinct|urban|construction|building|"
     r"infrastructure|land release|suburb|density|station|rail|affordab|"
-    r"housing supply|housing approvals|masterplan|master plan)\\b", re.I
+    r"housing supply|housing approvals|masterplan|master plan)\b", re.I
 )
-EXCLUDE = re.compile(r"\\b(?:software development|game developer|app developer|"
-                     r"personal development|web development)\\b", re.I)
+EXCLUDE = re.compile(r"\b(?:software development|game developer|app developer|"
+                     r"personal development|web development)\b", re.I)
 CANBERRA = re.compile(
-    r"\\b(?:Canberra|ACT|Australian Capital Territory|Belconnen|Woden|"
+    r"\b(?:Canberra|ACT|Australian Capital Territory|Belconnen|Woden|"
     r"Tuggeranong|Gungahlin|Molonglo|Braddon|Kingston|Dickson|"
-    r"Fyshwick|Phillip|Civic|Ginninderra|Jerrabomberra)\\b", re.I
+    r"Fyshwick|Phillip|Civic|Ginninderra|Jerrabomberra)\b", re.I
 )
 TOPICS = [
-    ("Planning & zoning", re.compile(r"approv|planning|rezon|zoning|code amendment|development application|DA\\b|height limit", re.I)),
+    ("Planning & zoning", re.compile(r"approv|planning|rezon|zoning|code amendment|development application|DA\b|height limit", re.I)),
     ("Housing & residential", re.compile(r"housing|homes|apartment|dwelling|residential|townhouse|affordab", re.I)),
     ("Infrastructure", re.compile(r"transport|rail|metro|station|airport|road|bridge|infrastructure|hospital|school", re.I)),
     ("Land & precincts", re.compile(r"land|precinct|urban renew|masterplan|suburb|greenfield|redevelop", re.I))
@@ -63,7 +63,7 @@ TOPICS = [
 
 def plain(value: str | None, limit=180) -> str:
     value = html.unescape(re.sub(r"<[^>]*>", " ", value or ""))
-    return re.sub(r"\\s+", " ", value).strip()[:limit].strip()
+    return re.sub(r"\s+", " ", value).strip()[:limit].strip()
 
 def parsed_date(value: str | None):
     if not value:
@@ -195,7 +195,7 @@ def main():
         "articles": result
     }
     # Retain publication dates, no unlicensed full article content.
-    OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    OUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(result)} linked headlines, including {len(regional)} ACT items.")
 
 if __name__ == "__main__":
