@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-11T11:19:52Z",
+  "updated_at": "2026-11-11T11:22:10Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 7,
+  "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
     {
@@ -52,6 +52,14 @@
       "published_at": "2026-11-10T05:28:14Z",
       "region": "Australia",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Major infrastructure pipeline to drive visitor economy growth",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOHpMMkRWdVdXbFVzVEZ4RG50NDMweXBfdXVkSE82WjQ4TkhNdWtMUXJaclpMc2ljZC1JbUc1b3o3cGo2dHpwVlR0SFg4T2pPTF9NVnZtcHdqbTBkWDljcnp3eVB2d1pqR1Bfc0l6cm9TV2hTaG9NN3ozNEtuaktNSF9LQjlzMkhJbVFMLWJ4d2FWU3Z3bUJRV095VzY5WjhPWlowdFRMUXhBd3U2bFV3YWo3eHlmdHN1REpYTl93QzNndDN1dm9iZFFVTFhLX2xaRVhub2NicFNOQjVrNXVUYjVtazR2b1BYVmc?oc=5",
+      "published_at": "2026-11-10T04:08:32Z",
+      "region": "Canberra",
+      "topic": "Infrastructure"
     },
     {
       "title": "Canberra’s Newest Suburb Emerges from Ashes of Former CSIRO Site",
@@ -222,6 +230,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Help shape the future of Canberra’s newest suburb and thousands of new homes",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNaUVyakptLXdJSE9WeWdVTm43d0ZSbk90VzdJaGkxd2lBcUtwNmZvcDhmb1ZaMTVyZTBiZHppeS1pWk40SkR4bkUtajBOT19oOERubThfSDFpdEUzWVUtUUFGbUNTR2t3cVAxQllVeXhSZkdJWDA1SjRUOVUyUEJUOVA0d2xtSlI2WmkyQ3ZqV2dHUzhiU0tkLS0yMDBsR1d5Z1J3TG51c296YXh4NHV6S21heGpSRXBwdXJqNWNwQXZ4TXprOU8tWUpXYVBTdzNpYVVsRDZWOFV6WUxySHR1OHBUM2lxTzFLaXhHdFMtek1FckVrMmhRVUtNcGVTalJDNzJTY09KU25OY0ZhWEdEd1lYZTNXS3R2RTZocVBTSQ?oc=5",
+      "published_at": "2026-11-04T23:16:25Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "Welcome surge in NSW approvals: Property Council",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGctbEtJZHdpQ0MtcVhJLWlJV1J1UlRJalplVzlQcmk0Ui1FbEswSXotcERqMFRTclZ3YnM1NXVyT2otbjdHdng0WEF4SFhrZVBmWFduLVVjX3JNcGRVM2R3T1FCS3J2akJJWF95ejNTODhiTGNVTHBOQkhKOTN1Y2RiQW5GbnlQZ0ZObllJTkJUVGcyUGliY001UmdPUQ?oc=5",
@@ -235,6 +251,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczdweURBSENjTTJFaHhDOTZoYThVclhuOW9TN0JfZlYwSWo0cU5XbVNXTzBGUlBUbDh5M2FWcWxGWTBCWmM1UjJIQW15UjJnVFNZdmtfNW5tek5Bc3pPSEdoSFJMNEZyaUxNWGdSdUQ1YmZlWGlJbHFnLXo1enZEeUhzNGhCNGJEUGZnNWVZU2NXT0dJd2ljTG0zWG5XSWlpQ0hVYVpSY3hmNWttZ0JvT1BlLU9ENVNGSWlPVk9QVDFWNVFoc3ltemxBT1JjRXRfSmNOYUdmSk5MUnZw?oc=5",
       "published_at": "2026-11-04T22:32:17Z",
       "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Housing crisis support fund",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR05ZOWIyeGFNay1PS1BfTXc4RndNMHNvdTJRR0IyYkEtMlYyeWQ0Z2NDajRiXzlOTzdyNUNtNE1PU1FkcGg5SzhIQlUwY19JeEUweEZ1SG5TOHpIZ3RqNlh3VmwxZ2VuVnlPQTdtaDNwb1IyNXlWWGVHdk9pd0hHZ0FPNnZpNDhMcmZsZTh3?oc=5",
+      "published_at": "2026-11-04T08:00:00Z",
+      "region": "Canberra",
       "topic": "Housing & residential"
     },
     {
@@ -342,6 +366,14 @@
       "topic": "Development"
     },
     {
+      "title": "Second tranche of construction productivity reforms pass Assembly",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVW9DLTVSX04tRFlaR0kyOExoWnlMQzBLSmtlOS1Vd3lpM0xONTZmZWRnUV9GSEJPU2EzZDk5SnhWb2NyLVVPVEJHTEVERHVSUFRTN2FKSnJhTzFxVnh4a2lEOGJ1UnVzdGk3TDRqeEkwbmRna0M3b2h2dXAzSnZ5Z3hjMHRYSkFKUWVYM2JhWXB1VmowaldjeWFSMjVwZGdmRzc1RjBDNlNlTVRnMWpmTS1BNF8zaDlFWTNVZ0liX2dGelg3amoyN2JuYXltMXV4UENMTGlLVFRKSEFseWUtMWEwT0poYnpfeHRxZE9fSi1SQWFJaXdFRE11TWlyRXU5UFFpeDB5d1BvdzZaakpRWXJR?oc=5",
+      "published_at": "2026-10-28T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
       "title": "EOI invites missing middle housing designs for Canberra House Pattern Book",
       "source": "ArchitectureAu",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazJObTl4cjdpdjRnR0Z1dGFNWmItVWR6WnFPVXVwbC1TYU95QXpfaXNhd3JmT3BWTDNxVnpVXzh3a1JOTFRmYndqa2VlZER4MTd1YTdpZVI5aVN6ME1UdE9zSVdObVlyVHo1dE9reUwxX1BMajRqMzVDWEJoelVOUFdvaGUwYi1rdFlJTGMyUHlCWURMSXRuTmxRcUJiS1JrNzZfMEtkaVNIcUpGeE1zbw?oc=5",
@@ -350,12 +382,36 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Missing Middle Housing Reforms in place",
-      "source": "ACT Government / Our Canberra",
-      "url": "https://www.act.gov.au/our-canberra/latest-news/2026/october/missing-middle-housing-reforms-in-place",
-      "published_at": "2026-10-27",
+      "title": "Construction begins on the ACT’s new Materials Recovery Facility",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEYzLVVnRUJNdGthbHRNc2RKeVZfOTRHTkREZ1ZlQlFyOUpZYllYc0EySUZWcGpLaTFUV3prZ3F0ZTJ5OWxFSGw3RkIzaVV0RXd2by1wTDBfWk55elRzS2RKaldUX0twU1NCbkdhR2wwQlBjZjNRQllMVTJOaFlkQno1OFBaNUd5S3ZfdjV2U0tsV3J2RHhZalN4b2VIZlZzbkxoNXBOUTlaZTdjb19wZlE3RzIzMWRXOUxjbWl6SnVoUQ?oc=5",
+      "published_at": "2026-10-27T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "ACT Regional Drought Resilience Planning Program",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlVrN2IwYVJjZTZMVFhwYk81X092Yl9xQmFpa0tGV1dMb1pJNTBkRXlDVU9GQlg0NXVXUFgzckt6YTNFWjNCdXE3WFVYLVFhc2g2ZzhSSmpub1BGN3lKUnYzWDJ3UC03ZlhPSk0zRENIRVZTYS1kU2l0STVVVXFFcWNnNFBBTDRDX3puYXh2NGJ2WE9Oa3hVY0dIa3B4TzlJZTFZLWotMA?oc=5",
+      "published_at": "2026-10-27T07:00:00Z",
       "region": "Canberra",
       "topic": "Planning & zoning"
+    },
+    {
+      "title": "Missing Middle Housing Reforms in place",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2o3MWE1Ui1yLXJ6NmJkTWhoa3FVQ3E2dmpaWVZIcGtTRWtTVm41eXNIRFRkalczVFBMLVNSMmZlZmRXaUlfcEc5Q2prRWRJdlZsZTZ2QjdDeTZLTzdvVE5ReTM3R05qekhiTnRhODZTeGhKU3JIWi1JeDhKNFBRZWFxNlEtUFJvb0RCRVMyV0wwVGFVSW1ZUTBQbzVMSklkN1E?oc=5",
+      "published_at": "2026-10-27T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Pattern book design competition to deliver more homes across Canberra",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb09Ub084VWlRN1dKRjlGRnJMV09PZHczZDJlVFNFRWs5WmMzaEl0TU81eklxRDFwQnV4RU1nRFo2UE9mblQ3LWtfVjVOYk9NT0h6Y1FiWVF6VEtnOGplbGhkY0tjbHZPM2ZFLVRBZFNSbVo0X2Y3bzhzbVpjQVA5TFVnbFk2SU9SSVhFZ1FYMEUxT1RGZkFEZlc5NUxkcTRBMGpFS1hPYTRCUWNGTEF2XzU5VlN0UTF0NFc1R0Z6cGhZT2ZCWWU3eThseTlaMlNFQ21HZmNRRllVVGNRY3ZzTlFqWVFBMy1OQTBjLWZvYjZDMER2UkFjSEpNU0dzUWNUZi1IMmxPelBWWmsxdmk5Ty1FcDlnTlk?oc=5",
+      "published_at": "2026-10-26T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
     },
     {
       "title": "Canberra Calls for Designs to Help Unlock More Housing Choices",
@@ -366,6 +422,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Construction begins on Canberra's new recycling facility",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3pFV2oyOXpUVEtzVnh2SE40UmlTY3NaRlZEOWJnc0ZHLUtyRERvRi1naUpPZk5hNEszMnB0M3hvTnlSOTNaR2hrb0YtNEpvekpsTF9iaEhVT2NGb21ia2p1Z01nRjZEQVJIOVNKbFBPaTQ4cTk3THEydmZqVGs4dHlKZTFHLUt1c0s0QWZJN3dUV2JsV3dlcmVaR2JoWnAxLXRiWVpIN01fek9maXd6aWNFaTdGZWRacm1YOEVuSmhpemloNkEtc2Y2TGNkZlNyVjU4ZGZDTFgxY21PSHdCRzNad1Y?oc=5",
+      "published_at": "2026-10-25T22:44:22Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
       "title": "Precinct Proposal for Canberra Tradies Club Clears First Hurdle",
       "source": "The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3lRbFhPUm5UcVlfVnR4dzNXWUstUloyYlJxa3piUXJkb1pjMjk1aFVnZXZYSUdOdGQ3cWRvZ1lqSEl5UHNUNS16RG9heTRpR2llWGQ5TW9IUjRDaVUzTUNNdlVvZUtFYldPYnEzcU5ycUpOYkM3UVJWSENWbjdLOExjQWNKOWNtbVY5bnNrSFUtc2xTekhjdkYxMnlHNzlBZFozX3YteFdRNHc?oc=5",
@@ -374,12 +438,28 @@
       "topic": "Land & precincts"
     },
     {
+      "title": "Quicker and easier - Planning Act changes pass Assembly",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU3phclhzUkdrVjlLbXN1akpPV2FRdWt0SGtWYVFNbFdxUWFhbmdKdWw0TjJDcHZVQmViS0lFTW5RQWJmUEtTZFZKOFFJUVdBdEpXZlp2eXVvRDN5XzZPUWRYS1Nqcnp1YzNZRmliTUpyc3RDZ2xIaTFvbkljX0N4R1NiQXlDRFlMSVpfTDZJdFBYeUdYYkE1eHQ4c3A0NFh0UERLWmxVUWNFRmJzWmU0RzFMRjNiUnJNQjc0NFZrLW9TYTV0UkhYYlA3SDA1bVVOUzVWWG9ySWx2dGlpSi1IaWZDQm5kaVRKUGc5Y2VXSnZEakFCZm5UaXNxSE5jMmdmQUE?oc=5",
+      "published_at": "2026-10-21T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Delivering on our plan for Canberra's future",
       "source": "ACT Government",
       "url": "https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/delivering-on-our-plan-for-canberras-future",
       "published_at": "2026-10-20",
       "region": "Canberra",
       "topic": "Infrastructure"
+    },
+    {
+      "title": "Construction complete for new South Tuggeranong Health Centre",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaWRobWtZdlI1bzNNSlFHeXZNNVZGZExtSm9XOEdkSkJTNVhERG51dEI3TzNKbTlISFlhSVlBRTA4ek1rbEtHeW9DV2Y3NFhabVktV0NSeFVjOFFDLVBsZGN4aGN2RWlCc2ZlSVluMHZaXzNObkhVb043UXpIUlFmVmlWN1hDVC14dkhvTFhmbmNJVUpOeDFuRGxGMk9KWmd5Yy1OX21KWTk4U3AtTEpvT2tyXzdTc0hEdjBTMmo3XzZnbW9Vcy1RNnJ6azBUSWlEbjVIT2R1UHF2WXYzSW1aT0RkSURWclByNS1RcXU1VXVhaFZxd1p2SHJDdGV2VFgwWGxvNVR3OWRYeWhCRTVRMUhB?oc=5",
+      "published_at": "2026-10-14T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
     }
   ]
 }
