@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-11-11T19:39:08Z",
+  "updated_at": "2026-11-12T07:16:39Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Submission on the draft Edgecliff-Woollahra Precinct rezoning proposal",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWklMUzliempfaUkzdTAzeTkwY2hxR3BqUXlnX3B4aXdOLTA0TE1uZHFsclhJVklESkdHRkU3Ni1lODBVcmRicmhkN2JkMWlMWnQ1dXduSzk5ZDU5T3FtQnVTdEszVlFvMGtnLXl6YjRndzkxekQ4eXlrNW9RNmdBbXpJMDNPREdtcC1taEZkZ25ESkdoTzNIZ3JRUDBjb284YnljZ3VDNkVkcWIwTjNQcTY3Wm9yR0JW?oc=5",
+      "published_at": "2026-11-12T04:26:43Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Perth’s Eight-Station Housing Precinct Overhaul Moves Ahead",
+      "source": "The Urban Developer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVVFTMTZBTU5ueGUxVUdLd3BaSEdQQkdsTjlKYnpLcjdDeUN2RTV0RzRFSUhiR0dQcVZXNHN6M01kampQQ0QtZmxzSXBGd0lrOXZLdVhTaXhHeTB0Z3JOWG1xQ0VBS1p2TFJ2azZHbUVic3pnR2lHaThSUmowd0NnaVRTNmFaTHJqcE5wUzMwZFRvNTlTTmZjbFBhVE84cWc1YUNkbDR5cHdZODBETVN2VlBISDl1alhIeGc?oc=5",
+      "published_at": "2026-11-12T03:03:19Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Pedestrianisation Of Darlinghurst’s Stanley Street To Create Leafy European Dining Precinct",
+      "source": "City Hub Sydney",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVRjbzhNdk94VnZJM0VlSE5HVU50TkFSdTNZWk83WXExUElTZTlhNXlJN094OWh6M0hkWWo1N2JaYkVNU3YzbEhDemIwNnFQcmNLOFRYZUVvNjNhaEZJRjBILU1UbEJ4UjNZTWZ4aVdHWFg0bmkzT1JVTUI5M1ltUF9LNTNiZFFjN1RhUGRQdHZITTkxbWpjWk5ZclNyUGNoN3JMWEhwTjREUEE5aE5jaVYyVVE?oc=5",
+      "published_at": "2026-11-12T02:51:12Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Chadstone Market Pavilion takes top honours at national property awards",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW5yLXhtMFMyQ01IdFQtRWFSdlBRanR2SUVqYUZCSjMyekhpUVlpbTFudHZCdXpWT1NpcWZuSXlWY1UwS3VPaFBMMUNmbzliZ0RsOE9wdW9uVG1BZGFZc0Q3VnJBQXJYZDNFdmRCNy1Fekl5S3k2QWg0VXBhRHR1SXpRNEwwOGRyWGIybEZkR3JGeTBoMksyUjdyNWN2eXd1QTM2clhYNGdJUFFwbzhfcGZ1c1pVSEUwdThrblRn?oc=5",
+      "published_at": "2026-11-12T00:56:23Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "From Race Days To Every Day: The Appeal Of Living In A Destination Precinct",
+      "source": "Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXdIZWc4QmxLWTdZbFdXQVZSVE9DNnVpcFdWRnlGN1pWTTdZdzczQ2p3ckhUUGVocnlSUUNqVTFDTjFndTE1Y2JPOU1SdDVMQVBuOE80c2hQUXJ4T0VSV3luUm10X0k1ZEFtVzJHeldGYThyM18xaFdtU3h4aTl2Y2w5Q09GZFZhenJ2VDFESy1Fb3U5SVNmQTVNc2dYbGJvc0pSTGdFUWp4NGtjNEFN?oc=5",
+      "published_at": "2026-11-11T23:51:32Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Have your say: flood-safe rezoning to unlock up to 230 homes in Murwillumbah",
+      "source": "The National Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1FuM1J5dlBLZzk4dTYwdjBZMzVoaE41UFozRWo1U0Q4OXNISGJPcFVZd2cwWU9qOHA4d0x6c0dzajU0T2tjbGhNcnhSSjBKeTRqUDcyaXNsd2NoNjNaQnlMQ2F2dl9VYm5iLXpMbEpnRVJBamx5T0oxNnZjbVNhZHlkQlNoVUpaZHdvYUJiSHRqMVpwZG1uclZLdnRqNWZiVjFMYXBGbEQtQlZCVmpfRw?oc=5",
+      "published_at": "2026-11-11T22:30:57Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "We're considering building our dream home, but what's the catch?",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9389851/andrew-hadjidemetri-why-buying-beats-building-a-new-home/?src=rss",
+      "published_at": "2026-11-11T19:16:41Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
     {
       "title": "Independence and space: new homes a step forward after family violence",
       "source": "The Canberra Times",
@@ -166,6 +222,14 @@
       "topic": "Infrastructure"
     },
     {
+      "title": "Fed ‘tax hikes should be a late scratching’ as Cup Day rate rise ‘stuffs the maths of new housing’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczdweURBSENjTTJFaHhDOTZoYThVclhuOW9TN0JfZlYwSWo0cU5XbVNXTzBGUlBUbDh5M2FWcWxGWTBCWmM1UjJIQW15UjJnVFNZdmtfNW5tek5Bc3pPSEdoSFJMNEZyaUxNWGdSdUQ1YmZlWGlJbHFnLXo1enZEeUhzNGhCNGJEUGZnNWVZU2NXT0dJd2ljTG0zWG5XSWlpQ0hVYVpSY3hmNWttZ0JvT1BlLU9ENVNGSWlPVk9QVDFWNVFoc3ltemxBT1JjRXRfSmNOYUdmSk5MUnZw?oc=5",
+      "published_at": "2026-11-07T03:05:22Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "NSW property industry dominates national innovation & excellence awards",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUZ3TTFubjBuQTd0SnZVQXJJbmRfMnc0THNRaUlsRUx6X2otT2dvNFBQb05rdWRMak5JSEFwZVJQYTJWckdMYXcyRVhSUDdYQkE2SGVyLThsN0tjVnMwOWZWbHJIQkFZWEdpM19KbmpfRXFjTk4xb3d6bF83Uk1GRGNDWHllSy16bHYybkl3UlJqRDBwSjdTRnl0VzlTQkcybUg1MF9NZFExcDluMUhSLWlVS19rQXFXZk93?oc=5",
@@ -180,6 +244,14 @@
       "published_at": "2026-11-06T08:00:00Z",
       "region": "Australia",
       "topic": "Infrastructure"
+    },
+    {
+      "title": "Applications open for the 2027 Property Council of Australia Inclusive Leadership Mentoring Program",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZVVBV25NN3RzN3pBUE9MQXdzbEo1VF90WnY0NEVqRHJJMlgyZnh1NHV1V3FGQWZUSFdwdmhxX0tvUmVEWmJlaFBrb1F6YnBkakt5V2NpcVpDOUdESnduUkFkV2FzNzlxLWt2V2hJbU1RTTRMcjhSOTBDYUpsaXVSWjdlQmxCNG5CZ1ZwdUk4TzJfSUJDTHc0M1ZCQVhyYmVIaWNob1dSYWp0aDlqQzg3ZUxJaGFJMFVJRVlDUU44VjZaYndEVnpsUG1OaEluWjhSTmZhT1hka1N6dTZUYlhwZ1BiUFlUVkJ4bnI4aGVkdUZFMV9aWk1LLWI1LXNQVnNJX0JlUDhR?oc=5",
+      "published_at": "2026-11-06T08:00:00Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "First Lots of 1000-Home South Australian Masterplan Waved Ahead",
@@ -262,14 +334,6 @@
       "topic": "Planning & zoning"
     },
     {
-      "title": "Fed ‘tax hikes should be a late scratching’ as Cup Day rate rise ‘stuffs the maths of new housing’",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczdweURBSENjTTJFaHhDOTZoYThVclhuOW9TN0JfZlYwSWo0cU5XbVNXTzBGUlBUbDh5M2FWcWxGWTBCWmM1UjJIQW15UjJnVFNZdmtfNW5tek5Bc3pPSEdoSFJMNEZyaUxNWGdSdUQ1YmZlWGlJbHFnLXo1enZEeUhzNGhCNGJEUGZnNWVZU2NXT0dJd2ljTG0zWG5XSWlpQ0hVYVpSY3hmNWttZ0JvT1BlLU9ENVNGSWlPVk9QVDFWNVFoc3ltemxBT1JjRXRfSmNOYUdmSk5MUnZw?oc=5",
-      "published_at": "2026-11-04T22:32:17Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Housing crisis support fund",
       "source": "ACT Government",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR05ZOWIyeGFNay1PS1BfTXc4RndNMHNvdTJRR0IyYkEtMlYyeWQ0Z2NDajRiXzlOTzdyNUNtNE1PU1FkcGg5SzhIQlUwY19JeEUweEZ1SG5TOHpIZ3RqNlh3VmwxZ2VuVnlPQTdtaDNwb1IyNXlWWGVHdk9pd0hHZ0FPNnZpNDhMcmZsZTh3?oc=5",
@@ -302,14 +366,6 @@
       "topic": "Planning & zoning"
     },
     {
-      "title": "Migration policies hit student accommodation pipeline when we can least afford it",
-      "source": "Property Council of Australia",
-      "url": "https://www.propertycouncil.com.au/property-australia/migration-policies-hit-student-accommodation-pipeline-when-we-can-least-afford-it",
-      "published_at": "2026-11-03",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "ACT’s ‘Govie’ Homes Reprised in National Pattern Book Competition",
       "source": "The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGZTYWs5RmxWQU5saWFVZnVEX0Z2Nk43VVRMdmJoWU85V0twcFc2bG5iN0h2TzhCRlRiZ3ZsdDZGOExHaFNZNU5NRk1qOXBNdmVwVW90bUVtN2h6RWdBOFNfeFc2RFVOMUNRRXd2c3BsRWJDN2sxak9CM3FFZTJMeTlFRDk1aXFWU2dPaXd0UmVUeFRHMUVfUFpob3N3NmZzYU1wNG0zNDZwV202al8way1FcndlUnJuRGlVME5TYTU?oc=5",
@@ -318,59 +374,11 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Melbourne Property Market Outlook 2025",
-      "source": "Property Update",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdHg0V21ZUXB4Z2UwUnV0WF9LMVd3d05MbVhuZTA3MmNFVFFGTTZPNGdkdVNrQTE4bjRSSmdBMjVWLW5pVVAwaXpFLWpMNzlteGtia2ZRRWNUdUFUOGJ6UlhDajNmVm16YXlrcw?oc=5",
-      "published_at": "2026-11-02T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Brisbane police swarm Safe Night Precinct for Operation Yankee Deepwell",
-      "source": "Queensland Police News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckpLc2ZFTXJIam9wdzl5UGFuLUxwZV9senZtNzVzQ3VlTFBSWGxLWG1YWF85aXBnaHp2Z24wQnNrWXpwN015YnVTbVF3RjQ3dkl5eDJad2wzM2drNm5tcWxHTElUaGV5aVprOEMxN1VjWG1WNHdLeEZla2hwOWxLaVVTWGlIRjV5R3Q2MEdGekVoNWJHUEVGRmFNMmVJaURQWVdUSmVqU19aekc2UTE5bWx4Q0RkbmM?oc=5",
-      "published_at": "2026-11-02T08:00:00Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Approval trends alone won’t help us catch runaway housing costs",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQajlDb3FTZk5mcWpOTXNIVkVjSHNsamVzRmhLX1ktXzRLek5FZG5MUkxUaDljMkx5ZU9aaUUyRHJnVnhxeUZublJrSDY5WVBHa0JjczBxU2NVVm45YThwQ2FqZHhpRVBwTUI5Rlc4ejlDbTNYVlF6TkQyV2JTOXFJRnJxS1pERlBnTi1NcWYyZmN6UGRQQWhaVzhQdmQ0S2F2cUFSQlNQeThDRWJFR3hEQ0VR?oc=5",
-      "published_at": "2026-11-02T06:00:30Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Bradfield enterprise precinct a welcome step from vision to delivery",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnc2ZV94NHNpQjVWc04yLVh0SkxqV3Q2YzhpUkxvbGJJeE9lVHE0TFVRUjBUZzByMndUMElReG1TX2RfWldLMlIwa0lBTTVGN2gydi1OeEdUSzN1NXJFal92X2FqQVlGeG0wOWZWaXZiUlFydEItcjd4Q2F2ckl3XzZkU3RnRW00bWlXSWJMR3hseXVaT3ptTGpiWU83ZW5SQkhFS0lVZDVJb1VqeFlMak8tMVJvbXBpY3c?oc=5",
-      "published_at": "2026-11-02T05:45:25Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Housing market ‘luge ride’ needs Federal action to shield new supply",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0lLd3Q5WG9naUVYZEt6Nkdhc0ZOWHJiNWk5dmxqcmVqSnZfd1ZXeFRoTVlJa2hPV19qQzctajJmem1aVEFwNWUtcmcxeUZ6ZGNmeDhqdFprX2l6QUhXNGVGcUZuYVAxWUNmZUdldnF5NENlNlR6UTVaeGVLc251amFsQy1PVkktSVlKbFRhTll5cEgtTUx6bE5XZVowak1scVZaRUVyc1BWUm1vcU9fd1ZYOFAzU3M?oc=5",
-      "published_at": "2026-11-01T23:44:15Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Is the urban growth boundary pushing up house prices? We're going to find out",
       "source": "Region Canberra",
       "url": "https://region.com.au/is-the-urban-growth-boundary-pushing-up-house-prices-were-going-to-find-out/1009538/",
       "published_at": "2026-11-01",
       "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "SRL East precinct planning",
-      "source": "Victoria’s Big Build",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0EzZmQ0dnQ1Nnl2OFR2UGRBY0pMaTBKZXJNWlFTaWhneXdGb2FJQm9xQzJUVUJCeDRQc1Ryek9FaXNHZW1BbmV0TkJNX0N6RTZ5ZjNscGF6VEpxYmJiN05zdEc2NmdHQW9FNkRxUHFTdGRLMFRZSzI3YjQtTUh0bWhVTVgtTWZOYzRuX1pDRFFSZW5SRlE?oc=5",
-      "published_at": "2026-10-30T07:00:00Z",
-      "region": "Australia",
       "topic": "Planning & zoning"
     },
     {
@@ -414,6 +422,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Construction begins on Canberra's new recycling facility",
+      "source": "Chief Minister, Treasury and Economic Development Directorate",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3pFV2oyOXpUVEtzVnh2SE40UmlTY3NaRlZEOWJnc0ZHLUtyRERvRi1naUpPZk5hNEszMnB0M3hvTnlSOTNaR2hrb0YtNEpvekpsTF9iaEhVT2NGb21ia2p1Z01nRjZEQVJIOVNKbFBPaTQ4cTk3THEydmZqVGs4dHlKZTFHLUt1c0s0QWZJN3dUV2JsV3dlcmVaR2JoWnAxLXRiWVpIN01fek9maXd6aWNFaTdGZWRacm1YOEVuSmhpemloNkEtc2Y2TGNkZlNyVjU4ZGZDTFgxY21PSHdCRzNad1Y?oc=5",
+      "published_at": "2026-10-26T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
       "title": "Pattern book design competition to deliver more homes across Canberra",
       "source": "Chief Minister, Treasury and Economic Development Directorate",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb09Ub084VWlRN1dKRjlGRnJMV09PZHczZDJlVFNFRWs5WmMzaEl0TU81eklxRDFwQnV4RU1nRFo2UE9mblQ3LWtfVjVOYk9NT0h6Y1FiWVF6VEtnOGplbGhkY0tjbHZPM2ZFLVRBZFNSbVo0X2Y3bzhzbVpjQVA5TFVnbFk2SU9SSVhFZ1FYMEUxT1RGZkFEZlc5NUxkcTRBMGpFS1hPYTRCUWNGTEF2XzU5VlN0UTF0NFc1R0Z6cGhZT2ZCWWU3eThseTlaMlNFQ21HZmNRRllVVGNRY3ZzTlFqWVFBMy1OQTBjLWZvYjZDMER2UkFjSEpNU0dzUWNUZi1IMmxPelBWWmsxdmk5Ty1FcDlnTlk?oc=5",
@@ -428,14 +444,6 @@
       "published_at": "2026-10-26T07:00:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Construction begins on Canberra's new recycling facility",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3pFV2oyOXpUVEtzVnh2SE40UmlTY3NaRlZEOWJnc0ZHLUtyRERvRi1naUpPZk5hNEszMnB0M3hvTnlSOTNaR2hrb0YtNEpvekpsTF9iaEhVT2NGb21ia2p1Z01nRjZEQVJIOVNKbFBPaTQ4cTk3THEydmZqVGs4dHlKZTFHLUt1c0s0QWZJN3dUV2JsV3dlcmVaR2JoWnAxLXRiWVpIN01fek9maXd6aWNFaTdGZWRacm1YOEVuSmhpemloNkEtc2Y2TGNkZlNyVjU4ZGZDTFgxY21PSHdCRzNad1Y?oc=5",
-      "published_at": "2026-10-25T22:44:22Z",
-      "region": "Canberra",
-      "topic": "Development"
     },
     {
       "title": "Precinct Proposal for Canberra Tradies Club Clears First Hurdle",
