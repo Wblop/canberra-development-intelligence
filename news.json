@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-12T07:16:39Z",
+  "updated_at": "2026-11-12T19:58:36Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "From first houses to forever homes, why buyers are choosing Adelaide's first southern housing development",
+      "source": "Glam Adelaide",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjVybWx2MWhfSkpCTzhBcUM5bmNrS3FxN1U2eDJyOXQ3cE9KelpydUk1T2t3N0hrLWE3RzAwQUtxYnBKWXdPMURSYWdHeDN1S2h3VDc3cC1oUFNUSy1ubW5rOFpmZ2o4c0cycUZPZ2xhcHRnWFBBMnIxZlpydm82ZGVJWVFfSWZYXzhuWTh1Tmk0bFVOWTRrampwODFLSjU5VzUwU0lwc0ZvN2FmZkJlNHhrSzVybWJEUTlHNlZzQUZ3ZHpfaTZFc1JQc1M?oc=5",
+      "published_at": "2026-11-12T18:10:41Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Receivers sale of Medical Freehold in Melbourne's Monash Healthcare Precinct - CBRE",
+      "source": "Commo.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkIyaUE4dElNbGRCNHp4VnVpbGV3S1d5U3M2ZG15QzV4dVBLQWlVYUVadGFmMmlfTXo5RjR3M2t3TlNUbWczQXlBVmtONWNFTFNndGNVNmsxUGVRcmtPUU5EY0lfaUVCMGE1WDFPVzlnX0owVGd6YlM1ZUs0TG9sWTc5aUg3Ny1fdEx1OFpUS08tdGV3dUZ0cnVCenBkeWZzMklQeWkwZERfNWZFZ0g3bUZ5TVh0NE5qYnZULTJn?oc=5",
+      "published_at": "2026-11-12T07:34:03Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
     {
       "title": "Submission on the draft Edgecliff-Woollahra Precinct rezoning proposal",
       "source": "Property Council Australia",
@@ -38,6 +54,22 @@
       "topic": "Development"
     },
     {
+      "title": "Have your say: flood-safe rezoning to unlock up to 230 homes in Murwillumbah",
+      "source": "NSW Government",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnplc3c2VzMyY1dMV3hvS0lBZEhhRFFQYURyYUNJelV1MjcxTE9jYV90ZV90UFEyMzhpeDVVVllsQTA2b1BiVi1YMmFlYXA5cm1nek9tOXhEWGdFN2ZDdUJmbnRTNDFsUWtNRXNIcVZKLXpCSW4wMm1MRWVjdE5EUmtTVkR5bm05aTc2ZXFLTW9Wb2p4ZEFyTGcwdy1idWt5WExBUTJfRzZjc1FOdFFYRWcwUEZUYVk?oc=5",
+      "published_at": "2026-11-12T00:01:22Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
+      "published_at": "2026-11-12T00:00:14Z",
+      "region": "Canberra",
+      "topic": "Infrastructure"
+    },
+    {
       "title": "From Race Days To Every Day: The Appeal Of Living In A Destination Precinct",
       "source": "Real Estate",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXdIZWc4QmxLWTdZbFdXQVZSVE9DNnVpcFdWRnlGN1pWTTdZdzczQ2p3ckhUUGVocnlSUUNqVTFDTjFndTE1Y2JPOU1SdDVMQVBuOE80c2hQUXJ4T0VSV3luUm10X0k1ZEFtVzJHeldGYThyM18xaFdtU3h4aTl2Y2w5Q09GZFZhenJ2VDFESy1Fb3U5SVNmQTVNc2dYbGJvc0pSTGdFUWp4NGtjNEFN?oc=5",
@@ -46,12 +78,12 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "Have your say: flood-safe rezoning to unlock up to 230 homes in Murwillumbah",
-      "source": "The National Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1FuM1J5dlBLZzk4dTYwdjBZMzVoaE41UFozRWo1U0Q4OXNISGJPcFVZd2cwWU9qOHA4d0x6c0dzajU0T2tjbGhNcnhSSjBKeTRqUDcyaXNsd2NoNjNaQnlMQ2F2dl9VYm5iLXpMbEpnRVJBamx5T0oxNnZjbVNhZHlkQlNoVUpaZHdvYUJiSHRqMVpwZG1uclZLdnRqNWZiVjFMYXBGbEQtQlZCVmpfRw?oc=5",
-      "published_at": "2026-11-11T22:30:57Z",
+      "title": "A $1.2million 'Little India' proposal divides Australians amid fears a suburb will become a 'themed precinct'",
+      "source": "Daily Mail",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzI5LTRoUURZTGlET1NwVWJyTVJ1N2s2T2hWSTdwU2VXUkQxTmNYeGUyUHZhOTFQbzlGUFlCMG1FODV1ZUNHa0h4RngzXzVJZXlrVmc4UmxiUG4yeVdsS1RxazRRSk44VlVPejByMkdvM3VEcHFTYU15QmZUQkVHekpVQ2xmMjZnSEZ1bDA1WThhRFg2MjVqQVBPQ2ZzRVMtak1lRzVOWWtTcTVpYVHSAbMBQVVfeXFMTk1pLUZyS1ZjTFNZUnl6Ymd1cWtzS0h0MjRTYkVtU2xmOVZ6cDN2cTI0aFFzU1pIX05IUDhfSjFVdTV0Sk9HMzBuaHZlM3JwVkNPdUY3TTZaWTRnRlIwUlhkVDN3eHNqS1FrRWoyOUxNdjNiSHRuZFBSVmdqSHYzcHd2TXpxOFNCdFUtOHoxQ1p5UlVOaEY2bldKcHFlVk1Yb19PWGwzM1kwZUxSUTVFY2h3ZlU?oc=5",
+      "published_at": "2026-11-11T22:53:44Z",
       "region": "Australia",
-      "topic": "Planning & zoning"
+      "topic": "Land & precincts"
     },
     {
       "title": "We're considering building our dream home, but what's the catch?",
@@ -98,6 +130,14 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpXMUF2ZWVIeDh6d2lZcXBCYzVyRzhlTlFPZEFnd2hOSE5scXo4QUhpSXUtNmhmbFJQMEJxSE8yT2N6RUJmSkcweDZ4amY5MGZiTjBMZmRaS0Qwa0FhNVBDZ1NoeEgzWl9lSVB3QUR0LWk3cE45U1dwUzJBM0N2ZU5pOFFQUEFqNlhPaFZORk5EeVVRWGhfLXctUkY2MERRYk5PTnpQTjRwNmFicTJ2TQ?oc=5",
       "published_at": "2026-11-10T09:54:53Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Vacancies fall, rents stall and rates hit an 18-year high: what Australia’s latest property data is telling us | Property Insiders",
+      "source": "Property Update",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94QnctUTFCajB5Sm5renNBLUpxOUhGZ3JTdDRxbXA3cWY2aHIweWV0NkNybVNVQUZyY0xxR0hWU3lpTFltZmVwODQ5UC10QnY0dUg4Z1Y2QmpzbFAxYnp2MzloVGkyck1MVlZZeXA2WUdSdw?oc=5",
+      "published_at": "2026-11-10T08:00:00Z",
       "region": "Australia",
       "topic": "Development"
     },
@@ -214,14 +254,6 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
-      "source": "The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
-      "published_at": "2026-11-08T16:36:45Z",
-      "region": "Canberra",
-      "topic": "Infrastructure"
-    },
-    {
       "title": "Fed ‘tax hikes should be a late scratching’ as Cup Day rate rise ‘stuffs the maths of new housing’",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczdweURBSENjTTJFaHhDOTZoYThVclhuOW9TN0JfZlYwSWo0cU5XbVNXTzBGUlBUbDh5M2FWcWxGWTBCWmM1UjJIQW15UjJnVFNZdmtfNW5tek5Bc3pPSEdoSFJMNEZyaUxNWGdSdUQ1YmZlWGlJbHFnLXo1enZEeUhzNGhCNGJEUGZnNWVZU2NXT0dJd2ljTG0zWG5XSWlpQ0hVYVpSY3hmNWttZ0JvT1BlLU9ENVNGSWlPVk9QVDFWNVFoc3ltemxBT1JjRXRfSmNOYUdmSk5MUnZw?oc=5",
@@ -326,44 +358,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Welcome surge in NSW approvals: Property Council",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGctbEtJZHdpQ0MtcVhJLWlJV1J1UlRJalplVzlQcmk0Ui1FbEswSXotcERqMFRTclZ3YnM1NXVyT2otbjdHdng0WEF4SFhrZVBmWFduLVVjX3JNcGRVM2R3T1FCS3J2akJJWF95ejNTODhiTGNVTHBOQkhKOTN1Y2RiQW5GbnlQZ0ZObllJTkJUVGcyUGliY001UmdPUQ?oc=5",
-      "published_at": "2026-11-04T22:34:03Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Housing crisis support fund",
       "source": "ACT Government",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR05ZOWIyeGFNay1PS1BfTXc4RndNMHNvdTJRR0IyYkEtMlYyeWQ0Z2NDajRiXzlOTzdyNUNtNE1PU1FkcGg5SzhIQlUwY19JeEUweEZ1SG5TOHpIZ3RqNlh3VmwxZ2VuVnlPQTdtaDNwb1IyNXlWWGVHdk9pd0hHZ0FPNnZpNDhMcmZsZTh3?oc=5",
       "published_at": "2026-11-04T08:00:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Schofields success shows the Hunter’s opportunity to help build NSW’s homes",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVlYtdWpnUWVQZURZTGFZVS1BUm1pLW5NTktvaU82cVRPNzdzTG9YazhtTGQtVTBJakFHZmVYdmJsSTVRV3VtenFWb1lZLWEydUFUUEF2UUdsLU12ZWE4WGEzSzBsSUppVlU0d1ZHcUNxQWFubXYzZ19DUTNxYmx6X1BlbEVadkVGU25oVEZvZmU1OHFCXzQybVZKaW50RWU1MDVreVZhZW0wRHNLWnBsTTZWZEEza3ptN0VRQlg5aEU?oc=5",
-      "published_at": "2026-11-04T06:15:07Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Victoria’s red tape wooden spoon is costing student housing investment",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkVmM2xGaWtSX3l3MGtsYkJmeVg4d185ci1aVVhTeFpaYjJpbmI4VmZhdV9fc2lYVEQtVEp1bHZCM1VtNTUxbER4dEtRalVKTkg5U0dnYV9KNGw4ZWpzcUpZSkhpY0dKLWxfV2pFdGY1WEc1cjQ1Z2IwZTBCMUJjMzJ5TFBuYXIzX1JYc3JmMVNNWjVCd3BmQUhBaTJWd0tJNWJMXy0tbGlEQnhMM1hDbkphSFlTQTlqN2Nj?oc=5",
-      "published_at": "2026-11-04T04:17:09Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Home approvals fall 32,000 short of national target amid housing crisis",
-      "source": "Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQak5oRnE3ODcxQWs0R2p4SS1kWUFoYTE0NW1JZVlYWlE4Mjl5ajNVdmdicmpVOUd3S3NNOWJ3dnV1cWI3Mk01UDlDY1d6MHB4ekg5QVVTQzUtUm9Ka1gtUnRnY2pPN0VnM1prS2pVMXdsWXhsNDJJV1dWNTRPWGJyeHN4UVlDOHA5ZXhhcmU5YXFiUjJ4SEhtOUE5azhOU09rbjRtZzZ3U2ZCUQ?oc=5",
-      "published_at": "2026-11-03T08:00:00Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
     },
     {
       "title": "ACT’s ‘Govie’ Homes Reprised in National Pattern Book Competition",
