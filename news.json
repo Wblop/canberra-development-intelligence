@@ -1,15 +1,31 @@
 {
-  "updated_at": "2026-11-12T19:58:36Z",
+  "updated_at": "2026-11-13T06:50:36Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
     {
+      "title": "Martini trolleys to mochi: A first look inside Melbourne’s mega new CBD food precinct",
+      "source": "The Age",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakdNVHJzcGhSLWV4ZHZUUTNSVDI4WjVuRXR3aE9vVnFwRjd0bEU2RHZieThoMFFRdnQzM1RRbmQ5Ri0xcTFra2lOU0Foc1QxRU9SLU5hNnZKdkNuNHkzd3pwNFcxSWh0R1hQMmZFQ1RiUlV6b1J1aHF2UEwxTHpxMjZkQVloNzNDZVJvQnNwQk9OMU05ejliWlRqSENzMkdvS0RJNkxvTEg5Z2FCVVlhN3BkclE1VEpEdC00V3NB?oc=5",
+      "published_at": "2026-11-13T00:58:53Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Rezoning could unlock 230 homes",
+      "source": "Infrastructure Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMR2dGVWxQeDVtWlpMQ3Q0Zm43eWR2RkQwbEdyTXZmM0ZlZnItYkZ1d0hxbVc1WGk3RG5vdnVpdldIMWxUWmxtYUt1X3VDdmY2emI2NU1NSWQ1UDBCMDF6TDJXWUhzX2ZXN2VzenJfSnFOSGtvTE8zQk1B?oc=5",
+      "published_at": "2026-11-12T22:20:59Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "From first houses to forever homes, why buyers are choosing Adelaide's first southern housing development",
       "source": "Glam Adelaide",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjVybWx2MWhfSkpCTzhBcUM5bmNrS3FxN1U2eDJyOXQ3cE9KelpydUk1T2t3N0hrLWE3RzAwQUtxYnBKWXdPMURSYWdHeDN1S2h3VDc3cC1oUFNUSy1ubW5rOFpmZ2o4c0cycUZPZ2xhcHRnWFBBMnIxZlpydm82ZGVJWVFfSWZYXzhuWTh1Tmk0bFVOWTRrampwODFLSjU5VzUwU0lwc0ZvN2FmZkJlNHhrSzVybWJEUTlHNlZzQUZ3ZHpfaTZFc1JQc1M?oc=5",
-      "published_at": "2026-11-12T18:10:41Z",
+      "published_at": "2026-11-12T18:24:02Z",
       "region": "Australia",
       "topic": "Housing & residential"
     },
@@ -20,6 +36,22 @@
       "published_at": "2026-11-12T07:34:03Z",
       "region": "Australia",
       "topic": "Land & precincts"
+    },
+    {
+      "title": "Migration up; housing down",
+      "source": "The Institute Of Public Affairs - IPA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCeTZ6azRsTGl6czMtZXRsS2ZweW1wRFJ2RlVOM0ZnQkJCZFA4LWxiRFZ0MEQweTEtcE5iVkpZRW1fVWVnalJKY1YzdHVCeDJFRTBDU0xQSDgtT0lpaTY4Z1JKVVVtN28?oc=5",
+      "published_at": "2026-11-12T05:59:48Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Northern Rivers 230-home rezoning proposal put to public",
+      "source": "Inside State Government",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHI0NjY5Ti1TT1lpakRkRlphUWRtWkE5Vkd6SDdQXy1udndmSzROOEJCdVp4dlVWdUdLNXVXeUw4TlRsaGg3U1hfcEpjV1JOaWhTREFuU1puVWUwejlyRzU4X25LZVptOXpRNERzM2xOc2lZMng3bU9ELWJFdG5Cc2dncnFoX3JEbi1LT28xRlVVc3RWeE9IZ19JcE80TVU?oc=5",
+      "published_at": "2026-11-12T04:28:51Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
     },
     {
       "title": "Submission on the draft Edgecliff-Woollahra Precinct rezoning proposal",
@@ -39,9 +71,9 @@
     },
     {
       "title": "Pedestrianisation Of Darlinghurst’s Stanley Street To Create Leafy European Dining Precinct",
-      "source": "City Hub Sydney",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVRjbzhNdk94VnZJM0VlSE5HVU50TkFSdTNZWk83WXExUElTZTlhNXlJN094OWh6M0hkWWo1N2JaYkVNU3YzbEhDemIwNnFQcmNLOFRYZUVvNjNhaEZJRjBILU1UbEJ4UjNZTWZ4aVdHWFg0bmkzT1JVTUI5M1ltUF9LNTNiZFFjN1RhUGRQdHZITTkxbWpjWk5ZclNyUGNoN3JMWEhwTjREUEE5aE5jaVYyVVE?oc=5",
-      "published_at": "2026-11-12T02:51:12Z",
+      "source": "Star Observer",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYjFhLTBOV0wtYTFmY2RnUTdlRlZNVzdGcEVtcTI4cUtnV1hpZW9lTEpmZ0FTMFlLSGlnNmJHX3F1MUtQdVJKVjZmX1pVck5KLXhXMkozTW1jYXZKVVFtaG9Qd0RvN1pudjlfQmQxM254Q3pmRTFYejNmUlEtcVdMMmRJVjJhZGM0dWg4dXU4NVpOc1dXUGc5a2pxRDVxM25tdE1TRTNWN2hmTGFWTUlwbHZwdnBrY1NJYXZuSy1LdFR6UWxiYWxlZEt1UEhmM28?oc=5",
+      "published_at": "2026-11-12T03:01:56Z",
       "region": "Australia",
       "topic": "Land & precincts"
     },
@@ -137,6 +169,14 @@
       "title": "Vacancies fall, rents stall and rates hit an 18-year high: what Australia’s latest property data is telling us | Property Insiders",
       "source": "Property Update",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94QnctUTFCajB5Sm5renNBLUpxOUhGZ3JTdDRxbXA3cWY2aHIweWV0NkNybVNVQUZyY0xxR0hWU3lpTFltZmVwODQ5UC10QnY0dUg4Z1Y2QmpzbFAxYnp2MzloVGkyck1MVlZZeXA2WUdSdw?oc=5",
+      "published_at": "2026-11-10T08:00:00Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Melbourne Property Market Outlook 2025",
+      "source": "Property Update",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdHg0V21ZUXB4Z2UwUnV0WF9LMVd3d05MbVhuZTA3MmNFVFFGTTZPNGdkdVNrQTE4bjRSSmdBMjVWLW5pVVAwaXpFLWpMNzlteGtia2ZRRWNUdUFUOGJ6UlhDajNmVm16YXlrcw?oc=5",
       "published_at": "2026-11-10T08:00:00Z",
       "region": "Australia",
       "topic": "Development"
@@ -302,30 +342,6 @@
       "topic": "Planning & zoning"
     },
     {
-      "title": "MEDIA RELEASE VICTORIANS LOSE FAITH IN HOUSING PROMISES AS ELECTION LOOMS",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmliTTZzeWVETEtiTHZFSG1EdVJic0pwUUQwTTA4d3NYTHRQWk41OWZ5VUZ3Wk9ndFB4bi1lbXpsd0RIcndRMEQzQ1BaQVRjcEFzTkZ3RS1hMmkxM2M0akpIMnplNTVVVFF5cm1ocmRnZ1BrTUExb05XTk9uZzA5aHBGcE9ibXZ2UWpjMW96eGlCZ1lUXzU0Y09QaHQ1ZHNnazF0Y2h4a0FwcmVEdkE?oc=5",
-      "published_at": "2026-11-05T22:10:15Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Property Council welcomes commitment to infrastructure contribution reform to boost housing delivery",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNkFuZFU5cEozVXFqUGhicERFSHdMbW9rREp6WGNmUmVxQmFoRlZoMGdjZU5GZUZob3laM21rby1Fb09TeE5wU05zX0dsZU12djhRalpOemc5ekgzRWhVZENoTmtiQ0xjOXAwSG1SRFBxMHp2UHd5V1lxaDFjZ0JWdVlFMnNhSW5aRV9OTkU0Vnh3ek42WEtOSE1hNEU1bVNVZlB5ZDF5T0VBelBhM3NfQVNTbFdMR2lzZFlLN0xNbGdPQ0hYOFRVVXdGZGRuWTFZTFp0bFMyZTlIVGc1dWNBT1hDWVI?oc=5",
-      "published_at": "2026-11-05T21:59:38Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "WA reviews residential planning codes",
-      "source": "Council Magazine",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Hdjl6NmRDWktBTWRFeUlWcW5Na2xfTzFTSVJEMFpQWnJHRW92TE1uWXEwOUpYM2UweEd4UDRIM3pwZVYwbDZFNGt1dFkyWnhTc3dFUEgwR2lGMGhNSjF3NTFpOWZZODRGWWd5N2hPSjJpY0lRd3d6Qw?oc=5",
-      "published_at": "2026-11-05T21:46:34Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Submissions open for federal inquiry into NCA's controversial Hume Circle Precinct",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFhwTjVlSld6MlpXNTFIa3NzRnZoTHNwbXljcDUxRm1IaU5zbFFVSzhHUTJpZUNZNTMtMl9Vemg3b1lVbWdJeXBUaEx6cWh5MmpCOFhoV1N2TnFqcVh5dFZqRHZiemZTbDhIZGlyZTNrTUJ6Q2EtWThaSFVMVGFHN2oxX1NNRnJMYUJ2S3hXWk1XY0dTdTdTZkhMZ0NyUk9PTzdGejFBV1BuTm9TTDRBVzFB?oc=5",
@@ -334,20 +350,12 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "Delek Property Development Ltd (DLAS.TA) Analyst insights, Price targets and Recommendations",
-      "source": "Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yb0VqbmJiUVBmZzB3TEM5R0sxenI4UzQ2NHp0MUVhUWx6Yjl1UC1mN0lFMEdkNi1INEM0N1dranpDZ2tzVnhka3V6emRua3dybV9zZzNjRVpseWR3MDV6SVVVYXp3dl9mYnJqSQ?oc=5",
-      "published_at": "2026-11-05T08:07:52Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Federal Housing: “Frankenstein taxes need Senate surgery”",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTV4cEFjMzNjS1R2T0tZQlZiVVZwckpKQzN1MVhxVm1vT0ZTcEpQYVJ6MmEtQk5SWmRqbW1KeFRrV1BQRmd3d0VVV3VDcWlZNmtGN1RZYzdnU2ltUDd3aUp2UzEtVFc3MUJpQkt6ZXVMZkVYVHBNT3JOSkJJaFh5dlMyeXl4RVZ5U0FBVlRfUkJRQnVOVU0xcHJJaWNNd1A3NHBTUzBCVQ?oc=5",
-      "published_at": "2026-11-05T04:26:46Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
+      "title": "Have your say on Canberra’s newest suburb",
+      "source": "Canberra CityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNWw2QU5RMS1PTHdQZTJTakFTamV4NkxKek14UjRlbW44RUZVNGNBTUhiWWVVcUhUU3JWbDl4ZGRLVGw3eUNmMzNJZElrelNIa1lQMTZ5bl9XSjZweDI2TlJvV2Y3N1RZSVRCSEo0LS1KbnhETFdrbHdR?oc=5",
+      "published_at": "2026-11-05T00:02:55Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
     },
     {
       "title": "Help shape the future of Canberra’s newest suburb and thousands of new homes",
