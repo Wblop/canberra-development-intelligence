@@ -1,10 +1,18 @@
 {
-  "updated_at": "2026-11-13T06:50:36Z",
+  "updated_at": "2026-11-13T19:46:13Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "First look at homes proposed for Yarralumla jewel",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/first-look-at-homes-proposed-for-yarralumla-jewel/1015665/",
+      "published_at": "2026-11-13T18:45:53Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Martini trolleys to mochi: A first look inside Melbourne’s mega new CBD food precinct",
       "source": "The Age",
@@ -217,7 +225,7 @@
       "title": "Canberra’s Newest Suburb Emerges from Ashes of Former CSIRO Site",
       "source": "The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkdyckdFMkUwM0psTjVIUy1YdS04QTc5Szg0aXVBZTJfUUxfQ0VFUllWbWxfbHNjNDNtQkFmc0JCMDhJWTZpX1ZWWDR3REZvMmZUa1ZoRnk5bm15WkgyeFI4MlVmUWJmWGVFU0lZa1NoZjl4c2diNGxtUEMyLW05eXlyR21VWG44RmtiTDJ3enFzcVRxOTdRUlYzalVQa2c?oc=5",
-      "published_at": "2026-11-10T01:28:32Z",
+      "published_at": "2026-11-10T01:28:50Z",
       "region": "Canberra",
       "topic": "Land & precincts"
     },
@@ -324,6 +332,14 @@
       "published_at": "2026-11-06T08:00:00Z",
       "region": "Australia",
       "topic": "Development"
+    },
+    {
+      "title": "An exciting opportunity to shape Canberra's next suburb",
+      "source": "Housing Industry Association | HIA",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFA5SDROWXpCNE5BdEU0V0lUOHpDWG93OVlxRHpOeWF2OVhPY2FfMDY3dExvZ3ZwaWxMV1hoUi04UHU0NW90SEZyZmVyQWNKZ3VhcjV3TEU2b3dqNmNhN082OUZtX3dkeDF4UEFENXpJZkJXUFg5bjJ3MkNpR1gxZWRlREE4WFJXWDdfbjN3dTlQaGEwNk5HTEgwTklvNFhtek9BWkV4bjQzNUw4eDk2Qm1kY3QtSlItUHEzcDJKZ2Q1YkFSMmRv?oc=5",
+      "published_at": "2026-11-06T03:49:48Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
     },
     {
       "title": "First Lots of 1000-Home South Australian Masterplan Waved Ahead",
