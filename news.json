@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T06:30:36Z",
+  "updated_at": "2026-11-14T18:09:46Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
@@ -76,6 +76,14 @@
       "published_at": "2026-11-12T04:26:43Z",
       "region": "Australia",
       "topic": "Planning & zoning"
+    },
+    {
+      "title": "Property Council backs reform of Local Government regulations",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0lJMi1QOXd3NmxMcGFwQ2xrQjItSFkzemdrWEd4VDJOc09QRzFZUFpKc0tlaUE5NDJrVnd3bVlGMmktaGcwUUpqT3VWVU5Dc1M1NWZwOGI0bFpsU3FxSVBNNG84OGY0cnRjTTFyVzlNSHlBUjdqOTNEWDRfNURSdWZDNVFtb2ZNRE5XOFVSZUNycThZbEcyU3VzYVRMZDhtZEhkQllKZEFOTFJE?oc=5",
+      "published_at": "2026-11-12T04:26:41Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "Perth’s Eight-Station Housing Precinct Overhaul Moves Ahead",
@@ -318,6 +326,14 @@
       "topic": "Development"
     },
     {
+      "title": "Rezoning paves way for 151-unit proposal on former Italian Club site",
+      "source": "Region Canberra",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGVheGF5NWFCU1gtbFlLZlpzQThwZEhpc3hVa1htSWsyaG1lWE5LRHc4eHh4alFJTnJIeUd2dTBGdzBLMHVORTN3eEpzUDFfWWt4TlBPMmlWbkZ4dXdwSDFSN2NQZF9Hekw1dEEzdFNpOEplU3dhbjczZXRhUldiS3BBWGdiTFV1WkpMS1FmeU14NjRZV2JWUzNOTkpnT2Z6?oc=5",
+      "published_at": "2026-11-06T08:00:00Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Martin Place Integrated Station Development the ‘jewel in Sydney’s crown’ and 2026 Australian Development of the Year",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSXZHNlh4Snc2cFRjOVV3c1JTWC12X1pKMkQxamNMWFZON29JNUt5UE9TYzRYMERqeFg4c1dEOUl2R1hiNWI4SW5Pb01KdUhlektfRHNlX3hoT0ZwYUt1cnFmWTh5VGpBNFBodzVFSlRhZlhNSzFBUEp0eXJvQ0FkLWNZeUxNWkM1TGdrZjlCWWt0eW05RW1pZ0ttSXF1SUEwM1RTb29XekxhZU9FQVN5WV93OXRNMU42WGVQODJ0RVlnOU1Ed21qMUE2UDdJaV9MdjNRVzE4Z1d5cnE4MVYtSGVkVHNWYzJsdzhXZjdIWGlXWVVpRkR3?oc=5",
@@ -328,7 +344,7 @@
     {
       "title": "Applications open for the 2027 Property Council of Australia Inclusive Leadership Mentoring Program",
       "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZVVBV25NN3RzN3pBUE9MQXdzbEo1VF90WnY0NEVqRHJJMlgyZnh1NHV1V3FGQWZUSFdwdmhxX0tvUmVEWmJlaFBrb1F6YnBkakt5V2NpcVpDOUdESnduUkFkV2FzNzlxLWt2V2hJbU1RTTRMcjhSOTBDYUpsaXVSWjdlQmxCNG5CZ1ZwdUk4TzJfSUJDTHc0M1ZCQVhyYmVIaWNob1dSYWp0aDlqQzg3ZUxJaGFJMFVJRVlDUU44VjZaYndEVnpsUG1OaEluWjhSTmZhT1hka1N6dTZUYlhwZ1BiUFlUVkJ4bnI4aGVkdUZFMV9aWk1LLWI1LXNQVnNJX0JlUDhR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQmQ0R0UzbEhHcW95N0JlNjNCMjVKbGt1WllWNHVoRlhrZ3IwRjlVTjdNaEpnSjlOVzBwMGxWWGRqTnV3NEh2MGtzX1lsOC1UTUNUbFlYdjE4bUlEZnVMOHpnejMxUUJzOXFzM0VrVzBOX2lndGQ0YXBNbmZiZnJKSG9tdUlBSldfRmdfN2JMZjFBbnBDcWdEbGFrVlUxZTFWTFdlaXR6QjY1eGxOVEMxUWpvQnFkanNuUlZ5VW5SYkM0b01RVUhrTzd6QlZ0OE9sVUhHcEdZcWZBMk0weG9GS1ZSVGwwWWdvU25KVFoxOEpPb0VITi04T3AzQU9hdlR5VXFQVVdBOVJXYmc?oc=5",
       "published_at": "2026-11-06T08:00:00Z",
       "region": "Australia",
       "topic": "Development"
@@ -340,22 +356,6 @@
       "published_at": "2026-11-06T03:49:48Z",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "First Lots of 1000-Home South Australian Masterplan Waved Ahead",
-      "source": "The Urban Developer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWm9CMl9ZaHk3Nmt4VHFwVkFXR2J6ejRyajlTUl9EdnhfMDUtbFgxZnhtSjFjbGdOeVNRV0pzUkdTQTJjVTFITnczT0tJNlVvVlV6YkEtczExdS0zLU82NFVnMm5PenFRZkNMTHR5QXdkNGlaZC1JdDVibER1M0pKZ3ZaYTQ1dnNZT0NQYko0VmFCUQ?oc=5",
-      "published_at": "2026-11-06T02:41:25Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Rezoning paves way for 151-unit proposal on former Italian Club site",
-      "source": "Region Canberra",
-      "url": "https://region.com.au/rezoning-paves-way-for-151-unit-proposal-on-former-italian-club-site/1013639/",
-      "published_at": "2026-11-06",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
     },
     {
       "title": "Submissions open for federal inquiry into NCA's controversial Hume Circle Precinct",
