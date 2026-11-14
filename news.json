@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:46:13Z",
+  "updated_at": "2026-11-14T06:30:36Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
@@ -20,6 +20,14 @@
       "published_at": "2026-11-13T00:58:53Z",
       "region": "Australia",
       "topic": "Land & precincts"
+    },
+    {
+      "title": "Have your say: flood-safe rezoning to unlock up to 230 homes in Murwillumbah",
+      "source": "NSW Government",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnplc3c2VzMyY1dMV3hvS0lBZEhhRFFQYURyYUNJelV1MjcxTE9jYV90ZV90UFEyMzhpeDVVVllsQTA2b1BiVi1YMmFlYXA5cm1nek9tOXhEWGdFN2ZDdUJmbnRTNDFsUWtNRXNIcVZKLXpCSW4wMm1MRWVjdE5EUmtTVkR5bm05aTc2ZXFLTW9Wb2p4ZEFyTGcwdy1idWt5WExBUTJfRzZjc1FOdFFYRWcwUEZUYVk?oc=5",
+      "published_at": "2026-11-12T23:16:50Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
     },
     {
       "title": "Rezoning could unlock 230 homes",
@@ -94,14 +102,6 @@
       "topic": "Development"
     },
     {
-      "title": "Have your say: flood-safe rezoning to unlock up to 230 homes in Murwillumbah",
-      "source": "NSW Government",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnplc3c2VzMyY1dMV3hvS0lBZEhhRFFQYURyYUNJelV1MjcxTE9jYV90ZV90UFEyMzhpeDVVVllsQTA2b1BiVi1YMmFlYXA5cm1nek9tOXhEWGdFN2ZDdUJmbnRTNDFsUWtNRXNIcVZKLXpCSW4wMm1MRWVjdE5EUmtTVkR5bm05aTc2ZXFLTW9Wb2p4ZEFyTGcwdy1idWt5WExBUTJfRzZjc1FOdFFYRWcwUEZUYVk?oc=5",
-      "published_at": "2026-11-12T00:01:22Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
@@ -142,9 +142,9 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "From Property Development to Industry Leadership: Tan Lindy's Vision for BCB Berhad",
-      "source": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RMXNaeDlpbHVsTGEzVkdnSUMta093VlFlUTB4ZFQ1Vms5SHd6UWQ0WkQzSHVjZGNxOG9SUmQtWlVldzhQRmxyLUxuMmVsLVlHczIzNkJhbEs?oc=5",
+      "title": "From Property Development to Industry Leadership: Tan Lindy’s Vision for BCB Berhad",
+      "source": "Voice of ASIA",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGtPM2R5OEZoMDM3VUpiaTJmSEY1LU1pLUMzcEV2U1c4Z0Y4TWNpbkhoUWM5VmhUdUZ0QmtJcEVuenZOR25qcEdMMzF2T2NBNnc0WDlTbkxmcW5Sa2hhV040bG8wV0M0eHZwVFBKeWlpZk9hTVp2UktKNmhyLWxtemhWVjIyQkpLVFVlbXloQ3BXWmpGTk5Ea0VYaTdHLW9iVkUtNWNFYmJFX2FfN25vOVBnUWs1SnNyVGUyYXVPYkFOMlBv?oc=5",
       "published_at": "2026-11-11T10:45:00Z",
       "region": "Australia",
       "topic": "Development"
@@ -366,6 +366,14 @@
       "topic": "Land & precincts"
     },
     {
+      "title": "ACT Regional Drought Resilience Planning Program",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlVrN2IwYVJjZTZMVFhwYk81X092Yl9xQmFpa0tGV1dMb1pJNTBkRXlDVU9GQlg0NXVXUFgzckt6YTNFWjNCdXE3WFVYLVFhc2g2ZzhSSmpub1BGN3lKUnYzWDJ3UC03ZlhPSk0zRENIRVZTYS1kU2l0STVVVXFFcWNnNFBBTDRDX3puYXh2NGJ2WE9Oa3hVY0dIa3B4TzlJZTFZLWotMA?oc=5",
+      "published_at": "2026-11-05T08:00:00Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Have your say on Canberra’s newest suburb",
       "source": "Canberra CityNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNWw2QU5RMS1PTHdQZTJTakFTamV4NkxKek14UjRlbW44RUZVNGNBTUhiWWVVcUhUU3JWbDl4ZGRLVGw3eUNmMzNJZElrelNIa1lQMTZ5bl9XSjZweDI2TlJvV2Y3N1RZSVRCSEo0LS1KbnhETFdrbHdR?oc=5",
@@ -428,14 +436,6 @@
       "published_at": "2026-10-27T07:00:00Z",
       "region": "Canberra",
       "topic": "Development"
-    },
-    {
-      "title": "ACT Regional Drought Resilience Planning Program",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlVrN2IwYVJjZTZMVFhwYk81X092Yl9xQmFpa0tGV1dMb1pJNTBkRXlDVU9GQlg0NXVXUFgzckt6YTNFWjNCdXE3WFVYLVFhc2g2ZzhSSmpub1BGN3lKUnYzWDJ3UC03ZlhPSk0zRENIRVZTYS1kU2l0STVVVXFFcWNnNFBBTDRDX3puYXh2NGJ2WE9Oa3hVY0dIa3B4TzlJZTFZLWotMA?oc=5",
-      "published_at": "2026-10-27T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
     },
     {
       "title": "Missing Middle Housing Reforms in place",
