@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-15T06:39:56Z",
+  "updated_at": "2026-11-15T18:54:21Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Cost of red tape on new ACT housing revealed as industry calls for help",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9391122/property-council-tallies-red-tape-costs-on-new-housing-in-canberra/?src=rss",
+      "published_at": "2026-11-15T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "‘Australia first’: Fury grows over proposed Little India precinct",
+      "source": "Real Estate",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFMFNtR0FjeXNFUFAxeUl3N2huX0VZa0IyRXVWU1RXYmNFNHJaYXl0QW0wdHFFbmNtMWdrRmh4RWJCc1RUWEhkVG9mSklLeTBCOE1XeS1yOEl3RVFsWmNTWWVJQ1BDeDZIWjlIVHBicndoMnRpV2ROMnVaZ2k5YmgzRDdfY0Y2RjFETkNBcHhfZGYtaVdvTF9ad01jcDQ?oc=5",
+      "published_at": "2026-11-15T17:37:23Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
     {
       "title": "Gabba Game-Changer: Gather Brisbane Lands $1.4bn Arena Precinct",
       "source": "The Urban Developer",
@@ -20,6 +36,14 @@
       "published_at": "2026-11-15T04:17:53Z",
       "region": "Australia",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "It’s Finally Happening: Brisbane’s $1.4 Billion Arena to Start Construction in January",
+      "source": "Brisbane Development",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2EyY0xrT1JfZU12OUozaFU0Sks1MjlrY0hCYWl6UUtzeTBNQjBrcXRoYmlZRUtkRk1TNjktVk1kTlRYVC1uY2YxV3ZaSlVmZC02UGh4Y1MzbHE3c1VCSjVBdGxOajFVWTdpSHNhZTU3T1ZZTUV0YmJuWFhwTDY0Q3RoTWZZRFlRQ05KR2FNMmNkUzdtRnJBRndsZVcyOWx0aTVfNFhVV2NSUdIBsgFBVV95cUxPZ3k0UFNJTERCbzFwRXVsYUI0OTZjQmQ0RUJlM25kSTEwYzA4T2NFd3F0OXc3Q0pfVDAtMWhEZ0dob2xRZFVMd2dRSVhtQVBHWXdBS216RWYyUm5SbzEtZFI4MXBDZ1Jtc2tqUzE4Z3N3blJ0YnNKNjRjdnV1TXFrNnlKd0xJWW1Rd3hYVUZMZjZtOEFIb2NKS1RsUnJLX0YzOW9ZbkNHOWZpSGVuZHlpTnB3?oc=5",
+      "published_at": "2026-11-15T03:17:21Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "Construction of $1.4b Brisbane Arena to begin within weeks. Take a look around",
@@ -68,6 +92,14 @@
       "published_at": "2026-11-12T18:24:02Z",
       "region": "Australia",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Everything you need to know about the state of Australia’s property markets in 20 charts – November 2026",
+      "source": "Property Update",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkN6RFJtQ3VLaUtjSklFc1pnS2E3X29hUmtROEtwdWtyV0xRSUJENmdkR0hpdmtPb0lRY1k5WXQxMXJYWHBFdElYOGJXdTJQcUhZT05ZcE1DR0tnYWtzN1poVVJvNmVwSkRxMTRBNTRDSTRNWHRJdmJMWUt2M3BkX1NneFdHZEcwRGh2a3JJeklwWURXUVpJU0QyTnllUVlzZmc2c05lenJseGlGOUhzcW5xNkNpQQ?oc=5",
+      "published_at": "2026-11-12T08:00:00Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "Receivers sale of Medical Freehold in Melbourne's Monash Healthcare Precinct - CBRE",
@@ -230,6 +262,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Parramatta Road Set For Major Rezoning With 573 Jobs At Stake",
+      "source": "City Hub Sydney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1ZIVTV5QWRSaGNxRFVjOGZvQnVmbU0zN2dzT2N5ZWhYSzlubnEtd19RNWg0Z3JIejFzM2tXaHphWTk2Y0lyZEJYRncxMGF6Rll1cGFvdU8wU3EyR0F6YUdhZzJYNjl6ZzFqYTBhMXJxSEJacjNJZGtOYjB2dld0emx4cDY3MDRUTVBXM3hB?oc=5",
+      "published_at": "2026-11-10T05:55:24Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Mortgagee sale brings 105-lot residential development site to market in Farley",
       "source": "Cushman & Wakefield",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWl3Vmp0alNBdkhIUjZaV1ZMNUp3Z3JyVm5LSG5NaDloX3R4NXQ2N25BUGlJWlgyWDUxUWpOQTVoSWJ3anhNVXJXQ0QxNkJEMmJwREVBcXRleEI5M0RONGwxdEw2dEh5VUxJQzZpbG9mMzBCYmx3eDhHUmd4RXBFakJnNUZYRy1MRWRHX09rb25lRWhtVXJuT09ZNjRYNmRjZ0c4RUVsWk5SRkZhNFgyeE5n?oc=5",
@@ -302,44 +342,12 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "In 1988, Queen Elizabeth II opened Sydney's Harbourside precinct — 39 years later, the Darling Harbour landmark will relaunch in 2027 with three world-famous waterfront r",
-      "source": "Secret Sydney",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNclV4dnN4Xzg3ZGdoN1FMalY3R3dxeHN2dlZpQlc4Snl3UVJuOVQ0NUo3U3NKdThkUEdCdGFHUGpoWjRRUWpVXzk4dzRKaC1tZE9CWnNsUlREazFGWmx4UURlSlBVRk5pUmN4bkp5WUs4VWUtUjV3djNiS21oOEZSWFl3WQ?oc=5",
-      "published_at": "2026-11-09T05:15:00Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Help shape Canberra's newest suburb",
       "source": "Region Canberra",
       "url": "https://region.com.au/help-shape-canberras-newest-suburb/1013939/",
       "published_at": "2026-11-09",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Pictures: Inside Adelaide Hills’ game-changer housing plan",
-      "source": "Adelaide Now",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNMUNyUVlZNzhYRnhlYmpxUXVST011SEtXZ1NualFNZk5DZk5zdHlKRjRuOEdPQWVaMEZzNTMyb2h0RGVUWnM4MUphaDloMkEybzM4b3BORjhjTFlrR2FrYjlvSGVMZzAwRjhLU3piVXRXTy1mcHFYaEpaQl9SZm10Ui1QS1pKNGlkdmx2a1B3YXBlVXBkUGFnNGZGWjVSZnBJRVE0YU5ZdWRNMGlUaFd6a3lsczk3RDNDVUZpVTkwVTE5ZWw4a0xTS3NnMFlOY25vTFZULWllZmVydDM2WTVGVnZyRGxrazF6RlpjdGdJQnhtRWFaWmRVSFdwTUh6aDF2b05URlJ1NUZPcy1BeGs4R2xIZHR4dExiUjhJc0xJMFVDOGhpTVZGS3ZiMVR1QXB1?oc=5",
-      "published_at": "2026-11-08T23:46:25Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Stockland Scraps Plans for Data Center in Sydney Logistics Precinct",
-      "source": "www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzlkYXQzeWJtSVU1Q2tKaFMzQ2JKRHFLbG5VSE5mSWROS043YnBKdU8tZ1c4aHo4cWlZS3F1eGVJSEhFNnZvRHNqRmlCbHoxRk92QXBqUkdibVF6TnQ0OWNsSno2V0tVR1pBMWRSQVBhZHRQNGxPYUg5cnE3ejlOd2dDV21YWDlYbDlpcDhwM3lKQXNIVjN4TXlNaUhrcUItWDNWUTFna29sd3JpNWg5bjFSY2s0Nk1Scy1yQQ?oc=5",
-      "published_at": "2026-11-08T23:07:17Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Fed ‘tax hikes should be a late scratching’ as Cup Day rate rise ‘stuffs the maths of new housing’",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPczdweURBSENjTTJFaHhDOTZoYThVclhuOW9TN0JfZlYwSWo0cU5XbVNXTzBGUlBUbDh5M2FWcWxGWTBCWmM1UjJIQW15UjJnVFNZdmtfNW5tek5Bc3pPSEdoSFJMNEZyaUxNWGdSdUQ1YmZlWGlJbHFnLXo1enZEeUhzNGhCNGJEUGZnNWVZU2NXT0dJd2ljTG0zWG5XSWlpQ0hVYVpSY3hmNWttZ0JvT1BlLU9ENVNGSWlPVk9QVDFWNVFoc3ltemxBT1JjRXRfSmNOYUdmSk5MUnZw?oc=5",
-      "published_at": "2026-11-07T03:05:22Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
     },
     {
       "title": "Rezoning paves way for 151-unit proposal on former Italian Club site",
@@ -422,6 +430,14 @@
       "topic": "Planning & zoning"
     },
     {
+      "title": "ACT Planning Act Changes: Easy, Essential 10-Day Lease Rules",
+      "source": "NewsCop",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6eXF3eWk4ZjNvaUVydTVkOXFqNWU1bG45eEhhOTJVNVUxbjJnZXh3NUZKYkl6QndZRkF3UkpQNHpJT1RDTFRQemNDYXktZVozMDVkODRSc3U5ZE9rVUFVR1B2MkcxQWJSLVZJ?oc=5",
+      "published_at": "2026-10-28T10:49:19Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Second tranche of construction productivity reforms pass Assembly",
       "source": "Chief Minister, Treasury and Economic Development Directorate",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVW9DLTVSX04tRFlaR0kyOExoWnlMQzBLSmtlOS1Vd3lpM0xONTZmZWRnUV9GSEJPU2EzZDk5SnhWb2NyLVVPVEJHTEVERHVSUFRTN2FKSnJhTzFxVnh4a2lEOGJ1UnVzdGk3TDRqeEkwbmRna0M3b2h2dXAzSnZ5Z3hjMHRYSkFKUWVYM2JhWXB1VmowaldjeWFSMjVwZGdmRzc1RjBDNlNlTVRnMWpmTS1BNF8zaDlFWTNVZ0liX2dGelg3amoyN2JuYXltMXV4UENMTGlLVFRKSEFseWUtMWEwT0poYnpfeHRxZE9fSi1SQWFJaXdFRE11TWlyRXU5UFFpeDB5d1BvdzZaakpRWXJR?oc=5",
@@ -500,14 +516,6 @@
       "published_at": "2026-10-20",
       "region": "Canberra",
       "topic": "Infrastructure"
-    },
-    {
-      "title": "Construction complete for new South Tuggeranong Health Centre",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaWRobWtZdlI1bzNNSlFHeXZNNVZGZExtSm9XOEdkSkJTNVhERG51dEI3TzNKbTlISFlhSVlBRTA4ek1rbEtHeW9DV2Y3NFhabVktV0NSeFVjOFFDLVBsZGN4aGN2RWlCc2ZlSVluMHZaXzNObkhVb043UXpIUlFmVmlWN1hDVC14dkhvTFhmbmNJVUpOeDFuRGxGMk9KWmd5Yy1OX21KWTk4U3AtTEpvT2tyXzdTc0hEdjBTMmo3XzZnbW9Vcy1RNnJ6azBUSWlEbjVIT2R1UHF2WXYzSW1aT0RkSURWclByNS1RcXU1VXVhaFZxd1p2SHJDdGV2VFgwWGxvNVR3OWRYeWhCRTVRMUhB?oc=5",
-      "published_at": "2026-10-14T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
     }
   ]
 }
