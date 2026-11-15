@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-11-14T18:09:46Z",
+  "updated_at": "2026-11-15T06:39:56Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
     {
+      "title": "Gabba Game-Changer: Gather Brisbane Lands $1.4bn Arena Precinct",
+      "source": "The Urban Developer",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbURXT21EY2g2d3hXQnBDMkstamw5NW11TDdtMmJnZkRvNkNYQVQxYTUzemZUUjBGaGFGQ3BLUDBGbW1uT0wyNlBWLWwydzc2ZWUwOWJJTzloa1JvNnlCOXVLeml0US10M2tIOUh1RlVlZWx5Sk5zRVVlVHptNjRka2xSWlRaT0ttc3RjM3pEUFBTY1lsbkN3WlA0dnV2UmhvaGNCQTV1VDlhc0k?oc=5",
+      "published_at": "2026-11-15T05:58:15Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "$1.4 Billion Indoor Arena & Residential Precinct – Woolloongabba",
+      "source": "Your Neighbourhood",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGlSakNlM1QtWHJuY3F3dlBMcVNHdmF4cnc4Z1hMakV0Mjk4TkkxWkw1U2lSUVZNYnZMcGdOSlBKZUp2NXplVk1hc1ZvYkhzeE5NaE9wZmhDaXAxVTJQTEhuQUlWTm9HSzNOdzNsTnI0T25MTXAyMTExUUpZbE5tbmVRbDFoOGIyRWl3VEhzNXRWSjdJS2IxVQ?oc=5",
+      "published_at": "2026-11-15T04:17:53Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Construction of $1.4b Brisbane Arena to begin within weeks. Take a look around",
+      "source": "SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHlDdzg5U3ZDTGI2bXRPRWh3dlhjcHdhWmhSZU1OM0hqcWlpOGhUWTN6ekk4TFpvQ1E1eVlTVVVpdmE3am5sdXZ0MEVOejJCN2Y0TWl6VWhmY3lSQ2xWZmlTVEpTaHhoSFlXNk1nV2xWeXpMSHY2bWZnLVhzXzBwUFhHY3lQUTVPTmZlclRRci1FZ0c5VkJMVFAwOEZvU1lJRWtxeHF1LUFTaV92VUZ1b0gwaTFYMWR2MFBhSTlPNS16bks3WnpzXzMtQzN5WS1UUGhqTkY2OA?oc=5",
+      "published_at": "2026-11-15T01:40:53Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
       "title": "First look at homes proposed for Yarralumla jewel",
       "source": "Region Canberra",
-      "url": "https://region.com.au/first-look-at-homes-proposed-for-yarralumla-jewel/1015665/",
-      "published_at": "2026-11-13T18:45:53Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSzFMY212VGdSRm5xbng5a1JlYXdUc0gyS0RKU0d2X1BvanNpU085cUpVczNNd2tiTmhhNWliN2c2Z183ckN6SFhBeHdjbFlKSWdLNW9CY2trUlFvcWhKZnJqdVEzX29jRjJWWmI3QjZ4Y196Z1JjZXg3VGd6ZHk1U1I4VTRjSGs?oc=5",
+      "published_at": "2026-11-13T19:01:48Z",
       "region": "Canberra",
       "topic": "Housing & residential"
     },
@@ -318,36 +342,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "NSW property industry dominates national innovation & excellence awards",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUZ3TTFubjBuQTd0SnZVQXJJbmRfMnc0THNRaUlsRUx6X2otT2dvNFBQb05rdWRMak5JSEFwZVJQYTJWckdMYXcyRVhSUDdYQkE2SGVyLThsN0tjVnMwOWZWbHJIQkFZWEdpM19KbmpfRXFjTk4xb3d6bF83Uk1GRGNDWHllSy16bHYybkl3UlJqRDBwSjdTRnl0VzlTQkcybUg1MF9NZFExcDluMUhSLWlVS19rQXFXZk93?oc=5",
-      "published_at": "2026-11-06T13:13:31Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
       "title": "Rezoning paves way for 151-unit proposal on former Italian Club site",
       "source": "Region Canberra",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGVheGF5NWFCU1gtbFlLZlpzQThwZEhpc3hVa1htSWsyaG1lWE5LRHc4eHh4alFJTnJIeUd2dTBGdzBLMHVORTN3eEpzUDFfWWt4TlBPMmlWbkZ4dXdwSDFSN2NQZF9Hekw1dEEzdFNpOEplU3dhbjczZXRhUldiS3BBWGdiTFV1WkpMS1FmeU14NjRZV2JWUzNOTkpnT2Z6?oc=5",
       "published_at": "2026-11-06T08:00:00Z",
       "region": "Canberra",
       "topic": "Planning & zoning"
-    },
-    {
-      "title": "Martin Place Integrated Station Development the ‘jewel in Sydney’s crown’ and 2026 Australian Development of the Year",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSXZHNlh4Snc2cFRjOVV3c1JTWC12X1pKMkQxamNMWFZON29JNUt5UE9TYzRYMERqeFg4c1dEOUl2R1hiNWI4SW5Pb01KdUhlektfRHNlX3hoT0ZwYUt1cnFmWTh5VGpBNFBodzVFSlRhZlhNSzFBUEp0eXJvQ0FkLWNZeUxNWkM1TGdrZjlCWWt0eW05RW1pZ0ttSXF1SUEwM1RTb29XekxhZU9FQVN5WV93OXRNMU42WGVQODJ0RVlnOU1Ed21qMUE2UDdJaV9MdjNRVzE4Z1d5cnE4MVYtSGVkVHNWYzJsdzhXZjdIWGlXWVVpRkR3?oc=5",
-      "published_at": "2026-11-06T08:00:00Z",
-      "region": "Australia",
-      "topic": "Infrastructure"
-    },
-    {
-      "title": "Applications open for the 2027 Property Council of Australia Inclusive Leadership Mentoring Program",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOQmQ0R0UzbEhHcW95N0JlNjNCMjVKbGt1WllWNHVoRlhrZ3IwRjlVTjdNaEpnSjlOVzBwMGxWWGRqTnV3NEh2MGtzX1lsOC1UTUNUbFlYdjE4bUlEZnVMOHpnejMxUUJzOXFzM0VrVzBOX2lndGQ0YXBNbmZiZnJKSG9tdUlBSldfRmdfN2JMZjFBbnBDcWdEbGFrVlUxZTFWTFdlaXR6QjY1eGxOVEMxUWpvQnFkanNuUlZ5VW5SYkM0b01RVUhrTzd6QlZ0OE9sVUhHcEdZcWZBMk0weG9GS1ZSVGwwWWdvU25KVFoxOEpPb0VITi04T3AzQU9hdlR5VXFQVVdBOVJXYmc?oc=5",
-      "published_at": "2026-11-06T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "An exciting opportunity to shape Canberra's next suburb",
@@ -377,7 +377,7 @@
       "title": "Have your say on Canberra’s newest suburb",
       "source": "Canberra CityNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNWw2QU5RMS1PTHdQZTJTakFTamV4NkxKek14UjRlbW44RUZVNGNBTUhiWWVVcUhUU3JWbDl4ZGRLVGw3eUNmMzNJZElrelNIa1lQMTZ5bl9XSjZweDI2TlJvV2Y3N1RZSVRCSEo0LS1KbnhETFdrbHdR?oc=5",
-      "published_at": "2026-11-05T00:02:55Z",
+      "published_at": "2026-11-05T08:00:00Z",
       "region": "Canberra",
       "topic": "Land & precincts"
     },
@@ -404,6 +404,14 @@
       "published_at": "2026-11-02T08:00:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "City Construction Update",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMkt2bFM2bjZHTXZzTXJoQzdmNFpZUUNPblpfTV8wWExtRk9FcmpyTDVjYzdDSUp5UXRPQmlOWHRzenIyUXZyM3FWUDk3azg0S3hqZVp4Tmo1SF9uMkZnWlBtdVVvYXFnT1VKRzdBTGdyUnlad0g1X3J1VFZqUjJwUW1RT0ExRWJkU2t4Q0FFaWloQ2NiR2NBZkltYmhxdkFHQm9JdG1VY2F6aFQ5TmthVWEyS18?oc=5",
+      "published_at": "2026-11-01T07:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
     },
     {
       "title": "Is the urban growth boundary pushing up house prices? We're going to find out",
