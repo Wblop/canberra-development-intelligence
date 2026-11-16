@@ -1,10 +1,58 @@
 {
-  "updated_at": "2026-11-16T06:37:30Z",
+  "updated_at": "2026-11-16T22:10:17Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 8,
+  "feeds_ok": 7,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Gungahlin Town Centre East land release delayed by two years",
+      "source": "Canberra Daily",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkVhUzRXbTM1alF2elBxR0NTZnFPTFlIeDVna0NJd3AwX1BhdFEwcHlSWmt3QzN6MlBneDBrOHVhUzBkeUxwc2NkLUZfbENxU010YmhaTlM0dkpPUjFWb2Y4ZDQwY0FNcXdteWY5cVZHMGkyR2dHb3kyRWRaeFA3LWV4N3RTZHFTY295SlZ2VXZCWV9u?oc=5",
+      "published_at": "2026-11-16T21:48:01Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "'Surprised by this lack of consultation': Hackett residents demand more time to reply on development",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckJWUWh0RXVkcVowUUpXaVcxbXAwdFpSTTJsSlZmX3RwWmZINFV5dDNQb0MzajVmeEJ4YXhvbU5tOG5rSDltYTZOUmpZTF9ESmloX3Nxcm5oUllENEkxaWFpdTQzQ2FEUno5ZUdMdHFveDZvSFd5Z3F3M3RFVlRVUlRZRGx4R3J1T20zN3BfcV9relRoc01DQWsxMVNoc3FxSkdPTDVEcy04Z0k?oc=5",
+      "published_at": "2026-11-16T18:37:29Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "Restoration of one of Braddon's oldest buildings set to start as apartment plans revised",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9392549/braddons-coggans-bakery-revamp-to-begin-amid-tower-changes/?src=rss",
+      "published_at": "2026-11-16T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "'Community should have a say': suburb blindsided by housing proposal",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9391292/hackett-community-association-queries-lack-of-housing-talks/?src=rss",
+      "published_at": "2026-11-16T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "The plug-in balcony tech that could end high apartment power bills",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9392636/the-plug-in-balcony-tech-that-could-end-high-apartment-power-bills/?src=rss",
+      "published_at": "2026-11-16T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Albanese’s housing miracle makes homes unaffordable and unbuildable",
+      "source": "The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmN0TUhPMkRleVBMZENWNkZqeE1jTGJhVnZmTF9ZWFJ3c00tTHZBcFhNSHdSc3g1YXZBV2FIWVFMVmxnUno2QkpWUnM2SW9PZkFoTFMzTUR2OUE5M1dEd0txOW43VUxTS0Z3R00xejZkeXhqNWFTeHoyMHltcUlzdjRPUnoxVzVXY1dVMEpBTWJqVWJSck16TmdXT3dGX3AtbkRCVFJwQUE3R3NSeTlHM0ZxelBCcWdCSVlVOVFDSkE2M2ozVEM4TFRIU0xZcVpValZ2Vk9ybjQzb2xQSENhSjkzaW5DeDF5UEs2N096VDIzT053Z3g1VzVqdXNMZw?oc=5",
+      "published_at": "2026-11-16T14:53:09Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Vision of new Brisbane Gabba arena and housing precinct unveiled",
       "source": "ArchitectureAu",
@@ -30,6 +78,14 @@
       "topic": "Development"
     },
     {
+      "title": "New research puts a price on the cost of delivering Canberra homes",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1VoVllHcEtRVXg2cW92cE5XT2M2N21JSGJTU0d6REZfVzdsdzRQTThWYnk1U0I0ZC1UZ0pHMVNVbkdybi0yUnFVcGphdExmaWU1OUpGOHkyMUxCWnRxQ0hhb0pmckFmMlV2R3ZFd2ZuNk9PR0U0c1lkWW1hNlpOZ2tydDdhZHZQR2E2YkljRGRiY3N1VHluYnBMamMwSUtqUm95RU9nZkRMUjNzSnRuUlpQTEdVRDg?oc=5",
+      "published_at": "2026-11-16T02:12:46Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "Gather Brisbane consortium to deliver Gabba Entertainment and Housing Precinct",
       "source": "Inside State Government",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelh2a0Jzd3ZZY2RTeWQwXzNGaks3R1NSeTBhclM5ckRaMlY5S2tKX0FWTGdra2NXWWYycmFjb0NadnJqbUM1Q0J0b2d1OXAtYkV3djBzeEFlWEpybnNiZzlKTS1pRm5FVkdKOWRSak1WQUJGYmVHY3dkRnB1ZE9LM1pWWkZDWm9LUkt6SnNvbGQ3MTdpT1VHR2FQNkRqZ3A5NmZWaGJ1THlQVk1LaFF0b0tRRUMxb01tMnZtOQ?oc=5",
@@ -38,12 +94,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "New research puts a price on the cost of delivering Canberra homes",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1VoVllHcEtRVXg2cW92cE5XT2M2N21JSGJTU0d6REZfVzdsdzRQTThWYnk1U0I0ZC1UZ0pHMVNVbkdybi0yUnFVcGphdExmaWU1OUpGOHkyMUxCWnRxQ0hhb0pmckFmMlV2R3ZFd2ZuNk9PR0U0c1lkWW1hNlpOZ2tydDdhZHZQR2E2YkljRGRiY3N1VHluYnBMamMwSUtqUm95RU9nZkRMUjNzSnRuUlpQTEdVRDg?oc=5",
-      "published_at": "2026-11-16T01:12:27Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
+      "title": "Infrastructure options revealed as towers loom for Miranda and Sutherland",
+      "source": "St George & Sutherland Shire Leader",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTViekJwV1MtMUNROUcyNU44em5tYUgwSDEyZktMMGFjNzJRRGppTW5WSUdqNnI5bG42ZTlKelRQSnY3Smh5RnduMFBLUmxuZmJNQm9kMGlPbHlXSzRMSTRweHoxbWo1N3hmVGYtWGw5SWRlSDBvSXUwYkV0cnZVME45M0lOOTdhT2xwOTNHUXNmdDlwRnhNNkZrUnp0NmMySkdkTVFEZw?oc=5",
+      "published_at": "2026-11-16T00:39:37Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
     },
     {
       "title": "$1b Western Sydney Food Logistics Precinct opens",
@@ -52,14 +108,6 @@
       "published_at": "2026-11-15T23:19:41Z",
       "region": "Australia",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Albanese’s housing miracle makes homes unaffordable and unbuildable",
-      "source": "The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmN0TUhPMkRleVBMZENWNkZqeE1jTGJhVnZmTF9ZWFJ3c00tTHZBcFhNSHdSc3g1YXZBV2FIWVFMVmxnUno2QkpWUnM2SW9PZkFoTFMzTUR2OUE5M1dEd0txOW43VUxTS0Z3R00xejZkeXhqNWFTeHoyMHltcUlzdjRPUnoxVzVXY1dVMEpBTWJqVWJSck16TmdXT3dGX3AtbkRCVFJwQUE3R3NSeTlHM0ZxelBCcWdCSVlVOVFDSkE2M2ozVEM4TFRIU0xZcVpValZ2Vk9ybjQzb2xQSENhSjkzaW5DeDF5UEs2N096VDIzT053Z3g1VzVqdXNMZw?oc=5",
-      "published_at": "2026-11-15T22:44:13Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
     },
     {
       "title": "Cost of red tape on new ACT housing revealed as industry calls for help",
@@ -172,6 +220,14 @@
       "published_at": "2026-11-12T07:34:03Z",
       "region": "Australia",
       "topic": "Land & precincts"
+    },
+    {
+      "title": "Big bank spells out major housing construction drought",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWJqTkRTdUpVZmlLSktqbWFqQ1kzd3hCTndBaTRydmZpNmtBMzd2Ni04cG55M2ZtdFpKcDFSeU5meVdOWGJ4ajB4c3Z2QzNFZ210SE5VaXN1bDZCRVpNeTg4UUFSS1RXZmN0Tzc4M2VYdFdsaDRjRlkyQlU4QjNnaXdtUk1kU0IzRkphUE05QkdGdlpuNkdZX05rTHZtN3YxRDcySA?oc=5",
+      "published_at": "2026-11-12T06:35:24Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
     },
     {
       "title": "Migration up; housing down",
@@ -326,14 +382,6 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Parramatta Road Set For Major Rezoning With 573 Jobs At Stake",
-      "source": "City Hub Sydney",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1ZIVTV5QWRSaGNxRFVjOGZvQnVmbU0zN2dzT2N5ZWhYSzlubnEtd19RNWg0Z3JIejFzM2tXaHphWTk2Y0lyZEJYRncxMGF6Rll1cGFvdU8wU3EyR0F6YUdhZzJYNjl6ZzFqYTBhMXJxSEJacjNJZGtOYjB2dld0emx4cDY3MDRUTVBXM3hB?oc=5",
-      "published_at": "2026-11-10T05:55:24Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Major infrastructure pipeline to drive visitor economy growth",
       "source": "Chief Minister, Treasury and Economic Development Directorate",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOHpMMkRWdVdXbFVzVEZ4RG50NDMweXBfdXVkSE82WjQ4TkhNdWtMUXJaclpMc2ljZC1JbUc1b3o3cGo2dHpwVlR0SFg4T2pPTF9NVnZtcHdqbTBkWDljcnp3eVB2d1pqR1Bfc0l6cm9TV2hTaG9NN3ozNEtuaktNSF9LQjlzMkhJbVFMLWJ4d2FWU3Z3bUJRV095VzY5WjhPWlowdFRMUXhBd3U2bFV3YWo3eHlmdHN1REpYTl93QzNndDN1dm9iZFFVTFhLX2xaRVhub2NicFNOQjVrNXVUYjVtazR2b1BYVmc?oc=5",
@@ -422,6 +470,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "9. Inquiry into Specialist Disability Accommodation service delivery through Housing ACT",
+      "source": "ACT Legislative Assembly",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPVjBFNUtkbEdtNS05UWZqQ2U2ZFdab3R1MXJSZS1tZU5JeFQ2Szg2czFQblZ5N21QSmV4VUU4MGU2ZFhrSF9KaFl3QmhZYTMybjZYTWhiSUJZQTBKWVQ3anQ2OHhQWlFVdmVfXzRQdkVKYWI4SWRQOEFMcXp2UFQwY0Y5YUhGejJCUVV5V3Y4OU5zVlJxR0ZTcWM1cTVRZENGSkVwc2xFamRQblJGZkU5QS10LWtnZEJrcXh1TXRlRzdrN2V6UjZLb3RBZDBUcElJbnBhRXE2ZF93bGdsOGUxLTBGQXo4SlpRelV1N0dFOEJ5VXJyWGRvSW5OMlRzV0hycW1HcTZRRU5nU3N5LVZleUphY2tJalkwemp0ZW5WUFRvYjdiX3VzOWEzSkNSVnkwQmdKakNTVmZXVkFT?oc=5",
+      "published_at": "2026-11-03T08:00:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "ACT’s ‘Govie’ Homes Reprised in National Pattern Book Competition",
       "source": "The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGZTYWs5RmxWQU5saWFVZnVEX0Z2Nk43VVRMdmJoWU85V0twcFc2bG5iN0h2TzhCRlRiZ3ZsdDZGOExHaFNZNU5NRk1qOXBNdmVwVW90bUVtN2h6RWdBOFNfeFc2RFVOMUNRRXd2c3BsRWJDN2sxak9CM3FFZTJMeTlFRDk1aXFWU2dPaXd0UmVUeFRHMUVfUFpob3N3NmZzYU1wNG0zNDZwV202al8way1FcndlUnJuRGlVME5TYTU?oc=5",
@@ -460,62 +516,6 @@
       "published_at": "2026-10-28T07:00:00Z",
       "region": "Canberra",
       "topic": "Development"
-    },
-    {
-      "title": "EOI invites missing middle housing designs for Canberra House Pattern Book",
-      "source": "ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazJObTl4cjdpdjRnR0Z1dGFNWmItVWR6WnFPVXVwbC1TYU95QXpfaXNhd3JmT3BWTDNxVnpVXzh3a1JOTFRmYndqa2VlZER4MTd1YTdpZVI5aVN6ME1UdE9zSVdObVlyVHo1dE9reUwxX1BMajRqMzVDWEJoelVOUFdvaGUwYi1rdFlJTGMyUHlCWURMSXRuTmxRcUJiS1JrNzZfMEtkaVNIcUpGeE1zbw?oc=5",
-      "published_at": "2026-10-28T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Construction begins on the ACT’s new Materials Recovery Facility",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEYzLVVnRUJNdGthbHRNc2RKeVZfOTRHTkREZ1ZlQlFyOUpZYllYc0EySUZWcGpLaTFUV3prZ3F0ZTJ5OWxFSGw3RkIzaVV0RXd2by1wTDBfWk55elRzS2RKaldUX0twU1NCbkdhR2wwQlBjZjNRQllMVTJOaFlkQno1OFBaNUd5S3ZfdjV2U0tsV3J2RHhZalN4b2VIZlZzbkxoNXBOUTlaZTdjb19wZlE3RzIzMWRXOUxjbWl6SnVoUQ?oc=5",
-      "published_at": "2026-10-27T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
-    },
-    {
-      "title": "Missing Middle Housing Reforms in place",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2o3MWE1Ui1yLXJ6NmJkTWhoa3FVQ3E2dmpaWVZIcGtTRWtTVm41eXNIRFRkalczVFBMLVNSMmZlZmRXaUlfcEc5Q2prRWRJdlZsZTZ2QjdDeTZLTzdvVE5ReTM3R05qekhiTnRhODZTeGhKU3JIWi1JeDhKNFBRZWFxNlEtUFJvb0RCRVMyV0wwVGFVSW1ZUTBQbzVMSklkN1E?oc=5",
-      "published_at": "2026-10-27T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Construction begins on Canberra's new recycling facility",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ3pFV2oyOXpUVEtzVnh2SE40UmlTY3NaRlZEOWJnc0ZHLUtyRERvRi1naUpPZk5hNEszMnB0M3hvTnlSOTNaR2hrb0YtNEpvekpsTF9iaEhVT2NGb21ia2p1Z01nRjZEQVJIOVNKbFBPaTQ4cTk3THEydmZqVGs4dHlKZTFHLUt1c0s0QWZJN3dUV2JsV3dlcmVaR2JoWnAxLXRiWVpIN01fek9maXd6aWNFaTdGZWRacm1YOEVuSmhpemloNkEtc2Y2TGNkZlNyVjU4ZGZDTFgxY21PSHdCRzNad1Y?oc=5",
-      "published_at": "2026-10-26T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
-    },
-    {
-      "title": "Pattern book design competition to deliver more homes across Canberra",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb09Ub084VWlRN1dKRjlGRnJMV09PZHczZDJlVFNFRWs5WmMzaEl0TU81eklxRDFwQnV4RU1nRFo2UE9mblQ3LWtfVjVOYk9NT0h6Y1FiWVF6VEtnOGplbGhkY0tjbHZPM2ZFLVRBZFNSbVo0X2Y3bzhzbVpjQVA5TFVnbFk2SU9SSVhFZ1FYMEUxT1RGZkFEZlc5NUxkcTRBMGpFS1hPYTRCUWNGTEF2XzU5VlN0UTF0NFc1R0Z6cGhZT2ZCWWU3eThseTlaMlNFQ21HZmNRRllVVGNRY3ZzTlFqWVFBMy1OQTBjLWZvYjZDMER2UkFjSEpNU0dzUWNUZi1IMmxPelBWWmsxdmk5Ty1FcDlnTlk?oc=5",
-      "published_at": "2026-10-26T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Canberra Calls for Designs to Help Unlock More Housing Choices",
-      "source": "Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1NWZnBWVGlwQjBHbUxUZ3VlYjFPVkxxQkdYa0pEN2RmeHEtdThLR2ZDWDJaM2lsN3lHWllPbkJYUjladzRpcE1DQkE5cUpEWTBkZXY3S1M2YW13ZEhOblhaWXc5NkNFNlZzcTQzelpkYU05X1pEaXYyT3BlNWZSLWotLUlhTTZIMVdoZVZKbnpydkkyOU9qck4tcFpGRFE?oc=5",
-      "published_at": "2026-10-26T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Precinct Proposal for Canberra Tradies Club Clears First Hurdle",
-      "source": "The Urban Developer",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3lRbFhPUm5UcVlfVnR4dzNXWUstUloyYlJxa3piUXJkb1pjMjk1aFVnZXZYSUdOdGQ3cWRvZ1lqSEl5UHNUNS16RG9heTRpR2llWGQ5TW9IUjRDaVUzTUNNdlVvZUtFYldPYnEzcU5ycUpOYkM3UVJWSENWbjdLOExjQWNKOWNtbVY5bnNrSFUtc2xTekhjdkYxMnlHNzlBZFozX3YteFdRNHc?oc=5",
-      "published_at": "2026-10-23T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
     }
   ]
 }
