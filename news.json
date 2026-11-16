@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-11-15T18:54:21Z",
+  "updated_at": "2026-11-16T06:37:30Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Vision of new Brisbane Gabba arena and housing precinct unveiled",
+      "source": "ArchitectureAu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEx0VnZJdGdzSU5WWl9fYUZFVWFOdjU0YklOdlprdk44WEltdE4tTlhxR3dlWWd2U3djVFJEMUlEcU5rZm1TNTRTMEtUNE5NSnhxNVllU2Y0bnA5ck5acThLQlV2NHJfejNyaHotVUVZQWpCc2c1S1FOVU5WbWVXZlFVMkwyYU9lSU95V3FQX3dEUHJHSkpGYWg5TW1heG1KY0dn?oc=5",
+      "published_at": "2026-11-16T05:38:48Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Greek Orthodox Archdiocese's $180M Northcote 'CHORA' Precinct Approved",
+      "source": "Greek City Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUVsaUtRYUtkVEl2cVZianNtWUpON0I5Sll6TkpOU3ZMbHJOZEtSWTZNbkUyWndaZVRkOVlOYkpMdWwtLUdtd1FfWEw0THFFMlVqcXlrSnJ5V05SSm1qSC1lQWNxQndKMGc0TUxMS0FYWV9UU3ZMS0ZjeEJlYlNNUmw2R0RsNF94azJ5UGdtWnBYeTRVX2R6VjljMVNubVlsdlB4QmNn?oc=5",
+      "published_at": "2026-11-16T04:15:03Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "The Cost of Building Canberra",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1lHTnpqelMxaTJhcmEwdFdaNHhvRERUS1U1T1BLUTZDLWQwVm5QWUJ6NkJyNVZkcnlwejh4MEFDZlZKQTNKaVB3MHdrMjRSdTZzN3VBWW1BV0Fxa3pLSkJEUUxwaDcyTlgxVGZTenRyc0pZbkdTR3B6ajB0d0IwSFFB?oc=5",
+      "published_at": "2026-11-16T02:13:41Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "Gather Brisbane consortium to deliver Gabba Entertainment and Housing Precinct",
+      "source": "Inside State Government",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelh2a0Jzd3ZZY2RTeWQwXzNGaks3R1NSeTBhclM5ckRaMlY5S2tKX0FWTGdra2NXWWYycmFjb0NadnJqbUM1Q0J0b2d1OXAtYkV3djBzeEFlWEpybnNiZzlKTS1pRm5FVkdKOWRSak1WQUJGYmVHY3dkRnB1ZE9LM1pWWkZDWm9LUkt6SnNvbGQ3MTdpT1VHR2FQNkRqZ3A5NmZWaGJ1THlQVk1LaFF0b0tRRUMxb01tMnZtOQ?oc=5",
+      "published_at": "2026-11-16T01:13:00Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "New research puts a price on the cost of delivering Canberra homes",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1VoVllHcEtRVXg2cW92cE5XT2M2N21JSGJTU0d6REZfVzdsdzRQTThWYnk1U0I0ZC1UZ0pHMVNVbkdybi0yUnFVcGphdExmaWU1OUpGOHkyMUxCWnRxQ0hhb0pmckFmMlV2R3ZFd2ZuNk9PR0U0c1lkWW1hNlpOZ2tydDdhZHZQR2E2YkljRGRiY3N1VHluYnBMamMwSUtqUm95RU9nZkRMUjNzSnRuUlpQTEdVRDg?oc=5",
+      "published_at": "2026-11-16T01:12:27Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "$1b Western Sydney Food Logistics Precinct opens",
+      "source": "Food & Beverage Industry News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUtrekJmYTBPa1R4ekxyRHlwMnpXNENUTy1QdXl6OFlFUGVhUVdvX3hHVFlfWE93dzA0T1dZSlRfTXh1MUp5UW1kT3ZXYUl2Ym5mV2lXcV9PNi1xd0JaNUZ6NUZmR0haajROSEpvd18wQ01Md3Vkb3pyejVFZGVuVA?oc=5",
+      "published_at": "2026-11-15T23:19:41Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Albanese’s housing miracle makes homes unaffordable and unbuildable",
+      "source": "The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmN0TUhPMkRleVBMZENWNkZqeE1jTGJhVnZmTF9ZWFJ3c00tTHZBcFhNSHdSc3g1YXZBV2FIWVFMVmxnUno2QkpWUnM2SW9PZkFoTFMzTUR2OUE5M1dEd0txOW43VUxTS0Z3R00xejZkeXhqNWFTeHoyMHltcUlzdjRPUnoxVzVXY1dVMEpBTWJqVWJSck16TmdXT3dGX3AtbkRCVFJwQUE3R3NSeTlHM0ZxelBCcWdCSVlVOVFDSkE2M2ozVEM4TFRIU0xZcVpValZ2Vk9ybjQzb2xQSENhSjkzaW5DeDF5UEs2N096VDIzT053Z3g1VzVqdXNMZw?oc=5",
+      "published_at": "2026-11-15T22:44:13Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Cost of red tape on new ACT housing revealed as industry calls for help",
       "source": "The Canberra Times",
@@ -60,6 +116,14 @@
       "published_at": "2026-11-13T19:01:48Z",
       "region": "Canberra",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Bathla’s Rouse Hill Precinct Tops Listings as Assets Come to Market",
+      "source": "The Urban Developer",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmptN2V4TWdQZUxuallYaWpHTk84WWotaGpCTjlrb2xhdEtFVkVyUEJqV2VleE1keDZ6Z1JpWHMyQ1BFMF81Q1JpRmJCclZVdjF1WkpPSkhOTlBDdUF3YXplMDZYWTRZeG5wOEtHdWV0U3hDTm81ZjhtbjBCY2R0NnVyM3JQdW51RGd2U1dtMVRtUFdwcHZndUFsRnBWUG1XZ3NIeFlSQUJndzlJZUtF?oc=5",
+      "published_at": "2026-11-13T04:12:09Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
     },
     {
       "title": "Martini trolleys to mochi: A first look inside Melbourne’s mega new CBD food precinct",
@@ -270,22 +334,6 @@
       "topic": "Planning & zoning"
     },
     {
-      "title": "Mortgagee sale brings 105-lot residential development site to market in Farley",
-      "source": "Cushman & Wakefield",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWl3Vmp0alNBdkhIUjZaV1ZMNUp3Z3JyVm5LSG5NaDloX3R4NXQ2N25BUGlJWlgyWDUxUWpOQTVoSWJ3anhNVXJXQ0QxNkJEMmJwREVBcXRleEI5M0RONGwxdEw2dEh5VUxJQzZpbG9mMzBCYmx3eDhHUmd4RXBFakJnNUZYRy1MRWRHX09rb25lRWhtVXJuT09ZNjRYNmRjZ0c4RUVsWk5SRkZhNFgyeE5n?oc=5",
-      "published_at": "2026-11-10T05:50:58Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "More homes proposed for entertainment precinct in 'tall over sprawl' plan",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWVNV3lNTFh6Mzl2cjZEYTlPNTJYREJBNmJPYWI2b0RaWVBaTmN4Uk1jdFgtQWhNYkFabFNhTGFRakdLQlNPRFY4X09lZEc4ZXJwMmlxYl8wY1lNVk9tN2kwWHctckU3QWRkTmhyQ1J3dDdtV3pENjl6WERqLTVFUUlKY0dyUEt0WTdVZUE0LThDOFZUbXV3Mm1ESVpLUnM?oc=5",
-      "published_at": "2026-11-10T05:28:14Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Major infrastructure pipeline to drive visitor economy growth",
       "source": "Chief Minister, Treasury and Economic Development Directorate",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOHpMMkRWdVdXbFVzVEZ4RG50NDMweXBfdXVkSE82WjQ4TkhNdWtMUXJaclpMc2ljZC1JbUc1b3o3cGo2dHpwVlR0SFg4T2pPTF9NVnZtcHdqbTBkWDljcnp3eVB2d1pqR1Bfc0l6cm9TV2hTaG9NN3ozNEtuaktNSF9LQjlzMkhJbVFMLWJ4d2FWU3Z3bUJRV095VzY5WjhPWlowdFRMUXhBd3U2bFV3YWo3eHlmdHN1REpYTl93QzNndDN1dm9iZFFVTFhLX2xaRVhub2NicFNOQjVrNXVUYjVtazR2b1BYVmc?oc=5",
@@ -302,43 +350,11 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "Five Dock’s New Look: Inside The Precinct Reshaping Sydney’s Inner West",
-      "source": "Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEh0MEZGcFcxRHY4eC1ROEZELTRiSUI0akJxY05XWXhOSml4Z1VVQ0djWkhiUk1IeUxUX3ZBX1dlT2ZEMHFYZ2xRaHFxWXJlX3ZQMHZKTm9nSWVIakJxb09id2JDRHlvVzlKT3FMRU4waUdXN0N5bVhRa2FlZHNTQWVWWVFabFZkOG9mT0F2Qy1JYWREOFJPTnRvbHo3ekV1U1FRTV9oRQ?oc=5",
-      "published_at": "2026-11-10T00:15:06Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "NSW cuts seniors housing approvals to nine months",
-      "source": "The Weekly Source",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnMyZ2Q0aGVlZXphc1VvajFyVG1TN2JPSGZTYkhqVUNPXzUyNUhZTW1JaW5OUzRwSWNSWDhna1J5R0piMGs3bVUyVF9rQ1EyUmpnM1FVaVlrakI1ZlFzekNYZVdKX01rZC12SjVkd1hXV0xnUUVhdDFiTncxTmtnTGFObzV0U2JYeE5fYTdn?oc=5",
-      "published_at": "2026-11-10T00:06:24Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Tourism coup as Liangis family secures Hilton for its grand Manuka hotel development",
       "source": "Region Canberra",
       "url": "https://region.com.au/tourism-coup-as-liangis-family-secures-hilton-for-its-grand-manuka-hotel-development/1014575/",
       "published_at": "2026-11-10",
       "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Thousands of new homes proposed for Brisbane's entertainment precinct",
-      "source": "ABC News",
-      "url": "https://www.abc.net.au/news/2026-11-10/qld-fortitude-valley-development-tall-over-sprawl/107367058",
-      "published_at": "2026-11-10",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Aged Care to Arts Precinct in $180m North-East Melbourne Makeover",
-      "source": "The Urban Developer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclR1TUFJV25pMVlLRGp1ZWlHNGRFUzZzX0U5NWxza0JMbkRyazc0U21XcTVUOHRkdHBfclZobUxtaVIzXzJucnpLLTFtMTNuNXA5VHhrUFM4S2tsRU9vOHdZbmVfU0JrVENkeWREcGVuRzJBUlkxanYxcnZkU01aUXFSMTV6dDlsamdlZDg4bWFQQnNJU1R3eWZIOEstSWtPaFFCNjQwUDFpNXZITHMzOGIzd1BUZTRE?oc=5",
-      "published_at": "2026-11-09T09:21:37Z",
-      "region": "Australia",
       "topic": "Land & precincts"
     },
     {
@@ -500,22 +516,6 @@
       "published_at": "2026-10-23T07:00:00Z",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Quicker and easier - Planning Act changes pass Assembly",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU3phclhzUkdrVjlLbXN1akpPV2FRdWt0SGtWYVFNbFdxUWFhbmdKdWw0TjJDcHZVQmViS0lFTW5RQWJmUEtTZFZKOFFJUVdBdEpXZlp2eXVvRDN5XzZPUWRYS1Nqcnp1YzNZRmliTUpyc3RDZ2xIaTFvbkljX0N4R1NiQXlDRFlMSVpfTDZJdFBYeUdYYkE1eHQ4c3A0NFh0UERLWmxVUWNFRmJzWmU0RzFMRjNiUnJNQjc0NFZrLW9TYTV0UkhYYlA3SDA1bVVOUzVWWG9ySWx2dGlpSi1IaWZDQm5kaVRKUGc5Y2VXSnZEakFCZm5UaXNxSE5jMmdmQUE?oc=5",
-      "published_at": "2026-10-21T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Delivering on our plan for Canberra's future",
-      "source": "ACT Government",
-      "url": "https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr/2026/delivering-on-our-plan-for-canberras-future",
-      "published_at": "2026-10-20",
-      "region": "Canberra",
-      "topic": "Infrastructure"
     }
   ]
 }
