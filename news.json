@@ -1,10 +1,82 @@
 {
-  "updated_at": "2026-11-16T22:10:17Z",
+  "updated_at": "2026-11-17T07:58:56Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 7,
+  "feeds_ok": 6,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Martin Place sweeps at I&E Awards, takes home Australia’s Best Development Award",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZE1YV25sUlJFdkJFNi1sbFV6WXdDTXVBN3lYZm92UE11ZTduVEgtbHgtSi0zNFpKY05TVjZ6V3ZJNEt0REY0NEpqcjBtWGg5RjlCaVJjVndHbFBpeEZyR0pVcUVUQXJlamRQT0tsMDJzUG03V0RPMWU2NzUwMWdteHJTakJaUGtaYnJEdHNHQnlIa3lpS0xwY1hoM0tLZG56REpJbUdBMVppdEN2bTlJSlE1MXdZaUlaSHhYQndzM3hZYmJZTEh5OUxTRjYzNHdMWl9iOEpn?oc=5",
+      "published_at": "2026-11-17T05:58:52Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Property Council’s Member Mentoring Program is now open",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU5BT2FsdlVzNkhjSVBkYU5HSENBY0stdWdJN2FrVkxKUThsREtBRHVISHRORnBWejduS2NueHF0VUNyR3MySk41b29oY0FUNVpqNGRqOXEyb1NWWF91WEZVM3dTQXpxbUowWVlzZ1ZSbXRYSnR3bW1tRG1zWUlOeDZMNlhTLVpJVzdMTWRoS1FmeTFBT2swV0lPQmZiZw?oc=5",
+      "published_at": "2026-11-17T05:23:40Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Trust tax changes put housing investment under pressure as Senate showdown looms",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDZrUUxuMWJnRjZuYVY3Z2lzVmFoVjY1YmJOeFJLbzBkX2hUMjlxd1BRdk5fY3pmZDlPcTl4WTNIelNzRVZiLUJ4THFaUEw5d1ByN3N1U0kzZDhNdC1PaGt2eHlQOTZSZ2JfSWhkX0QtVUdRMFpBcmY5WGgzek9kaF9ZbUVpaDltVUF6dS01MF9uV0xMem1aeVFQNkJwMFlNdHJfVHMzTXQ0azQ?oc=5",
+      "published_at": "2026-11-17T04:53:12Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "GABBA PRECINCT TRANSFORMATION TO DELIVER ALMOST 4,000 NEW HOMES IN BRISBANE",
+      "source": "TOTAL Property Group",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHg5Tkd1MGhHWHFsSm9RX1lXajB5SGFMejlieDR6bjd2aGZuc3JaVjZyeXVncW5lNVZLNnZZajA5SXJHS002eDFlQmtmeGhBZWVEYjJZblpreHhKWnVkQmE3cTBBVGVvY1RfZW91aURUMS1takU0NnBOT1MzeWJnV05nc3ZhX0htSjhTazhZS3R6UQ?oc=5",
+      "published_at": "2026-11-17T04:27:25Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Capital Region needs up to 175,000 more homes: Property Council",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFBCVnlFMXRNSVV6ZXlpOXdjcnQzTFpwangxWS05YVV1VHV6MWZ6WTFSU3oxdFRzemVZdjlSOHkwaXoyWVduSGRjY2NYWVU0LWsxenpXd1VEVXViNE9wdDA4V3dmSnA2MTY0VWxGUTFra0VwcnRheGlSa3RsMFRoTkxyeWtKcjhSUGwxVFZpSndlVC1KRXhzRlZxVVNjNUt2Ri1OMHVic01IVFNkeVVxUg?oc=5",
+      "published_at": "2026-11-17T03:17:45Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Planning and LVC reforms a positive step for Canberra housing",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0k5VzkxRV9LSU9CdjRYWkJDOGlXTjhEVmN4YVVwSlNlZUtsY1dFMVB1N002cFY5ZmNEODFWTVFyMDVVZjlwUjBBRThmcFNrZHFYaG5wb2NmWGhZRzU4ME1iNXdINUoxS3p6MU1jeXI4VUhRX0JqbmtxN2ZwMlZXYjlFOWVLaWt0bW5oa19BOTFmN0pOWGJvM1lsdU1aWGQ3Sk1wU2FLSWk2M2NqWVVhWg?oc=5",
+      "published_at": "2026-11-17T02:17:48Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Victoria’s confidence in housing affordability drops further in lead up to election",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1p6RUxHczJkQVItVWxLRnBFUGw3Vkd5eEg0eFE4WHRDdUlGQjF1V0QxaTh0RFJoQkpub0xwelk2UmE3a1lJWWlhb3RFSWR3dllmd25yUGgwM0E2QnB5MkdvRFg4TlFPaW1saTE4dFJTRU9WVmhobXBKTVhyUk5RbXczQ1pqN3drRXNEWU05UmRQSzAtbDJqZEMzNHhnUG9UVk5r?oc=5",
+      "published_at": "2026-11-17T00:02:14Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Housing leaders converge on Canberra",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1ZhcVp0cXJBb1MzZm9oWUJCekEyZGp0ZlVxZEtEcV9Ia0xTaW1JQjlVeW5KZzJhOG1PMEhITE1BZXN6VkF6MGFTbm1XSmhNQk1DdnNaMUJGQ0tpcDNRY0l3YTZ2SzB2Y1FOWmNremsySXBkSWlwTlltU0t5SmNWeUxCRzBzRTVPSUlRQllZWQ?oc=5",
+      "published_at": "2026-11-16T23:42:45Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights",
+      "source": "Ministry of Sport",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1Vjb0hPSUtpZUJQR200c0FUalp5SHZMN2h4VGVITHAwWkFsTURxWHFELWkwcXVObDVXMW81ckNqMzNBeHFodDFUREo1MTM5QWNUa1VyeVcyUFZDeDRkUTk4OG12M1Jiak1FaEtfSk5OVDU5V18ycnUtVm9IMEQ4U0s0WUNmcDczdUdudnJ0ckVzRnJfZ3Exc0h3S3JSSl82SngzLVdPNk9iYnNwazRONTN2OS1Ea1BVU2l3TS16TUgwWmtFQW5sdQ?oc=5",
+      "published_at": "2026-11-16T22:17:52Z",
+      "region": "Australia",
+      "topic": "Infrastructure"
+    },
     {
       "title": "Gungahlin Town Centre East land release delayed by two years",
       "source": "Canberra Daily",
@@ -44,6 +116,14 @@
       "published_at": "2026-11-16T18:30:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Webuild named selected proponent for the Gabba Entertainment Precinct for Brisbane 2032",
+      "source": "jiji press",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem5UUm1uaGtKbGF6TmlvSFJKU2xSMjAyaTRMS2ZNTmpoTjZZUW9OTFBXcDdCNEFoU1A0MUdsOFR0N0d2ckdocUhzWm9venQweDlPRGNrMkt3TkE4RDF5QjB0MlhtcWxyUThqYXY4MEVEcDNuc2RJcVo1TnhSRklTNGYzczRQWFg0VFRTQ3VSNHV6LVpnRXk0YlBES3VveTBnWmdzT0l6SHVGREE1Ync?oc=5",
+      "published_at": "2026-11-16T15:42:23Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
     },
     {
       "title": "Albanese’s housing miracle makes homes unaffordable and unbuildable",
@@ -278,36 +358,12 @@
       "topic": "Land & precincts"
     },
     {
-      "title": "Chadstone Market Pavilion takes top honours at national property awards",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW5yLXhtMFMyQ01IdFQtRWFSdlBRanR2SUVqYUZCSjMyekhpUVlpbTFudHZCdXpWT1NpcWZuSXlWY1UwS3VPaFBMMUNmbzliZ0RsOE9wdW9uVG1BZGFZc0Q3VnJBQXJYZDNFdmRCNy1Fekl5S3k2QWg0VXBhRHR1SXpRNEwwOGRyWGIybEZkR3JGeTBoMksyUjdyNWN2eXd1QTM2clhYNGdJUFFwbzhfcGZ1c1pVSEUwdThrblRn?oc=5",
-      "published_at": "2026-11-12T00:56:23Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
       "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
       "published_at": "2026-11-12T00:00:14Z",
       "region": "Canberra",
       "topic": "Infrastructure"
-    },
-    {
-      "title": "From Race Days To Every Day: The Appeal Of Living In A Destination Precinct",
-      "source": "Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXdIZWc4QmxLWTdZbFdXQVZSVE9DNnVpcFdWRnlGN1pWTTdZdzczQ2p3ckhUUGVocnlSUUNqVTFDTjFndTE1Y2JPOU1SdDVMQVBuOE80c2hQUXJ4T0VSV3luUm10X0k1ZEFtVzJHeldGYThyM18xaFdtU3h4aTl2Y2w5Q09GZFZhenJ2VDFESy1Fb3U5SVNmQTVNc2dYbGJvc0pSTGdFUWp4NGtjNEFN?oc=5",
-      "published_at": "2026-11-11T23:51:32Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "A $1.2million 'Little India' proposal divides Australians amid fears a suburb will become a 'themed precinct'",
-      "source": "Daily Mail",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzI5LTRoUURZTGlET1NwVWJyTVJ1N2s2T2hWSTdwU2VXUkQxTmNYeGUyUHZhOTFQbzlGUFlCMG1FODV1ZUNHa0h4RngzXzVJZXlrVmc4UmxiUG4yeVdsS1RxazRRSk44VlVPejByMkdvM3VEcHFTYU15QmZUQkVHekpVQ2xmMjZnSEZ1bDA1WThhRFg2MjVqQVBPQ2ZzRVMtak1lRzVOWWtTcTVpYVHSAbMBQVVfeXFMTk1pLUZyS1ZjTFNZUnl6Ymd1cWtzS0h0MjRTYkVtU2xmOVZ6cDN2cTI0aFFzU1pIX05IUDhfSjFVdTV0Sk9HMzBuaHZlM3JwVkNPdUY3TTZaWTRnRlIwUlhkVDN3eHNqS1FrRWoyOUxNdjNiSHRuZFBSVmdqSHYzcHd2TXpxOFNCdFUtOHoxQ1p5UlVOaEY2bldKcHFlVk1Yb19PWGwzM1kwZUxSUTVFY2h3ZlU?oc=5",
-      "published_at": "2026-11-11T22:53:44Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
     },
     {
       "title": "We're considering building our dream home, but what's the catch?",
@@ -326,14 +382,6 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "From Property Development to Industry Leadership: Tan Lindy’s Vision for BCB Berhad",
-      "source": "Voice of ASIA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGtPM2R5OEZoMDM3VUpiaTJmSEY1LU1pLUMzcEV2U1c4Z0Y4TWNpbkhoUWM5VmhUdUZ0QmtJcEVuenZOR25qcEdMMzF2T2NBNnc0WDlTbkxmcW5Sa2hhV040bG8wV0M0eHZwVFBKeWlpZk9hTVp2UktKNmhyLWxtemhWVjIyQkpLVFVlbXloQ3BXWmpGTk5Ea0VYaTdHLW9iVkUtNWNFYmJFX2FfN25vOVBnUWs1SnNyVGUyYXVPYkFOMlBv?oc=5",
-      "published_at": "2026-11-11T10:45:00Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
       "title": "It's not a motel: Court backs Planning Authority's refusal of Gold Creek golf course development",
       "source": "Region Canberra",
       "url": "https://region.com.au/its-not-a-motel-court-backs-planning-authoritys-refusal-of-gold-creek-golf-course-development/1014658/",
@@ -348,38 +396,6 @@
       "published_at": "2026-11-11",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Bathla Troubles Deepen as Watchdog Launches Probe Into Sydney Developer",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdXpXMUF2ZWVIeDh6d2lZcXBCYzVyRzhlTlFPZEFnd2hOSE5scXo4QUhpSXUtNmhmbFJQMEJxSE8yT2N6RUJmSkcweDZ4amY5MGZiTjBMZmRaS0Qwa0FhNVBDZ1NoeEgzWl9lSVB3QUR0LWk3cE45U1dwUzJBM0N2ZU5pOFFQUEFqNlhPaFZORk5EeVVRWGhfLXctUkY2MERRYk5PTnpQTjRwNmFicTJ2TQ?oc=5",
-      "published_at": "2026-11-10T09:54:53Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Vacancies fall, rents stall and rates hit an 18-year high: what Australia’s latest property data is telling us | Property Insiders",
-      "source": "Property Update",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94QnctUTFCajB5Sm5renNBLUpxOUhGZ3JTdDRxbXA3cWY2aHIweWV0NkNybVNVQUZyY0xxR0hWU3lpTFltZmVwODQ5UC10QnY0dUg4Z1Y2QmpzbFAxYnp2MzloVGkyck1MVlZZeXA2WUdSdw?oc=5",
-      "published_at": "2026-11-10T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Melbourne Property Market Outlook 2025",
-      "source": "Property Update",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdHg0V21ZUXB4Z2UwUnV0WF9LMVd3d05MbVhuZTA3MmNFVFFGTTZPNGdkdVNrQTE4bjRSSmdBMjVWLW5pVVAwaXpFLWpMNzlteGtia2ZRRWNUdUFUOGJ6UlhDajNmVm16YXlrcw?oc=5",
-      "published_at": "2026-11-10T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "The Living Sector: Rental Housing",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQVdHckRVc1VCQUFQbHMtZGpBQ2ZhcnREZjRuczRuSHd1cWhrQW91SUJFN0ZaVTBqTEduVzE5b1c3QXpMV3Jza0Y2eVllZTNPZ2xFeFFMU3JCMEV0LURwbWlBaUFxU2RiTWgyd2YzNkxXbm9td3FyR3pRUHdRTmstRQ?oc=5",
-      "published_at": "2026-11-10T06:48:20Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
     },
     {
       "title": "Major infrastructure pipeline to drive visitor economy growth",
@@ -500,22 +516,6 @@
       "published_at": "2026-11-01",
       "region": "Canberra",
       "topic": "Planning & zoning"
-    },
-    {
-      "title": "ACT Planning Act Changes: Easy, Essential 10-Day Lease Rules",
-      "source": "NewsCop",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6eXF3eWk4ZjNvaUVydTVkOXFqNWU1bG45eEhhOTJVNVUxbjJnZXh3NUZKYkl6QndZRkF3UkpQNHpJT1RDTFRQemNDYXktZVozMDVkODRSc3U5ZE9rVUFVR1B2MkcxQWJSLVZJ?oc=5",
-      "published_at": "2026-10-28T10:49:19Z",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Second tranche of construction productivity reforms pass Assembly",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVW9DLTVSX04tRFlaR0kyOExoWnlMQzBLSmtlOS1Vd3lpM0xONTZmZWRnUV9GSEJPU2EzZDk5SnhWb2NyLVVPVEJHTEVERHVSUFRTN2FKSnJhTzFxVnh4a2lEOGJ1UnVzdGk3TDRqeEkwbmRna0M3b2h2dXAzSnZ5Z3hjMHRYSkFKUWVYM2JhWXB1VmowaldjeWFSMjVwZGdmRzc1RjBDNlNlTVRnMWpmTS1BNF8zaDlFWTNVZ0liX2dGelg3amoyN2JuYXltMXV4UENMTGlLVFRKSEFseWUtMWEwT0poYnpfeHRxZE9fSi1SQWFJaXdFRE11TWlyRXU5UFFpeDB5d1BvdzZaakpRWXJR?oc=5",
-      "published_at": "2026-10-28T07:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
     }
   ]
 }
