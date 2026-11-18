@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-17T20:58:50Z",
+  "updated_at": "2026-11-18T07:35:09Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 8,
+  "feeds_ok": 7,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Superannuation housing improvement – ‘last-minute paddle pop can’t fix a rancid BBQ’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXI4SWxWUkRZWmlJRzJ3WGduNmdXNmRrVlVCTUh6emtLQTFjeHhtb3JLcmxwMzJmQjBLYTh5VEtfbEFzVkpzcWdIX2dMRVhZWUctMm96dVEyLXFReGNlTGp5MWp2UUJJQnJNcXdnNGZqYTJHaFp3bkd0Q2ZOSXFzUVdUUHc5b0FXVVd3aWkwclNITjVoaDRJcnJBN1FhajZUaTU0SXQ5ZS15ck81N0h4QmhjWW4zakMyMl9HOUNRaURDaUJrOXZ2TQ?oc=5",
+      "published_at": "2026-11-18T03:51:17Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Retirement Living: Planning for Better Ageing",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEkzQ29hQmNqbVpJNGxwTFpTdHIzdWZjOHRkaHRicmFWSnJCbXBveFN0Zk5lWGNmWUF5TEpmblZWVnNrd0ZTeExEcENaWTYtM3k5amRkYWFXLTYwZDdFeUJ0LVhNYVFqdTNxZHZkUHgwS2o2eXlUUk8xUlVJcDV6a0NvRTdTNC0yVVVTdXNn?oc=5",
+      "published_at": "2026-11-18T01:45:22Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
     {
       "title": "Higher and denser: Next phase of planning reforms coming for north Canberra",
       "source": "Region Canberra",
@@ -118,6 +134,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Mike Zorbas on Sunrise: ‘The housing ship is sinking’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5FZ3d1cHdoZlRmOGJMMEItc2VNTk5FV3RmcFJuaWFfNUUtZUR1NXpGdjY5dllOWlIxNWVENURoVm9RV3lFSWExZmNfTGlkWlVVZEpTMkRPY3UzWEtmcUFSZ2hVc05iMmFxemY2LWpUWHhoczNFQ19xNVpXUERlaDhxWjFMMk4xdFY1RFFKcjlzeTJhcVI2cjZQQTJoWHdtSXMxVUU2NGV2MmtK?oc=5",
+      "published_at": "2026-11-16T23:14:52Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights",
       "source": "Ministry of Sport",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1Vjb0hPSUtpZUJQR200c0FUalp5SHZMN2h4VGVITHAwWkFsTURxWHFELWkwcXVObDVXMW81ckNqMzNBeHFodDFUREo1MTM5QWNUa1VyeVcyUFZDeDRkUTk4OG12M1Jiak1FaEtfSk5OVDU5V18ycnUtVm9IMEQ4U0s0WUNmcDczdUdudnJ0ckVzRnJfZ3Exc0h3S3JSSl82SngzLVdPNk9iYnNwazRONTN2OS1Ea1BVU2l3TS16TUgwWmtFQW5sdQ?oc=5",
@@ -134,6 +158,14 @@
       "topic": "Land & precincts"
     },
     {
+      "title": "'Community should have a say': suburb blindsided by housing proposal",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckJWUWh0RXVkcVowUUpXaVcxbXAwdFpSTTJsSlZmX3RwWmZINFV5dDNQb0MzajVmeEJ4YXhvbU5tOG5rSDltYTZOUmpZTF9ESmloX3Nxcm5oUllENEkxaWFpdTQzQ2FEUno5ZUdMdHFveDZvSFd5Z3F3M3RFVlRVUlRZRGx4R3J1T20zN3BfcV9relRoc01DQWsxMVNoc3FxSkdPTDVEcy04Z0k?oc=5",
+      "published_at": "2026-11-16T18:37:29Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "'Surprised by this lack of consultation': Hackett residents demand more time to reply on development",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckJWUWh0RXVkcVowUUpXaVcxbXAwdFpSTTJsSlZmX3RwWmZINFV5dDNQb0MzajVmeEJ4YXhvbU5tOG5rSDltYTZOUmpZTF9ESmloX3Nxcm5oUllENEkxaWFpdTQzQ2FEUno5ZUdMdHFveDZvSFd5Z3F3M3RFVlRVUlRZRGx4R3J1T20zN3BfcV9relRoc01DQWsxMVNoc3FxSkdPTDVEcy04Z0k?oc=5",
@@ -145,14 +177,6 @@
       "title": "Restoration of one of Braddon's oldest buildings set to start as apartment plans revised",
       "source": "The Canberra Times",
       "url": "https://www.canberratimes.com.au/story/9392549/braddons-coggans-bakery-revamp-to-begin-amid-tower-changes/?src=rss",
-      "published_at": "2026-11-16T18:30:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "'Community should have a say': suburb blindsided by housing proposal",
-      "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9391292/hackett-community-association-queries-lack-of-housing-talks/?src=rss",
       "published_at": "2026-11-16T18:30:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
@@ -356,30 +380,6 @@
       "published_at": "2026-11-12T06:35:24Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Migration up; housing down",
-      "source": "The Institute Of Public Affairs - IPA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCeTZ6azRsTGl6czMtZXRsS2ZweW1wRFJ2RlVOM0ZnQkJCZFA4LWxiRFZ0MEQweTEtcE5iVkpZRW1fVWVnalJKY1YzdHVCeDJFRTBDU0xQSDgtT0lpaTY4Z1JKVVVtN28?oc=5",
-      "published_at": "2026-11-12T05:59:48Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Northern Rivers 230-home rezoning proposal put to public",
-      "source": "Inside State Government",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHI0NjY5Ti1TT1lpakRkRlphUWRtWkE5Vkd6SDdQXy1udndmSzROOEJCdVp4dlVWdUdLNXVXeUw4TlRsaGg3U1hfcEpjV1JOaWhTREFuU1puVWUwejlyRzU4X25LZVptOXpRNERzM2xOc2lZMng3bU9ELWJFdG5Cc2dncnFoX3JEbi1LT28xRlVVc3RWeE9IZ19JcE80TVU?oc=5",
-      "published_at": "2026-11-12T04:28:51Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Submission on the draft Edgecliff-Woollahra Precinct rezoning proposal",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWklMUzliempfaUkzdTAzeTkwY2hxR3BqUXlnX3B4aXdOLTA0TE1uZHFsclhJVklESkdHRkU3Ni1lODBVcmRicmhkN2JkMWlMWnQ1dXduSzk5ZDU5T3FtQnVTdEszVlFvMGtnLXl6YjRndzkxekQ4eXlrNW9RNmdBbXpJMDNPREdtcC1taEZkZ25ESkdoTzNIZ3JRUDBjb284YnljZ3VDNkVkcWIwTjNQcTY3Wm9yR0JW?oc=5",
-      "published_at": "2026-11-12T04:26:43Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
     },
     {
       "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
