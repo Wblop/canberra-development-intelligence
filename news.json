@@ -1,10 +1,50 @@
 {
-  "updated_at": "2026-11-18T07:35:09Z",
+  "updated_at": "2026-11-18T20:36:48Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 7,
+  "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "The design behind Aria's Sanctuary precinct in South Brisbane",
+      "source": "Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMENGVmNpTVYtUlU2V1lxcmkwZUJDNnZqTGN4M0NrQ1pVR05Ia3J3b21fYmxTMnE5R3dreHAyWG1qRmx6MWhfazAzYllqSW04RmlWaVVTVnVFRnBrdE85NG42MFFEYmdVRG0zcHNqbXA3NHpES0k4TFNpMERUa08yZXRPZ0lTZkhxWHZSdzVyejVOQ0g1X0xfcjM2ZVBaaV9UeDM0YVk4Mno0elF0S0ZFSVljYmFxV1IyUjZLdElIUQ?oc=5",
+      "published_at": "2026-11-18T20:16:16Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
+      "source": "HerCanberra",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZng3dDV6VkM5SDczWjllRTg2c29iZU1pdC1JanBoMlNFNTBIa0lPY0I1NTczeFlEVkx4emp4NVhwTm1RSVNlMGFoMjRIZWxobzRhYXNKbmhqX1RWbWhSeHJCaGJPcl83SVVicFlnRWVnQXR4WGU1Q2tGdkRCSmE5QXdpNEJBRFV0dnEzZDh1QnY4ZkU?oc=5",
+      "published_at": "2026-11-18T19:27:17Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Balcony solar could slash power bills for Canberra apartment residents, but what’s stopping it?",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/balcony-solar-could-slash-power-bills-for-canberra-apartment-residents-but-whats-stopping-it/1016263/",
+      "published_at": "2026-11-18T18:00:30Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Navigating a cooling property market: what falling clearance rates mean",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9393993/in-a-falling-real-estate-market-should-you-still-sell-by-auction/?src=rss",
+      "published_at": "2026-11-18T18:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "Harman Technology Estate - Data Centre with Renewable Energy Infrastructure (EIS202600045)",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQeUo0ZXBzcjdPYzBZekpPRTFMWFdBZUNRZEs3NUpiX21NZ2dWUEZ1Um9wSjlMWnJja0NrbXpHaTBtTmtxZXJWbVdqSERXN0tudThNM21LTHlFdWIxb29KMUM5dG1GdU9kajdsalIwS1ZtSEFnMEFHRUpERUhfV1ctYm1OcGU4NFRxRmJHUEZOR3Q3elBxV3hQY2paV1JieTdlMWJTV3ZyUjgxWDl5X3JhTHAydWZ2elBrakk3Tk5wV19qOVhtaVZ6ZlpxT3pwenZzUF9YZ0FGNzA1cTdqSmlWUGpiOU9TZjIta3l5Vzdub3FKSlU5NVBmczd0bzA1SWV4dW55YWV1R19ra2ZRQ0x0SHRYTUFrVVd1SE5Uekd4TWVkYmkwTWNwVVAtb2Y3cjhlVVNfUw?oc=5",
+      "published_at": "2026-11-18T14:19:21Z",
+      "region": "Canberra",
+      "topic": "Infrastructure"
+    },
     {
       "title": "Superannuation housing improvement – ‘last-minute paddle pop can’t fix a rancid BBQ’",
       "source": "Property Council Australia",
@@ -20,6 +60,14 @@
       "published_at": "2026-11-18T01:45:22Z",
       "region": "Australia",
       "topic": "Planning & zoning"
+    },
+    {
+      "title": "Mike Zorbas on Sunrise: ‘The housing ship is sinking’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5FZ3d1cHdoZlRmOGJMMEItc2VNTk5FV3RmcFJuaWFfNUUtZUR1NXpGdjY5dllOWlIxNWVENURoVm9RV3lFSWExZmNfTGlkWlVVZEpTMkRPY3UzWEtmcUFSZ2hVc05iMmFxemY2LWpUWHhoczNFQ19xNVpXUERlaDhxWjFMMk4xdFY1RFFKcjlzeTJhcVI2cjZQQTJoWHdtSXMxVUU2NGV2MmtK?oc=5",
+      "published_at": "2026-11-17T23:14:30Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
     },
     {
       "title": "Higher and denser: Next phase of planning reforms coming for north Canberra",
@@ -134,14 +182,6 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Mike Zorbas on Sunrise: ‘The housing ship is sinking’",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUU5FZ3d1cHdoZlRmOGJMMEItc2VNTk5FV3RmcFJuaWFfNUUtZUR1NXpGdjY5dllOWlIxNWVENURoVm9RV3lFSWExZmNfTGlkWlVVZEpTMkRPY3UzWEtmcUFSZ2hVc05iMmFxemY2LWpUWHhoczNFQ19xNVpXUERlaDhxWjFMMk4xdFY1RFFKcjlzeTJhcVI2cjZQQTJoWHdtSXMxVUU2NGV2MmtK?oc=5",
-      "published_at": "2026-11-16T23:14:52Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights",
       "source": "Ministry of Sport",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1Vjb0hPSUtpZUJQR200c0FUalp5SHZMN2h4VGVITHAwWkFsTURxWHFELWkwcXVObDVXMW81ckNqMzNBeHFodDFUREo1MTM5QWNUa1VyeVcyUFZDeDRkUTk4OG12M1Jiak1FaEtfSk5OVDU5V18ycnUtVm9IMEQ4U0s0WUNmcDczdUdudnJ0ckVzRnJfZ3Exc0h3S3JSSl82SngzLVdPNk9iYnNwazRONTN2OS1Ea1BVU2l3TS16TUgwWmtFQW5sdQ?oc=5",
@@ -204,6 +244,14 @@
       "published_at": "2026-11-16T14:53:09Z",
       "region": "Australia",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Rezoning unlocks 5900 homes in Greater Western Sydney",
+      "source": "The Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTF2cnEwTmJwZFgxU0RiYUhOdGVQQ2N3Zzl5TDVkZTUtMFM1TF9XX1JrTl9FUkRCbUJ2ZXV0dnh3cmxvRERqd3M3cFJydW9kWGRYVmlxNjZnR2lRdWhOQWpjbUNVUGctTnRYbHYxTnZWSHBoMFVVb1AzbGxUQ2FFSUdSdVBBVFA0NnJiNDNtNlBYczVIdTI1T0xObWh6TXNZVW1uSkRBbW0zY1FVcXNWVGxGYTVzaVkyal9rdTNiOGhjUkluZWxjdjRFem82RGNLN2dYRnBrc05ITWFBTG1xYQ?oc=5",
+      "published_at": "2026-11-16T13:45:14Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
     },
     {
       "title": "Vision of new Brisbane Gabba arena and housing precinct unveiled",
@@ -358,22 +406,6 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Everything you need to know about the state of Australia’s property markets in 20 charts – November 2026",
-      "source": "Property Update",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkN6RFJtQ3VLaUtjSklFc1pnS2E3X29hUmtROEtwdWtyV0xRSUJENmdkR0hpdmtPb0lRY1k5WXQxMXJYWHBFdElYOGJXdTJQcUhZT05ZcE1DR0tnYWtzN1poVVJvNmVwSkRxMTRBNTRDSTRNWHRJdmJMWUt2M3BkX1NneFdHZEcwRGh2a3JJeklwWURXUVpJU0QyTnllUVlzZmc2c05lenJseGlGOUhzcW5xNkNpQQ?oc=5",
-      "published_at": "2026-11-12T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Receivers sale of Medical Freehold in Melbourne's Monash Healthcare Precinct - CBRE",
-      "source": "Commo.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkIyaUE4dElNbGRCNHp4VnVpbGV3S1d5U3M2ZG15QzV4dVBLQWlVYUVadGFmMmlfTXo5RjR3M2t3TlNUbWczQXlBVmtONWNFTFNndGNVNmsxUGVRcmtPUU5EY0lfaUVCMGE1WDFPVzlnX0owVGd6YlM1ZUs0TG9sWTc5aUg3Ny1fdEx1OFpUS08tdGV3dUZ0cnVCenBkeWZzMklQeWkwZERfNWZFZ0g3bUZ5TVh0NE5qYnZULTJn?oc=5",
-      "published_at": "2026-11-12T07:34:03Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Big bank spells out major housing construction drought",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWJqTkRTdUpVZmlLSktqbWFqQ1kzd3hCTndBaTRydmZpNmtBMzd2Ni04cG55M2ZtdFpKcDFSeU5meVdOWGJ4ajB4c3Z2QzNFZ210SE5VaXN1bDZCRVpNeTg4UUFSS1RXZmN0Tzc4M2VYdFdsaDRjRlkyQlU4QjNnaXdtUk1kU0IzRkphUE05QkdGdlpuNkdZX05rTHZtN3YxRDcySA?oc=5",
@@ -484,38 +516,6 @@
       "published_at": "2026-11-05T18:00:02Z",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "ACT Regional Drought Resilience Planning Program",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlVrN2IwYVJjZTZMVFhwYk81X092Yl9xQmFpa0tGV1dMb1pJNTBkRXlDVU9GQlg0NXVXUFgzckt6YTNFWjNCdXE3WFVYLVFhc2g2ZzhSSmpub1BGN3lKUnYzWDJ3UC03ZlhPSk0zRENIRVZTYS1kU2l0STVVVXFFcWNnNFBBTDRDX3puYXh2NGJ2WE9Oa3hVY0dIa3B4TzlJZTFZLWotMA?oc=5",
-      "published_at": "2026-11-05T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Have your say on Canberra’s newest suburb",
-      "source": "Canberra CityNews",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xNWw2QU5RMS1PTHdQZTJTakFTamV4NkxKek14UjRlbW44RUZVNGNBTUhiWWVVcUhUU3JWbDl4ZGRLVGw3eUNmMzNJZElrelNIa1lQMTZ5bl9XSjZweDI2TlJvV2Y3N1RZSVRCSEo0LS1KbnhETFdrbHdR?oc=5",
-      "published_at": "2026-11-05T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Help shape the future of Canberra’s newest suburb and thousands of new homes",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNaUVyakptLXdJSE9WeWdVTm43d0ZSbk90VzdJaGkxd2lBcUtwNmZvcDhmb1ZaMTVyZTBiZHppeS1pWk40SkR4bkUtajBOT19oOERubThfSDFpdEUzWVUtUUFGbUNTR2t3cVAxQllVeXhSZkdJWDA1SjRUOVUyUEJUOVA0d2xtSlI2WmkyQ3ZqV2dHUzhiU0tkLS0yMDBsR1d5Z1J3TG51c296YXh4NHV6S21heGpSRXBwdXJqNWNwQXZ4TXprOU8tWUpXYVBTdzNpYVVsRDZWOFV6WUxySHR1OHBUM2lxTzFLaXhHdFMtek1FckVrMmhRVUtNcGVTalJDNzJTY09KU25OY0ZhWEdEd1lYZTNXS3R2RTZocVBTSQ?oc=5",
-      "published_at": "2026-11-04T23:16:25Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Housing crisis support fund",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR05ZOWIyeGFNay1PS1BfTXc4RndNMHNvdTJRR0IyYkEtMlYyeWQ0Z2NDajRiXzlOTzdyNUNtNE1PU1FkcGg5SzhIQlUwY19JeEUweEZ1SG5TOHpIZ3RqNlh3VmwxZ2VuVnlPQTdtaDNwb1IyNXlWWGVHdk9pd0hHZ0FPNnZpNDhMcmZsZTh3?oc=5",
-      "published_at": "2026-11-04T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
     }
   ]
 }
