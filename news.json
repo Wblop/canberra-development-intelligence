@@ -1,16 +1,48 @@
 {
-  "updated_at": "2026-11-20T07:22:23Z",
+  "updated_at": "2026-11-20T20:26:14Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
     {
+      "title": "Local developers selected for first 700 homes in new suburb of Molonglo",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/local-developers-selected-for-first-700-homes-in-new-suburb-of-molonglo/1017367/",
+      "published_at": "2026-11-20T18:45:50Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Development delay dogs Gungahlin Town Centre’s vacant east side",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/development-delay-dogs-gungahlin-town-centres-vacant-east-side/1016265/",
+      "published_at": "2026-11-20T18:00:50Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "Albion Evolution Steps Up as Midrise Plans Top Up Precinct’s Pipeline",
+      "source": "The Urban Developer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEp4LVlJZU5WMFJzaVdDc18xY19YUzJoQ0xLMmFaUUtreEVaQm00a0NkRzB3aEVHVjdGTGNsVUhtRjNsS3pNTDhndWxoZkdPUHRSWDhicXhIZjRDNHNJdDdPWHh0SEVVLTBnNndmQjhTdF9KNkVTaTlQYktfOTNJd1ZuSy1ydGJDY2FUUEVGNHpxelFDaHhZMDRwaV9yN3pkZ0tJWW42ZVNEaHlMSUd5d0ZB?oc=5",
+      "published_at": "2026-11-20T06:47:44Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
       "title": "Planning Authority pauses underdone Hungry Jack’s proposal",
       "source": "Region Canberra",
       "url": "https://region.com.au/planning-authority-pauses-underdone-hungry-jacks-proposal/1017397/",
       "published_at": "2026-11-20T01:20:09Z",
       "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "A rezoning reshapes two Carr-designed projects in Melbourne",
+      "source": "Architecture & Design",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmE4clB4OGFva05ZcWh1WkM1cjdFZ0NhUGxPMENwNjJ5THQ3RU55bGdJYVYzVHE4eW9ZVUVLeWY2Ykdhc1RibDNXdXc3RmxGWHZOckZnZlJwTHdhTjF6QVljdnJPM0FDUHZweGJ1aC1sOXl2SExmZi1XSHpMS0pJdUZGM2hXS0xuckV0Z2huVjdGcndRNkNPZ0FFOEZXUk84YThiQ2pBUFh6YUZR?oc=5",
+      "published_at": "2026-11-20T00:46:51Z",
+      "region": "Australia",
       "topic": "Planning & zoning"
     },
     {
@@ -422,22 +454,6 @@
       "topic": "Development"
     },
     {
-      "title": "Vision for new Brisbane Gabba arena and housing precinct unveiled",
-      "source": "ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEx0VnZJdGdzSU5WWl9fYUZFVWFOdjU0YklOdlprdk44WEltdE4tTlhxR3dlWWd2U3djVFJEMUlEcU5rZm1TNTRTMEtUNE5NSnhxNVllU2Y0bnA5ck5acThLQlV2NHJfejNyaHotVUVZQWpCc2c1S1FOVU5WbWVXZlFVMkwyYU9lSU95V3FQX3dEUHJHSkpGYWg5TW1heG1KY0dn?oc=5",
-      "published_at": "2026-11-16T05:38:48Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Vision of new Brisbane Gabba arena and housing precinct unveiled",
-      "source": "ArchitectureAu",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEx0VnZJdGdzSU5WWl9fYUZFVWFOdjU0YklOdlprdk44WEltdE4tTlhxR3dlWWd2U3djVFJEMUlEcU5rZm1TNTRTMEtUNE5NSnhxNVllU2Y0bnA5ck5acThLQlV2NHJfejNyaHotVUVZQWpCc2c1S1FOVU5WbWVXZlFVMkwyYU9lSU95V3FQX3dEUHJHSkpGYWg5TW1heG1KY0dn?oc=5",
-      "published_at": "2026-11-16T05:38:48Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "The Cost of Building Canberra",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1lHTnpqelMxaTJhcmEwdFdaNHhvRERUS1U1T1BLUTZDLWQwVm5QWUJ6NkJyNVZkcnlwejh4MEFDZlZKQTNKaVB3MHdrMjRSdTZzN3VBWW1BV0Fxa3pLSkJEUUxwaDcyTlgxVGZTenRyc0pZbkdTR3B6ajB0d0IwSFFB?oc=5",
@@ -500,22 +516,6 @@
       "published_at": "2026-11-11T18:30:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "It's not a motel: Court backs Planning Authority's refusal of Gold Creek golf course development",
-      "source": "Region Canberra",
-      "url": "https://region.com.au/its-not-a-motel-court-backs-planning-authoritys-refusal-of-gold-creek-golf-course-development/1014658/",
-      "published_at": "2026-11-11",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Public Consultation Begins on New Canberra Suburb",
-      "source": "Outdoor Design",
-      "url": "https://www.outdoordesign.com.au/news-info/public-consultation-begins-on-new-canberra-suburb/11546",
-      "published_at": "2026-11-11",
-      "region": "Canberra",
-      "topic": "Land & precincts"
     }
   ]
 }
