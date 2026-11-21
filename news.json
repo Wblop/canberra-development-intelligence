@@ -1,10 +1,18 @@
 {
-  "updated_at": "2026-11-20T20:26:14Z",
+  "updated_at": "2026-11-21T07:15:26Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Superannuation housing improvement – ‘last-minute paddle pop can’t fix a rancid BBQ’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXI4SWxWUkRZWmlJRzJ3WGduNmdXNmRrVlVCTUh6emtLQTFjeHhtb3JLcmxwMzJmQjBLYTh5VEtfbEFzVkpzcWdIX2dMRVhZWUctMm96dVEyLXFReGNlTGp5MWp2UUJJQnJNcXdnNGZqYTJHaFp3bkd0Q2ZOSXFzUVdUUHc5b0FXVVd3aWkwclNITjVoaDRJcnJBN1FhajZUaTU0SXQ5ZS15ck81N0h4QmhjWW4zakMyMl9HOUNRaURDaUJrOXZ2TQ?oc=5",
+      "published_at": "2026-11-20T21:21:53Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Local developers selected for first 700 homes in new suburb of Molonglo",
       "source": "Region Canberra",
@@ -222,14 +230,6 @@
       "topic": "Infrastructure"
     },
     {
-      "title": "Superannuation housing improvement – ‘last-minute paddle pop can’t fix a rancid BBQ’",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXI4SWxWUkRZWmlJRzJ3WGduNmdXNmRrVlVCTUh6emtLQTFjeHhtb3JLcmxwMzJmQjBLYTh5VEtfbEFzVkpzcWdIX2dMRVhZWUctMm96dVEyLXFReGNlTGp5MWp2UUJJQnJNcXdnNGZqYTJHaFp3bkd0Q2ZOSXFzUVdUUHc5b0FXVVd3aWkwclNITjVoaDRJcnJBN1FhajZUaTU0SXQ5ZS15ck81N0h4QmhjWW4zakMyMl9HOUNRaURDaUJrOXZ2TQ?oc=5",
-      "published_at": "2026-11-18T03:51:17Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Retirement Living: Planning for Better Ageing",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEkzQ29hQmNqbVpJNGxwTFpTdHIzdWZjOHRkaHRicmFWSnJCbXBveFN0Zk5lWGNmWUF5TEpmblZWVnNrd0ZTeExEcENaWTYtM3k5amRkYWFXLTYwZDdFeUJ0LVhNYVFqdTNxZHZkUHgwS2o2eXlUUk8xUlVJcDV6a0NvRTdTNC0yVVVTdXNn?oc=5",
@@ -352,7 +352,7 @@
     {
       "title": "Victoria’s confidence in housing affordability drops further in lead up to election",
       "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1p6RUxHczJkQVItVWxLRnBFUGw3Vkd5eEg0eFE4WHRDdUlGQjF1V0QxaTh0RFJoQkpub0xwelk2UmE3a1lJWWlhb3RFSWR3dllmd25yUGgwM0E2QnB5MkdvRFg4TlFPaW1saTE4dFJTRU9WVmhobXBKTVhyUk5RbXczQ1pqN3drRXNEWU05UmRQSzAtbDJqZEMzNHhnUG9UVk5r?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0lQRFJVcVZQQU5VWXJxSUZZdmZwLW1pUV96U083MnIybHhVUXRrRFY4dWo3QWpKVjlES05UVlVIdmVCbTNDWm1kbGFrMFpoTU52OEptZzdvWTY2X2VDZ3dLQUNMLWNLcC1maEpWNTJLSGxPYXpwM1VNb010Q0VKSDJsY3E4eUtsZ012YkhXMHhaQTc3UTBuaWxrRHBmZjQ4WER2OA?oc=5",
       "published_at": "2026-11-17T00:02:14Z",
       "region": "Australia",
       "topic": "Housing & residential"
