@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-21T19:21:10Z",
+  "updated_at": "2026-11-22T06:55:53Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Orchard Hills Rezoning: 5,900 Homes Get a Huge Green Light.",
+      "source": "NewsCop",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1EzaTZHN21EYVk1Z25fMkIxakdaMnRBOFo3dUppNExxVHhVcUxvUWFuOW94M20xcTcyMEdHYmdRMFVpa3RwMGc0TnZsZExPTl9oMXg2S1l3R2ZWWXR5cnJkWjc0V2ZHZUJUS292dUdiLUQySWhV?oc=5",
+      "published_at": "2026-11-22T05:00:51Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Planning (Exempt Development) Single Dwelling Housing Development Control Declaration 2026",
+      "source": "ACT Legislation Register",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42ZnpGRWN3dlRYREZWdXc4UWFFZGpBYkl1Zkd0a0FBa0FMZFZuNDFlQm5KXzd3QjVPSjl5UkxUU3p5Z2JBWmJqaW1kVXRVdkR3U1d2dDd3aFJJM3M?oc=5",
+      "published_at": "2026-11-21T18:45:51Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
     {
       "title": "Superannuation housing improvement – ‘last-minute paddle pop can’t fix a rancid BBQ’",
       "source": "Property Council Australia",
@@ -16,8 +32,8 @@
     {
       "title": "Local developers selected for first 700 homes in new suburb of Molonglo",
       "source": "Region Canberra",
-      "url": "https://region.com.au/local-developers-selected-for-first-700-homes-in-new-suburb-of-molonglo/1017367/",
-      "published_at": "2026-11-20T18:45:50Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcG1OZnl5SDdOSHg4a2UzXzZNdlQ5TDhTajFnUXh4M04zN1g1bTFmcENwNHlyNGdOT0NydGNZMDdXQ21FRHVOVTIwTU03UlhIT1lyVGp5X1RjRDZrY2g5b3pXZmVOZEFZbnZnRnNzd0xIamlRSWlrQ2JkWlEwb1pWMXFjVVJXc2xDSVBqQmJEMVFrOS1VY3RYSkdWT1FobHl6VlNTNg?oc=5",
+      "published_at": "2026-11-20T18:48:18Z",
       "region": "Canberra",
       "topic": "Housing & residential"
     },
@@ -108,6 +124,14 @@
       "published_at": "2026-11-19T18:00:27Z",
       "region": "Canberra",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Box Hill’s new $360 million dining precinct features an indoor arcade, a self-photo studio and Australia’s first Nong Geng Ji outpost",
+      "source": "Secret Melbourne",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTFvT1puLXE1R0pBdnhYbzJPbGllX01nUXdqd0FGS2RfR1Ntbk5FODZzek5PdmZ1YXNPSVNQSGx2UFlTTDJEbjZnMDBqZXVEX05FUXRYSTZPeDFTcFAtcUp0U01ydDRNZC01ZEVVS2lDM2ZHNzR6NHZpY1VxS3NhYW9vX2xwUDlEdHpv?oc=5",
+      "published_at": "2026-11-19T07:51:46Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
     },
     {
       "title": "Hackett community shocked at three-storey supportive housing proposal",
@@ -366,6 +390,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Thousands of homes and jobs green-lit for Orchard Hills",
+      "source": "NSW Government",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdVloU0dFMldDY1Zha3pJU21JaTlqUGxQb21UUm9QTmFUSk11aDNDcGxVX0lENXozcVVPYmlaYU4tNmJLVkQxazRmUWJRZkI4cnFmbEZTbmEyem95QkFuaVFkYldMTHRESWIwajh0b0xzMFBMcWl5UC1wdmhKR1d5dGpkcw?oc=5",
+      "published_at": "2026-11-16T23:27:47Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights",
       "source": "Ministry of Sport",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1Vjb0hPSUtpZUJQR200c0FUalp5SHZMN2h4VGVITHAwWkFsTURxWHFELWkwcXVObDVXMW81ckNqMzNBeHFodDFUREo1MTM5QWNUa1VyeVcyUFZDeDRkUTk4OG12M1Jiak1FaEtfSk5OVDU5V18ycnUtVm9IMEQ4U0s0WUNmcDczdUdudnJ0ckVzRnJfZ3Exc0h3S3JSSl82SngzLVdPNk9iYnNwazRONTN2OS1Ea1BVU2l3TS16TUgwWmtFQW5sdQ?oc=5",
@@ -430,36 +462,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Albanese’s housing miracle makes homes unaffordable and unbuildable",
-      "source": "The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmN0TUhPMkRleVBMZENWNkZqeE1jTGJhVnZmTF9ZWFJ3c00tTHZBcFhNSHdSc3g1YXZBV2FIWVFMVmxnUno2QkpWUnM2SW9PZkFoTFMzTUR2OUE5M1dEd0txOW43VUxTS0Z3R00xejZkeXhqNWFTeHoyMHltcUlzdjRPUnoxVzVXY1dVMEpBTWJqVWJSck16TmdXT3dGX3AtbkRCVFJwQUE3R3NSeTlHM0ZxelBCcWdCSVlVOVFDSkE2M2ozVEM4TFRIU0xZcVpValZ2Vk9ybjQzb2xQSENhSjkzaW5DeDF5UEs2N096VDIzT053Z3g1VzVqdXNMZw?oc=5",
-      "published_at": "2026-11-16T14:53:09Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Rezoning unlocks 5900 homes in Greater Western Sydney",
-      "source": "The Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTF2cnEwTmJwZFgxU0RiYUhOdGVQQ2N3Zzl5TDVkZTUtMFM1TF9XX1JrTl9FUkRCbUJ2ZXV0dnh3cmxvRERqd3M3cFJydW9kWGRYVmlxNjZnR2lRdWhOQWpjbUNVUGctTnRYbHYxTnZWSHBoMFVVb1AzbGxUQ2FFSUdSdVBBVFA0NnJiNDNtNlBYczVIdTI1T0xObWh6TXNZVW1uSkRBbW0zY1FVcXNWVGxGYTVzaVkyal9rdTNiOGhjUkluZWxjdjRFem82RGNLN2dYRnBrc05ITWFBTG1xYQ?oc=5",
-      "published_at": "2026-11-16T13:45:14Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
       "title": "Upcoming road closures and buses to replace light rail services",
       "source": "Chief Minister, Treasury and Economic Development Directorate",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa2tjQ0RXMUR0UjRjc2VGNm1TaGFvaHNIajdEQzZGdU5uU0k0aFZPYmR3c3BfRzE3NDRPUFN6SlByOHR6WlpDZlV0R21Dc1RIOXpsTndNRDFyNDdiWERONDhSbmRSVmlFREtadGl0RHdPeDBVQ1dlUVhJOVNuT0xIX1ZDeGFUM0FqTXFGQ2VuaUFNTjhXZmQ0Q1lvUFJJenNKY2lVbUthblgxLXNrRUVIUWJCczhjaGZqLWhZUUtKUjhvM05mOHpYcFZ0cTZsc0FLSmlxSGJ3SnNRTkpJYVFOaVlDNDRQMG5QbHRiWmd3U09mdHJYa09xUmJySnd3TXhONGVkUjN3?oc=5",
       "published_at": "2026-11-16T08:03:12Z",
       "region": "Canberra",
       "topic": "Infrastructure"
-    },
-    {
-      "title": "Melbourne Property Market Outlook 2025",
-      "source": "Property Update",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdHg0V21ZUXB4Z2UwUnV0WF9LMVd3d05MbVhuZTA3MmNFVFFGTTZPNGdkdVNrQTE4bjRSSmdBMjVWLW5pVVAwaXpFLWpMNzlteGtia2ZRRWNUdUFUOGJ6UlhDajNmVm16YXlrcw?oc=5",
-      "published_at": "2026-11-16T08:00:00Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "The Cost of Building Canberra",
@@ -508,14 +516,6 @@
       "published_at": "2026-11-12T06:35:24Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
-      "source": "The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
-      "published_at": "2026-11-12T00:00:14Z",
-      "region": "Canberra",
-      "topic": "Infrastructure"
     }
   ]
 }
