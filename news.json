@@ -1,10 +1,26 @@
 {
-  "updated_at": "2026-11-22T06:55:53Z",
+  "updated_at": "2026-11-22T19:44:42Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "MEDIA RELEASE GOVERNMENT’S PROPERTY TAX ATM DRIVING INVESTMENT OUT OF VICTORIA",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXg5UnhSY0ZvSnVmSGlwZDBaMV93c1ppSmd2dVZnZnJSX20wUFBhMWhyWW1LcDg5ejhRdXBiN0ttS19TYWl0eFFfR1pCbXNfaVJZcERub2hmZV9VUTNWX3JBUjJwOGVTX1Q0aFNoVloyS2lCY3dqb1pwQnNrSm5UcDRmcTBic3hlSmtKV3o5OThWdVlGRmFnbVVqTHcwRVU5eXpEN2V6V0JDV1A0SjlFdWZCNA?oc=5",
+      "published_at": "2026-11-22T19:15:27Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Local developers selected for first 700 homes in new suburb of Molonglo",
+      "source": "Region Canberra",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcG1OZnl5SDdOSHg4a2UzXzZNdlQ5TDhTajFnUXh4M04zN1g1bTFmcENwNHlyNGdOT0NydGNZMDdXQ21FRHVOVTIwTU03UlhIT1lyVGp5X1RjRDZrY2g5b3pXZmVOZEFZbnZnRnNzd0xIamlRSWlrQ2JkWlEwb1pWMXFjVVJXc2xDSVBqQmJEMVFrOS1VY3RYSkdWT1FobHl6VlNTNg?oc=5",
+      "published_at": "2026-11-22T10:27:05Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Orchard Hills Rezoning: 5,900 Homes Get a Huge Green Light.",
       "source": "NewsCop",
@@ -27,14 +43,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXI4SWxWUkRZWmlJRzJ3WGduNmdXNmRrVlVCTUh6emtLQTFjeHhtb3JLcmxwMzJmQjBLYTh5VEtfbEFzVkpzcWdIX2dMRVhZWUctMm96dVEyLXFReGNlTGp5MWp2UUJJQnJNcXdnNGZqYTJHaFp3bkd0Q2ZOSXFzUVdUUHc5b0FXVVd3aWkwclNITjVoaDRJcnJBN1FhajZUaTU0SXQ5ZS15ck81N0h4QmhjWW4zakMyMl9HOUNRaURDaUJrOXZ2TQ?oc=5",
       "published_at": "2026-11-20T21:21:53Z",
       "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Local developers selected for first 700 homes in new suburb of Molonglo",
-      "source": "Region Canberra",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcG1OZnl5SDdOSHg4a2UzXzZNdlQ5TDhTajFnUXh4M04zN1g1bTFmcENwNHlyNGdOT0NydGNZMDdXQ21FRHVOVTIwTU03UlhIT1lyVGp5X1RjRDZrY2g5b3pXZmVOZEFZbnZnRnNzd0xIamlRSWlrQ2JkWlEwb1pWMXFjVVJXc2xDSVBqQmJEMVFrOS1VY3RYSkdWT1FobHl6VlNTNg?oc=5",
-      "published_at": "2026-11-20T18:48:18Z",
-      "region": "Canberra",
       "topic": "Housing & residential"
     },
     {
@@ -254,6 +262,14 @@
       "topic": "Infrastructure"
     },
     {
+      "title": "Housing provider Ingenia’s settlements near-halve in September quarter",
+      "source": "AFR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHlJa1JFd2RiQXo5NnllNmNqZ0NYb3VvQ3Z3U0x3Z3JMVnhRZkJLbE1qcXhQQTVud2JaUEgxd29VMHdrWU1sNlFxbEFHSndIckZ4QllxaTJsMHhtRFFuTjR1bkJURWY5cngtSDkycXhGMEtwT09yYS05VGMxSG9UY081d1NTMVJkRl9fWWZTNm95QVAwd0gxUWRvZmlPbnlfcUtMNjlSbXh4dkhnUjd0LThRMzM1SnRIZXVPTE9DZUFSeWZNNEE?oc=5",
+      "published_at": "2026-11-18T02:04:00Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
       "title": "Retirement Living: Planning for Better Ageing",
       "source": "Property Council Australia",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEkzQ29hQmNqbVpJNGxwTFpTdHIzdWZjOHRkaHRicmFWSnJCbXBveFN0Zk5lWGNmWUF5TEpmblZWVnNrd0ZTeExEcENaWTYtM3k5amRkYWFXLTYwZDdFeUJ0LVhNYVFqdTNxZHZkUHgwS2o2eXlUUk8xUlVJcDV6a0NvRTdTNC0yVVVTdXNn?oc=5",
@@ -443,22 +459,6 @@
       "url": "https://www.canberratimes.com.au/story/9392636/the-plug-in-balcony-tech-that-could-end-high-apartment-power-bills/?src=rss",
       "published_at": "2026-11-16T18:30:00Z",
       "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Webuild named selected proponent for the Gabba Entertainment Precinct for Brisbane 2032",
-      "source": "jiji press",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem5UUm1uaGtKbGF6TmlvSFJKU2xSMjAyaTRMS2ZNTmpoTjZZUW9OTFBXcDdCNEFoU1A0MUdsOFR0N0d2ckdocUhzWm9venQweDlPRGNrMkt3TkE4RDF5QjB0MlhtcWxyUThqYXY4MEVEcDNuc2RJcVo1TnhSRklTNGYzczRQWFg0VFRTQ3VSNHV6LVpnRXk0YlBES3VveTBnWmdzT0l6SHVGREE1Ync?oc=5",
-      "published_at": "2026-11-16T15:42:23Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Webuild selected as successful proponent for Gabba Entertainment and Housing Precinct",
-      "source": "Webuild Group",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDYyRmtQVWhPN2VOX1VKU1NTQzJvcUFiUVlhNURwNmFrN0x4a3RoT0hsWm91UDZ0VHVodUZRWGhuOEVzNjV0MHVyeHBQWlR6OTYxbXFXN3pkMl9VV3Z6OFJ3RWg0MUpXcF9CUXp6dUowZG1aem1WbVo1cGpRQkFRM3NNVUF6RW5kbFVWck5hc2VXNmpWbWNhTjkyLWxVN2kyNmRMRGVDTVQwdG5lSm9XTnNfU2FxNndBNGVsbQ?oc=5",
-      "published_at": "2026-11-16T15:34:04Z",
-      "region": "Australia",
       "topic": "Housing & residential"
     },
     {
