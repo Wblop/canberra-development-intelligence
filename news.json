@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-11-24T09:58:27Z",
+  "updated_at": "2026-11-24T22:29:57Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "North Arm Road rezoning could unlock up to 230 residential lots",
+      "source": "Times News Group",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdko4LTFENFMxYUhfZWhtN25ldnU5Ql9fSlI1NG5oTThvTElicVZhSXFaMHBxRGVZdF80ZjVMUE85SWZ1bVNadk5zdkdpNzllV09ETnk4Tnl5OFRleXVjWDBNTVlxV3pQTDlnZ3NzVXdQT2ExQ3FXaVdUOF9fbk1SSnBrV2dLSFJWSG9HVU1ZMkJqRXA0TTVpNTR2M1JaNGdXeXhTUGF3aXY4TGc2WEVNLW01d3pudw?oc=5",
+      "published_at": "2026-11-24T19:46:04Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "MEDIA RELEASE GOVERNMENT’S PROPERTY TAX ATM DRIVING INVESTMENT OUT OF VICTORIA",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QZ29HcS1KWUxsbVBFSkNqTlV0ZURMXzUyTzd0Y3d2YWloUmZ4YTViX0gzQTM1RF9wYzMwc0p6R1Rna3J4aGpyWVhUMl9lM253NnUxWkUwQUhQSldoMkY4TUVMRVJaaDQ?oc=5",
+      "published_at": "2026-11-24T19:18:24Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Hackett residents call for pause on public housing DA, launch petition",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/hackett-residents-call-for-pause-on-public-housing-da-launch-petition/1018096/",
+      "published_at": "2026-11-24T18:45:09Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
     {
       "title": "Radisson Perth to open within up-and-coming precinct on the fringe of CBD",
       "source": "Meetings & Conventions Asia",
@@ -23,17 +47,25 @@
     },
     {
       "title": "Urban renewal precinct Ferny Grove Central opens in Brisbane",
-      "source": "www.buildaustralia.com.au",
+      "source": "Build Australia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1dBb0dxRW5Ba255eGNFYm1aaWJOV3RQeW0yUVFLeUJfYnROTFc2ZjhLUkNZZUhrZmlsOGhfbXp2NWlPQXpnU25rVEYwbHg5OG5feU1hY2d0WGM5ZnMxRk9JOFF0Nnl3eE1MSkg3Sm5EanpBTUU3OVdteklDeV94cXVEUHBPejRNTldxbTBoM2ZFemlYcW1Zc1hYU3ducVdabExmdHdITQ?oc=5",
-      "published_at": "2026-11-24T08:34:28Z",
+      "published_at": "2026-11-24T08:39:10Z",
       "region": "Australia",
       "topic": "Land & precincts"
+    },
+    {
+      "title": "R.Corporation drives urban renewal for South Melbourne’s Normanby Road",
+      "source": "Build Australia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVFOQ2FaMTlYUWtUMzVaOVFiY1JyYkVxT3YwRWV3bFYzbUhoaC0yU0w2YXhFVWZGZVBDdGMydm9VaVdSMUNDaDN0eW5YdGJUaEQ1eTE4Y0xOVXJZRmZnVTUtODh0d3ExblFYRUFGTkp5cEV2TWdjLXM5NVNsZ2pHVF9IMW9MQUdwU0RZSjJyVU5jSmdJT1FlUUNEN2tfSUVSay1IVmRYQmhuTHo5bHVNUjlxMA?oc=5",
+      "published_at": "2026-11-24T08:39:10Z",
+      "region": "Australia",
+      "topic": "Infrastructure"
     },
     {
       "title": "Recommendation to cut Staffordshire Terrace from Hume precinct rejected",
       "source": "The Canberra Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjNQRVA3MzcxeU9kYlJwTlM4ZWh4NFdVRVBjdnRMUkpqYTc0aWpFVFBQUlN5aTdUREgteFQxWTF6SG1mUjNsTTdUc1lueFZhSkFHWmpoQUVwMHc0dkFqSDEtSVhlQ2VjMThOZG8ydFI5b3VhZnZJbkc2cU54MFZ6X1M5WWM3X0hjQWlBejN2WGRJUVRVRW5KNXNEMTRYYmtfZVJmREY5QWs?oc=5",
-      "published_at": "2026-11-24T07:41:48Z",
+      "published_at": "2026-11-24T07:46:51Z",
       "region": "Canberra",
       "topic": "Land & precincts"
     },
@@ -44,6 +76,14 @@
       "published_at": "2026-11-24T03:28:20Z",
       "region": "Canberra",
       "topic": "Development"
+    },
+    {
+      "title": "Property Council support for Sydney’s Special Entertainment Precinct proposal",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHJyWGZ5Ykc3Nk03Q2RiT2tRTVBWcmdBQnJDbHNrb0VIQThrR0R5VDlzLW5jZFpFdGZNOWN0cWRUdS1RNGQ3bnlxaDZsclJ4bjRFd3ZzV1FfZ3Nvd2Jjemw1TDBrNktHMmtZWVhoMlloMFZibWcxODhiUTd4NzhqM0xRQWkxeGxvUXNIbXNzWDdGTWhvZkY1SFVfeU1mcl84cjV5bkM4SHFmUXRZZFd2ZEM0cmgxeFlIN01iaGVlZWY?oc=5",
+      "published_at": "2026-11-24T02:57:22Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
     },
     {
       "title": "Dollarama chooses Kensington’s Younghusband precinct for Australian headquarters",
@@ -132,14 +172,6 @@
       "published_at": "2026-11-22T20:39:31Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "MEDIA RELEASE GOVERNMENT’S PROPERTY TAX ATM DRIVING INVESTMENT OUT OF VICTORIA",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXg5UnhSY0ZvSnVmSGlwZDBaMV93c1ppSmd2dVZnZnJSX20wUFBhMWhyWW1LcDg5ejhRdXBiN0ttS19TYWl0eFFfR1pCbXNfaVJZcERub2hmZV9VUTNWX3JBUjJwOGVTX1Q0aFNoVloyS2lCY3dqb1pwQnNrSm5UcDRmcTBic3hlSmtKV3o5OThWdVlGRmFnbVVqTHcwRVU5eXpEN2V6V0JDV1A0SjlFdWZCNA?oc=5",
-      "published_at": "2026-11-22T19:15:27Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "Orchard Hills Rezoning: 5,900 Homes Get a Huge Green Light.",
@@ -366,36 +398,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Golden Bay Estate Wins Top Property Council Award",
-      "source": "Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3kzODVuYmZzM2pWVERwNGdtQS1yNEsyVXlfenlRM01XRWFyakgzcnZqR1NCd1IySVAycFZsVzZQcEJhWVJpVll1YVdfSk14WE5pWEdqN0IwZXNkdE0xblEtR3BmQzQtNEFuWVNncmI0ZHNhUWkzWU1ZMGFGeEtNX0xBOG93bkJ2T0ZMQkVsQjFQN0pM?oc=5",
-      "published_at": "2026-11-18T22:54:29Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "The design behind Aria's Sanctuary precinct in South Brisbane",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMENGVmNpTVYtUlU2V1lxcmkwZUJDNnZqTGN4M0NrQ1pVR05Ia3J3b21fYmxTMnE5R3dreHAyWG1qRmx6MWhfazAzYllqSW04RmlWaVVTVnVFRnBrdE85NG42MFFEYmdVRG0zcHNqbXA3NHpES0k4TFNpMERUa08yZXRPZ0lTZkhxWHZSdzVyejVOQ0g1X0xfcjM2ZVBaaV9UeDM0YVk4Mno0elF0S0ZFSVljYmFxV1IyUjZLdElIUQ?oc=5",
-      "published_at": "2026-11-18T20:16:16Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
       "source": "HerCanberra",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZng3dDV6VkM5SDczWjllRTg2c29iZU1pdC1JanBoMlNFNTBIa0lPY0I1NTczeFlEVkx4emp4NVhwTm1RSVNlMGFoMjRIZWxobzRhYXNKbmhqX1RWbWhSeHJCaGJPcl83SVVicFlnRWVnQXR4WGU1Q2tGdkRCSmE5QXdpNEJBRFV0dnEzZDh1QnY4ZkU?oc=5",
       "published_at": "2026-11-18T19:27:31Z",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "WA Property Investment Lunch",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LOS1EWTE1M2JLdHZXYThFSkdTNDN1SlhaZ1MydnBjVnNBNFpCdWdjS0FUbFIxUmRKUll0NkctbmlBbGZwSEJBWmFvLUFrVFNSRTBwNGRxY005TnRQTnBpd3QtWDRDVndwVno4MUdIaW1rZ3JFZ1BMXw?oc=5",
-      "published_at": "2026-11-18T19:27:18Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "Planning authority reveals key tests for Canberra lakeside stadium",
@@ -508,14 +516,6 @@
       "published_at": "2026-11-16T18:30:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Upcoming road closures and buses to replace light rail services",
-      "source": "Chief Minister, Treasury and Economic Development Directorate",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa2tjQ0RXMUR0UjRjc2VGNm1TaGFvaHNIajdEQzZGdU5uU0k0aFZPYmR3c3BfRzE3NDRPUFN6SlByOHR6WlpDZlV0R21Dc1RIOXpsTndNRDFyNDdiWERONDhSbmRSVmlFREtadGl0RHdPeDBVQ1dlUVhJOVNuT0xIX1ZDeGFUM0FqTXFGQ2VuaUFNTjhXZmQ0Q1lvUFJJenNKY2lVbUthblgxLXNrRUVIUWJCczhjaGZqLWhZUUtKUjhvM05mOHpYcFZ0cTZsc0FLSmlxSGJ3SnNRTkpJYVFOaVlDNDRQMG5QbHRiWmd3U09mdHJYa09xUmJySnd3TXhONGVkUjN3?oc=5",
-      "published_at": "2026-11-16T08:03:12Z",
-      "region": "Canberra",
-      "topic": "Infrastructure"
     }
   ]
 }
