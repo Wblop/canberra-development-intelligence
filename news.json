@@ -1,10 +1,18 @@
 {
-  "updated_at": "2026-11-25T08:42:02Z",
+  "updated_at": "2026-11-25T21:45:15Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 8,
+  "feeds_ok": 2,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Residents left angry by refusal to carve townhouses from Hume precinct",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9398267/staffordshire-terraces-to-stay-in-the-hume-circle-precinct/?src=rss",
+      "published_at": "2026-11-25T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
     {
       "title": "North Arm Road rezoning could unlock up to 230 residential lots",
       "source": "Times News Group",
@@ -505,14 +513,6 @@
       "title": "Restoration of one of Braddon's oldest buildings set to start as apartment plans revised",
       "source": "The Canberra Times",
       "url": "https://www.canberratimes.com.au/story/9392549/braddons-coggans-bakery-revamp-to-begin-amid-tower-changes/?src=rss",
-      "published_at": "2026-11-16T18:30:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "The plug-in balcony tech that could end high apartment power bills",
-      "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9392636/the-plug-in-balcony-tech-that-could-end-high-apartment-power-bills/?src=rss",
       "published_at": "2026-11-16T18:30:00Z",
       "region": "Canberra",
       "topic": "Housing & residential"
