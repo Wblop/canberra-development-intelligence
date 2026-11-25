@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:29:57Z",
+  "updated_at": "2026-11-25T08:42:02Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
@@ -8,10 +8,42 @@
     {
       "title": "North Arm Road rezoning could unlock up to 230 residential lots",
       "source": "Times News Group",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdko4LTFENFMxYUhfZWhtN25ldnU5Ql9fSlI1NG5oTThvTElicVZhSXFaMHBxRGVZdF80ZjVMUE85SWZ1bVNadk5zdkdpNzllV09ETnk4Tnl5OFRleXVjWDBNTVlxV3pQTDlnZ3NzVXdQT2ExQ3FXaVdUOF9fbk1SSnBrV2dLSFJWSG9HVU1ZMkJqRXA0TTVpNTR2M1JaNGdXeXhTUGF3aXY4TGc2WEVNLW01d3pudw?oc=5",
-      "published_at": "2026-11-24T19:46:04Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU21QQmFOSGp4ZnRIQi16alhVcWdQdXFxRDY4VFA5T3VMdHpRZ2RRRXRBWWxmLUctdjVwRm84c3FtV2NpQ2h3VnVLTlhnOE5felJtV1R0SjFNTTNLYldnQW9JcDJtQjR6eEZsOFJkbF9vWm1ZZDNJNS1XZlBNS0swVVp3Ml9PdGlNX2YzQ2pGbHhYYjhlLUFxZzg2ZEMtZ0RSTS1xRGpybmM1NGo2LUstSWtYNFNpZw?oc=5",
+      "published_at": "2026-11-25T07:15:06Z",
       "region": "Australia",
       "topic": "Planning & zoning"
+    },
+    {
+      "title": "North Sydney to host world-first immersive go-kart racing precinct",
+      "source": "North Sydney Sun",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUlST3c1RnhaVUoxRXdGc2F2MmVudnk0ZGVJREFsMGRZNV83NVlhVkQ4aUFuMmFyMFZmdXo2dWxFLUpiUkN3amJoRFNzM2ZXclFiTDg3Z3R0TWhNT1NqMm40RzhIdkxUZ0l2QVlyWmM2OUMxT3A2LXV5cS1HTEs3RmZVRTN6NDkyN0puWlhwOTdldi05TUNDSGk1Zzd6UklwLU1vZWhzYVd6RVgtS0kwcA?oc=5",
+      "published_at": "2026-11-25T06:12:03Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "ALP and Green’s housing tax hikes are ‘bubble-thinking that will knock the cranes off our city skylines’",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOENoN1hGWlhzaWxlMm1DMkR4V1N0MFJhcU9FdlE4OE1sQldFUVNUeHphaFZEam9FYU9YaTI3SHdKVWFGbUMzNzlYejN6eFNCT2ZvODlnV0FDaW93ck9fZGN4S2wxblVGY2VnVWtnY1c3SEpnRkwySTZLLWxKYndrUGw3UWR2VlFfQXFzTVpwUDBkRXJ6ZGVvT1cyRDB3MDY1QXJlOTMxclo1WTl1UTJPTjZpSnNvX1hoQVhtQ2hUQkUxM3pOWl9QcFphYUZkdi1TcTE5eVI4WWZCb3Q1dWtmTzU5NFdJUQ?oc=5",
+      "published_at": "2026-11-25T06:00:50Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Consultation open on plan to boost housing density around Perth’s metro stations",
+      "source": "ArchitectureAu",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1hGNEhqTm5WekpZRG8yS3gxZGNaNnRQODk2WVZlSjNPSlRSWjVWSkhzVkx1ZzRYMXFNWUw4TmpiYmxEdThrQTg0S3VGVGtTdjJCUVNvQmFLVURNWFZET1cxQUtHNHMxT1ZxLUpVeW9iTXpEanBYMGZwVkVnZThSTE5kcVpNZWNhZ2E3MmFVY3NraFNkY1pQNm9YTjVWejJyMzl1aDc1VUl5aUM1eVowaXJKbTdmVGc?oc=5",
+      "published_at": "2026-11-25T05:19:34Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Ebb & Flow: Plans unveiled for major riverfront apartment precinct in West End",
+      "source": "Apartments.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmM1MUJuVEtqSmhway1WSE9JRDV3elZfcWJ0aXRvWmlVckY1TzYyNXVWTVFsWjdhMFpKc3RTR3QxNFItYjNHZXI3emIxcnc1b0RaV0d5VGJHcFljYnpZN2tlbG4ydDc2aWtacDZ3QnBiZnd2ZlVjUW1HRWkwbDJJT2cyVF9qclcxNlhYWXcyNlFHRnFvb2hYNVc4Y1hhcGNMV256SUhySGFFSG9fUW5LYVRSU2M?oc=5",
+      "published_at": "2026-11-25T02:53:47Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
     },
     {
       "title": "MEDIA RELEASE GOVERNMENT’S PROPERTY TAX ATM DRIVING INVESTMENT OUT OF VICTORIA",
@@ -30,20 +62,20 @@
       "topic": "Planning & zoning"
     },
     {
+      "title": "Shaky foundations: Property giants hit a wall",
+      "source": "The Australian",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVFVCcHljenlKRUxEVVZZcVFhVUxBcGZGT1o4SDdyWHVPaW1MaUJ0Vkw4VloySFhfUlNzek5SX1lrcUwtak5jbUdDNG0xYlJFWTRLeE14VHBWRXN6VDNSUERCRDJaTVpHU3FoSl9OdWtzS0Q1Wm5Cakp1NDJ2OFFUdmpJUTNjR0s1MkhLM2NERHl6cEpKb3VoaEdaaURrejFjTWZ1cF8wSS1jaTU0VG1OVTNwNDFHdk11WGlweEdmd1ZldVh1TTFXd21wcFlQZzlRX2d6WmVXOWtkRlR3cC1lRkx4SGNPamVvTDFkSk1Gcmkta2x0RU40NElBaDB1Y1RKRXFr?oc=5",
+      "published_at": "2026-11-24T09:38:26Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
       "title": "Radisson Perth to open within up-and-coming precinct on the fringe of CBD",
       "source": "Meetings & Conventions Asia",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRWRZcV8yQ3FHakNwQzdLRTI3amZXRVV0VUJUZnVQdEI0ZElNR29BaFEtbERTZXNYTWt5R1JsOGhUdEJRS1ZXYTgzMkgxMmNMQnhWM2RQME9oREV4NTFkSllzMTVlZk13YjR4V0w0NGVIVXhEZUZjZkFvNjc5Q2ZrVVZES1FBOEh4dlY3cnFOWHpiOEM3RHByNDlrdm1zeFhTQU5hcGxKZGtEa0F6OFczT0d6aVdfXzhZekNvblRZWnJxRlNYUFFHcnJUdDJQWFhUMUVLLWJB?oc=5",
       "published_at": "2026-11-24T09:24:09Z",
       "region": "Australia",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Shaky foundations: Property giants hit a wall",
-      "source": "The Australian",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVFVCcHljenlKRUxEVVZZcVFhVUxBcGZGT1o4SDdyWHVPaW1MaUJ0Vkw4VloySFhfUlNzek5SX1lrcUwtak5jbUdDNG0xYlJFWTRLeE14VHBWRXN6VDNSUERCRDJaTVpHU3FoSl9OdWtzS0Q1Wm5Cakp1NDJ2OFFUdmpJUTNjR0s1MkhLM2NERHl6cEpKb3VoaEdaaURrejFjTWZ1cF8wSS1jaTU0VG1OVTNwNDFHdk11WGlweEdmd1ZldVh1TTFXd21wcFlQZzlRX2d6WmVXOWtkRlR3cC1lRkx4SGNPamVvTDFkSk1Gcmkta2x0RU40NElBaDB1Y1RKRXFr?oc=5",
-      "published_at": "2026-11-24T09:02:20Z",
-      "region": "Australia",
-      "topic": "Development"
     },
     {
       "title": "Urban renewal precinct Ferny Grove Central opens in Brisbane",
@@ -364,38 +396,6 @@
       "published_at": "2026-11-19T03:01:09Z",
       "region": "Australia",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "Brisbane council approves sale of land to shopping precinct developer",
-      "source": "cedarnews.net",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjVGUmhvazZHdERVNmFhei00UnR4RS00NklMSGMyX2YwaXQ5Rl9KbGhVVGQ1Q0pfSzloOHA4cDlYQTBucDhaOE1raDdMS2NiZExfWlpsa19Gak04Z2JuYUsySllGQ0FzMHVoVnU5ZkJmMnVrQ2NCNTZUUlE0SkVWazRWekxCS3U0akY0YTgtMFVORFAxZnE2UGlB?oc=5",
-      "published_at": "2026-11-19T01:23:14Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Town of Mosman Park’s Draft Local Planning Policy No. 50 – Fast Food Outlets and Drive Through Premises",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYlBOVjFJNWl0cmtSSjdEbEFLREROaVJ1YWZTT19rM2Nfd3NlTU1SZmpIZ1JrYVZ0UTVnLXNhN082WnhEZVlXUHlNMnYwVDBDQWVTTko4YU9fbkJKSzkySVIyVENJZ3oxdFJWZXhvb2E2V01rM2RNYkJWMmlZSnZOTTdYQndXdlozdi1sZGxLeURpTGptazNCSEdJM185bTVSOTlrdFJMc3h0WXh4TTMzRHJrN2IwMW5La3VvOUFtbGhSdXhsWlI5VEw5c1FTaGxkTmlNN190Qmdjb3F6bFd3?oc=5",
-      "published_at": "2026-11-19T00:11:39Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Retail property’s $47.5 billion national contribution runs deep",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnpsNncyY0oxM0hxcER3RHpIZ2NIV1BXd2VqWTBkX0s5TVdCYzkyMkZtc0xsVzdjQ1pRbXJXcWlleW5VXzNtT2RJUkV2UlBJV2FoQXNydVk0SElEMGc1SlZjbHZMbkVSY1M2QjN6X1hpY21MYk1Uc21oMjVPM1QzdzBoalBuaDVKOElDdkd6SF9uVGNSWDcxbGVVZFNYbUY3ZGZTNkR4dzRfbUhQMUFQeQ?oc=5",
-      "published_at": "2026-11-18T23:57:19Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Future Metro Hub to Bring 5900 Homes to Orchard Hills",
-      "source": "Real Estate",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEVKNGdsajFXeWp2OG5tZUJsQTUwdTlxdVZzYnJkMzFGNGxSeVp0UWlQcm92SDN5ZHZ0eFVhMURoTE1pVTRpZnViT1hMbjVmS2l2OUg4YlBqNVBBOEQ5bkltSjU3eEJGOW4tbWQ1NHpYVno0VnU5V0pDRXdqWDhQR1NtdXZ6SE0wSVRWVFBlelhTbkU?oc=5",
-      "published_at": "2026-11-18T23:55:26Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
     },
     {
       "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
