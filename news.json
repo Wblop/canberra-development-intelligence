@@ -1,17 +1,89 @@
 {
-  "updated_at": "2026-11-25T21:45:15Z",
+  "updated_at": "2026-11-26T08:26:50Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
-  "feeds_ok": 2,
+  "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
     {
-      "title": "Residents left angry by refusal to carve townhouses from Hume precinct",
+      "title": "West Dapto investment shows how infrastructure can unlock more homes",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRWRrbG5kQ3RTZmNVSHNJaHFEZWpWRFlTNmhpU2JXbmhWaHZLWmJfYnRieE5oUnMySkNIR0lScl92WGp1UGQ5R050ZFhlVFlreVRVWVpUUVFIWkVBZklZU2JOdWw2NTc1Ul81Q0phMGw2Y2pvMFBBRzZqWFFfZ1FUT3QxVFdpNlRmVmNfR2NtV3gtelIyNU5RTHVDSjFtSGlLcTRlQ0NEejhVc1pZcEpFV3E2WjRabGNVQnc?oc=5",
+      "published_at": "2026-11-26T04:25:12Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Developer licensing changes a chance to get the balance right",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2M5amxKVTNSQURzeGJ3aHY5ekN0T0w5aFY3VGlPX2VSNXpmejBVS05oNTBqamhHVmpkSy1NT19vV1FZUXpIWkR5bTg1UzI1YVBfbEhGeVd5NlpvQVkxWjUzc0k4NjR4cTEtVnZOdHdQZFVNa3lyMFUtNXZxem1NQ2xzcW10MWI2d05rUFhXRjQyODZudHVlUDNPZ2lDbnZISHZuZXE1WlFzMGJsQWtRSA?oc=5",
+      "published_at": "2026-11-26T01:24:28Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Recommendation to cut Staffordshire Terrace from Hume precinct rejected",
       "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9398267/staffordshire-terraces-to-stay-in-the-hume-circle-precinct/?src=rss",
-      "published_at": "2026-11-25T18:30:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjNQRVA3MzcxeU9kYlJwTlM4ZWh4NFdVRVBjdnRMUkpqYTc0aWpFVFBQUlN5aTdUREgteFQxWTF6SG1mUjNsTTdUc1lueFZhSkFHWmpoQUVwMHc0dkFqSDEtSVhlQ2VjMThOZG8ydFI5b3VhZnZJbkc2cU54MFZ6X1M5WWM3X0hjQWlBejN2WGRJUVRVRW5KNXNEMTRYYmtfZVJmREY5QWs?oc=5",
+      "published_at": "2026-11-26T00:41:49Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "The plans promised shops, homes and public space. The developer says the system failed them",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGFUNEtscUJQQVVhVTZnYWQtcTM1S3dJamdJckhXcVVJSmJFeXlubG5mMW5xSGF3V0pnLVR5RTlGcU4wcEVuMWt3cHNtRUV2Wi1BNmdmNTZRVEpvNU9yTmlUd05JblFHS2x5MnMxMlIwS2NfM3htUU54ZENOblNIRW5zdFZYZEpael9ta3ZyeURBX01JVXN5Y3U0YUh5Qm0zeng1VElJUmtOU2s0ZzRZ?oc=5",
+      "published_at": "2026-11-26T00:34:08Z",
       "region": "Canberra",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "Rethink Capital taps investors for $17.5m Perth medical precinct purchase",
+      "source": "Green Street News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDd3T1RIcHdPazh5eE5KZkE0b2tkejlLVVRWWHZLdE9rYXpEREx5SG1oN05iVWtZb2lrdEIyRm9SdWpEYy1VbW1wSHVJaEdyb3JYSzk4UDF2WVhhUzV1V3pYdmdfVGc4aWNqT01LcnNWU2Y2RFZtWXp4UFNMbHlOQnJIS1FTTXB6dUEyc01td2ZYazF4MEx2SGVobElkb0VsVEtjXzNHOGRtLTlvQUE?oc=5",
+      "published_at": "2026-11-25T23:23:13Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Adelaide Football Club Raises $169,520 on Thebarton Oval Precinct Fundraising Day",
+      "source": "Ministry of Sport",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQU9GdWV6XzA4R2FfQUotZVVEdEdwN05iVU5NazBwWGlKTTBOYkxwS09aWTVjaU5USkhIZUNjY3Q1Y1lWQ05NT0NPam5LYnFnYmt1VnQ2Wmdwdk1sYzJScGdnYnJzMG9mM20xZFpVbHJFU29JTFRWVHlnb3NRQmJrUElyUmxremhMbkF5Yl9WSFlHZEZxZXVIUG1MWkJFcm9INnhZa0pJbTlMd0RN?oc=5",
+      "published_at": "2026-11-25T22:35:17Z",
+      "region": "Australia",
+      "topic": "Land & precincts"
+    },
+    {
+      "title": "Residents left angry by refusal to carve townhouses from Hume precinct",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmdRYlkxekpuYXJQNGppZDhxZVN4eG1COElFVHBETG1GdXZWOFRNSV91WUhUZ3JMRXREUUpCUGZsd1FMRnNMZ0k3RjlybjcwOGdaYUQwVmhCV1pIVmtGVVkwRHk0c1NpX1IzbHA3ckRhRWVFdWszWkRrZWFKbm5hQ0FYMFlMQ0dGR1NxaUZLN0F5LUtnakpUVXp0TXhwTkttQXVveDBZa0hSZw?oc=5",
+      "published_at": "2026-11-25T18:34:16Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Sydney’s historic Schweppes Building has been transformed into a $2 million hospitality precinct",
+      "source": "Time Out Worldwide",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWkxTllpUnhZczVoZXFCRWNXWHA0Mi1laXBmdHppeTJqMU1WakdhRGpWWWUwendzSFdtSGhsTHFvYmpGcUhuY1N5TVdSU3gyQXg3ZXNsMl9QckNhSDBtamw3M29pYlhrLU16UkJmdndaand6bXFxQjRRN29uaVlLeUx0Y1JzNENBemlUOGdPU1dtSllCYWJoSGlFVjdtZVItZTRSOGFtZkdRZXhCTlVkdXNUYi1LU2R0TURlS2M5RFE4Q1E?oc=5",
+      "published_at": "2026-11-25T15:27:50Z",
+      "region": "Australia",
+      "topic": "Infrastructure"
+    },
+    {
+      "title": "SOM to Lead Master Plan for Brisbane’s New Gabba Entertainment and Housing Precinct",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SUTJwNlJXRUF3aUNCZDVSOER6bTNBdkpXYll3ZTBYSmdMZE1mZXUtaEYxZTE0Y2hqeTJodG5VWUZmWVJZbE1sT0tONFVCZHJMLVBFZVB4aXpJZl9nX180NQ?oc=5",
+      "published_at": "2026-11-25T15:27:20Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "The Property Congress 2027 – Annual Golf Day",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDdabGo3VlAxdW5XaE1ENTRCMWxhRFoydEFXQWNVcUdVdWJmbFF4WElYRThZb3NYUDVsMGZUaHQ0V1BnUUFKaENfUVMyMjJLTnljcU4tQS1lUEI0Ujh6ellUWUZ4dmxHWkdzdVA3OWpCZkR0V1ZqaTlrOWFwZzNjb3gxRVFBanNVMVB3?oc=5",
+      "published_at": "2026-11-25T15:16:37Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "North Arm Road rezoning could unlock up to 230 residential lots",
@@ -25,7 +97,7 @@
       "title": "North Sydney to host world-first immersive go-kart racing precinct",
       "source": "North Sydney Sun",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUlST3c1RnhaVUoxRXdGc2F2MmVudnk0ZGVJREFsMGRZNV83NVlhVkQ4aUFuMmFyMFZmdXo2dWxFLUpiUkN3amJoRFNzM2ZXclFiTDg3Z3R0TWhNT1NqMm40RzhIdkxUZ0l2QVlyWmM2OUMxT3A2LXV5cS1HTEs3RmZVRTN6NDkyN0puWlhwOTdldi05TUNDSGk1Zzd6UklwLU1vZWhzYVd6RVgtS0kwcA?oc=5",
-      "published_at": "2026-11-25T06:12:03Z",
+      "published_at": "2026-11-25T07:00:40Z",
       "region": "Australia",
       "topic": "Land & precincts"
     },
@@ -102,14 +174,6 @@
       "topic": "Infrastructure"
     },
     {
-      "title": "Recommendation to cut Staffordshire Terrace from Hume precinct rejected",
-      "source": "The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjNQRVA3MzcxeU9kYlJwTlM4ZWh4NFdVRVBjdnRMUkpqYTc0aWpFVFBQUlN5aTdUREgteFQxWTF6SG1mUjNsTTdUc1lueFZhSkFHWmpoQUVwMHc0dkFqSDEtSVhlQ2VjMThOZG8ydFI5b3VhZnZJbkc2cU54MFZ6X1M5WWM3X0hjQWlBejN2WGRJUVRVRW5KNXNEMTRYYmtfZVJmREY5QWs?oc=5",
-      "published_at": "2026-11-24T07:46:51Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Firefighter injured, 100 evacuated during civic building fire",
       "source": "The Canberra Times",
       "url": "https://www.canberratimes.com.au/story/9397292/firefighter-injured-battling-rooftop-fire-in-canberras-cbd/?src=rss",
@@ -146,6 +210,22 @@
       "source": "Green Street News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YWnBjTnlnbW9LUEE5TlZkUG92VFpXRC1OTGJySDg0bjc5V0tURVpiZU93bUlyZ3ZmeEY2SGtOMTFjQWJtN0c2TjI5Z2dCRGZwMTZiQmhWaDdVMGJMUGU5cFNWWFd6NVlhUFpjN0Y2Rjd6d21ObUV5U3ZabFR6cHc?oc=5",
       "published_at": "2026-11-23T22:27:32Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "Melbourne Property Market Outlook 2025",
+      "source": "Property Update",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdHg0V21ZUXB4Z2UwUnV0WF9LMVd3d05MbVhuZTA3MmNFVFFGTTZPNGdkdVNrQTE4bjRSSmdBMjVWLW5pVVAwaXpFLWpMNzlteGtia2ZRRWNUdUFUOGJ6UlhDajNmVm16YXlrcw?oc=5",
+      "published_at": "2026-11-23T08:00:00Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
+      "title": "What’s ahead for Brisbane’s property market?",
+      "source": "Property Update",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TWV9TeDg2Njh2dXR4eGVmMDNzVVNudXI5YXJaVTZ4a1VyaTV5dDZGcDVzcm1tNUdDSU1FRjdTbUlyeWFRWTVQcjBHdE1hQmhLX1pSWVAtcXdYQU5zc2xlVm9fVHh5dUN1Zm16MmY4N2hGdlhoR1pF?oc=5",
+      "published_at": "2026-11-23T08:00:00Z",
       "region": "Australia",
       "topic": "Development"
     },
@@ -214,6 +294,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Orchard Hills rezoning green-lit: 5,900 homes on a trimmed 155-hectare site",
+      "source": "NewsCop",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1EzaTZHN21EYVk1Z25fMkIxakdaMnRBOFo3dUppNExxVHhVcUxvUWFuOW94M20xcTcyMEdHYmdRMFVpa3RwMGc0TnZsZExPTl9oMXg2S1l3R2ZWWXR5cnJkWjc0V2ZHZUJUS292dUdiLUQySWhV?oc=5",
+      "published_at": "2026-11-22T05:00:51Z",
+      "region": "Australia",
+      "topic": "Planning & zoning"
+    },
+    {
       "title": "Orchard Hills Rezoning: 5,900 Homes Get a Huge Green Light.",
       "source": "NewsCop",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sb1EzaTZHN21EYVk1Z25fMkIxakdaMnRBOFo3dUppNExxVHhVcUxvUWFuOW94M20xcTcyMEdHYmdRMFVpa3RwMGc0TnZsZExPTl9oMXg2S1l3R2ZWWXR5cnJkWjc0V2ZHZUJUS292dUdiLUQySWhV?oc=5",
@@ -270,44 +358,12 @@
       "topic": "Planning & zoning"
     },
     {
-      "title": "A rezoning reshapes two Carr-designed projects in Melbourne",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmE4clB4OGFva05ZcWh1WkM1cjdFZ0NhUGxPMENwNjJ5THQ3RU55bGdJYVYzVHE4eW9ZVUVLeWY2Ykdhc1RibDNXdXc3RmxGWHZOckZnZlJwTHdhTjF6QVljdnJPM0FDUHZweGJ1aC1sOXl2SExmZi1XSHpMS0pJdUZGM2hXS0xuckV0Z2huVjdGcndRNkNPZ0FFOEZXUk84YThiQ2pBUFh6YUZR?oc=5",
-      "published_at": "2026-11-20T00:46:51Z",
-      "region": "Australia",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Gather Brisbane consortium selected to deliver $1.4bn Woolloongabba arena and housing precinct",
-      "source": "Architecture & Design",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmpfdWpZaDdxbDRYcC0xZDhNMHRrTDBOQXJ1bU1HVmc3Z1MxTkVycTZBYW4xclJjOXNPUHJCUnpIM2ZFdU1vYTNCbFpudWdna2d2cXlQNHA3Q1UwcEZxWk9WaElJTGxLWXpGUzVKSmUyZ0ZlMUJQY0hsa05VZzhNWGhuM3Fuc19HZnNvdzhXVEM5eUpnb1l4VDZvVHJOQlVaa0RCSEw0MC1QLTVNRHg3RQ?oc=5",
-      "published_at": "2026-11-20T00:41:50Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
       "title": "Resort-style property renovated with great eye for detail",
       "source": "Region Canberra",
       "url": "https://region.com.au/resort-style-property-renovated-with-great-eye-for-detail/1016724/",
       "published_at": "2026-11-19T23:30:20Z",
       "region": "Canberra",
       "topic": "Development"
-    },
-    {
-      "title": "ChatGPT in Practice for Property Professionals",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlFKbnFwY0F1SWNXVjY5M0Q2S0tDdnhEY1BHbEdJeVhnQThjQVQtSGx5dHBrZG9NVkxob0xib3pKMnJCWGZMaWdHVE51SVh2TmhRNFcxbW54RC11N0JVM3RDNFlOTGJzQno0N01UMk41cmdHR1ktOGxuNGJGUG5DdGppdlRUMXktMUhXTXhQcnNCVXFldEhhZFNtRGFmemZyc2RabG5SNzk?oc=5",
-      "published_at": "2026-11-19T21:50:38Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
-      "title": "Green light for 850 new homes in Beverly Hills town centre",
-      "source": "St George & Sutherland Shire Leader",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDd1TWROcHA3bXk3OVhtTE5TR1dTTG42OGZmUDNOUmc1RWhiMUg3X0dEdW5xdldyRDl5UVh4RTBld040bDVqSXEzV0tMYWN3WGNOR25GMC1NOW1lR3JDLU9Xc0lvUXlualZUVUZJZno4RTRHR2FDWUVHRFFUdS15Z1hPbVp0aHotVmluYjF1T0Y2RWlxSHRhRUhBZm1YaV9vQlNVUVNUeFUxVC1RR1NneA?oc=5",
-      "published_at": "2026-11-19T19:03:35Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
     },
     {
       "title": "Three homes, 41 women in need: Canberra’s hidden crisis of pregnancy, domestic violence and homelessness",
@@ -342,14 +398,6 @@
       "topic": "Development"
     },
     {
-      "title": "Inside the fight for Brisbane’s exclusive $2.5bn foodie precinct",
-      "source": "The Courier Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRktxeHZRYjV6RlVFMXY1Rmptamx1TjY0SW81N0dhZW5ndkI4VEFaRXExdWNsOGpuZWRxUklDdmw4ME5fX2ZyRTI0SnFaNnpLMnZBQnZlUUIyTXpEV2libTB4Z2huWDdMalRwVzBPU0Zva2s2MTg1eTZ4ZnhJYVlGbF9rVV9zWDgzZG5wSU9obGdHUU1lWFlWN25TSWNWTnJ0UDRxNHdCeU9EZWY2bDBmWG5wSDlDczhFb1NCZ3g2YUZ4OEJ4aW9ZRnBtUTZ4MzJGWWtQMDdaZ1ZmVDg1VXFscVplOS1pTXJvM3libE1mUQ?oc=5",
-      "published_at": "2026-11-19T18:03:55Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Housing crisis sees increasing number of women trapped at home with their abuser",
       "source": "Region Canberra",
       "url": "https://region.com.au/housing-crisis-sees-increasing-number-of-women-trapped-at-home-with-their-abuser/1016705/",
@@ -358,52 +406,12 @@
       "topic": "Housing & residential"
     },
     {
-      "title": "Box Hill’s new $360 million dining precinct features an indoor arcade, a self-photo studio and Australia’s first Nong Geng Ji outpost",
-      "source": "Secret Melbourne",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTFvT1puLXE1R0pBdnhYbzJPbGllX01nUXdqd0FGS2RfR1Ntbk5FODZzek5PdmZ1YXNPSVNQSGx2UFlTTDJEbjZnMDBqZXVEX05FUXRYSTZPeDFTcFAtcUp0U01ydDRNZC01ZEVVS2lDM2ZHNzR6NHZpY1VxS3NhYW9vX2xwUDlEdHpv?oc=5",
-      "published_at": "2026-11-19T07:51:46Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Hackett community shocked at three-storey supportive housing proposal",
       "source": "Region Canberra",
       "url": "https://region.com.au/hackett-community-shocked-at-three-storey-supportive-housing-proposal/1016861/",
       "published_at": "2026-11-19T05:08:52Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Western Sydney needs infrastructure to match its growth",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3JMVlJWemNhM0E2RkU5SDlRMDlIZWs3QW8xc3JWSVRTSEItRjItMXE0SFhHb3hndExjUW1lU3NWdDVpV0UtMTFQM1NScU56WWV4QkVNQmwtQ3BCU1I0MThIMjlDQ3RWMThFRjdCbk9FQ2VudnpvMWpXcnJwODh3SzJEdnNULWpjb3JNbXVuNk4xOWJacHpRR3BKdjlfanlUd21McFVnU1o?oc=5",
-      "published_at": "2026-11-19T03:58:51Z",
-      "region": "Australia",
-      "topic": "Infrastructure"
-    },
-    {
-      "title": "Parkville heritage overhaul adopted after final debate over biomedical precinct",
-      "source": "themelburnian.au",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZktqQVlCTm5PUTVBdTV0R0c1WmUtQWJnZXQtV1EwMEdTM1RFUm9NV0s4MWJFMExzUDJ2V3F1VVZaWWs4c1JGSzZjNGJGSU9mTFpkTHY5d3BhYkJPdzdVQjNvb3FESnRyQ2lmeTNCVG9mby1RUVctcWd6WV9OYkJxNVJFYTZqQjlBQUJDYm92LTRoRV9hcV9wWDMwMzRQWU9Wam5aRUZtdm4?oc=5",
-      "published_at": "2026-11-19T03:24:00Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Next NSW Government must back infrastructure, skills and local jobs on the Central Coast",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3ZwMnNRS2NBOURNZi1pdzNqRG85LVZnZG5PaHJFR0lrNW03Tlo2al9BUzBmeXZPYjZxclVmcEJjLTRTc0p3cFFOcUtQMXg0YlExVVhSQVJSV3lIOEdROUJMX1pOemp0QkVCYjRDZm15ZzVNMEgwUE9Ua3hPMjdpdjhySTV4eDBZOXowSTNxbGo0TjZmenpPVHBWdF9kdTNIVVJSZVhONVp1V1BpN3dKMERhaEkyMHlLQ0FzSzBFTnFBbGhhWUlRUWFYVmR6M0JGTW1V?oc=5",
-      "published_at": "2026-11-19T03:18:26Z",
-      "region": "Australia",
-      "topic": "Infrastructure"
-    },
-    {
-      "title": "Pellicano, Perri Projects Complete Decade-Long Bennetts Lane Precinct",
-      "source": "The Urban Developer",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHpoR0FSZ0ExSjZBLVNiTzNraFBCOWo2VTVzLTUtUU9jYUEtdDdYSTBCYUZ3TVNNYVVoLTI1WGItUUdIdGFYNXJTNnl5MHF0RjVQeWwwMUh6Q0NVT1kyMFBRXy1ueW45Sk9ObjlKbGJYT1pBeUtlekI1eVRnNi1LR0l3eW51dXhCaEVvTm9vMWtiaW8tVVNjekl0VlBIaFk1LUZxMGtVZ3JRWG9TRWpYbUxTV3g?oc=5",
-      "published_at": "2026-11-19T03:01:09Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
     },
     {
       "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
@@ -444,6 +452,14 @@
       "published_at": "2026-11-18T14:19:21Z",
       "region": "Canberra",
       "topic": "Infrastructure"
+    },
+    {
+      "title": "New lyric theatre construction information",
+      "source": "ACT Government",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFJCTVJDUHpuN1p5WE01UUpSenJCdk02QUNKR2VDbjU5U01DN2VFVlZVcGFVTU8wcEtreVk5RUhXdGI1WmFkbk5TejBTXy0wVDlFdF9NN3ZxQ3VTWTMwbDV1Z3BhMVZ6TUJ3Zk9tN3lkNVdGMnRqODdqX3h1U2pBY0thUnRGTnNWZzJvbkJTUXc5QjRrVGdvcU9GZUN6R0NFTFZYeTl1SlhBSkNKdVdmRmpXN3ItQnJJRlpvYXJtZEE3TkRNLXNNWDVucG5VSE1Bb3N6UE8tREpRZFVtelE?oc=5",
+      "published_at": "2026-11-18T08:00:00Z",
+      "region": "Canberra",
+      "topic": "Development"
     },
     {
       "title": "'Community should have a say': suburb blindsided by housing proposal",
@@ -500,22 +516,6 @@
       "published_at": "2026-11-16T21:48:01Z",
       "region": "Canberra",
       "topic": "Land & precincts"
-    },
-    {
-      "title": "'Surprised by this lack of consultation': Hackett residents demand more time to reply on development",
-      "source": "The Canberra Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPckJWUWh0RXVkcVowUUpXaVcxbXAwdFpSTTJsSlZmX3RwWmZINFV5dDNQb0MzajVmeEJ4YXhvbU5tOG5rSDltYTZOUmpZTF9ESmloX3Nxcm5oUllENEkxaWFpdTQzQ2FEUno5ZUdMdHFveDZvSFd5Z3F3M3RFVlRVUlRZRGx4R3J1T20zN3BfcV9relRoc01DQWsxMVNoc3FxSkdPTDVEcy04Z0k?oc=5",
-      "published_at": "2026-11-16T18:37:29Z",
-      "region": "Canberra",
-      "topic": "Development"
-    },
-    {
-      "title": "Restoration of one of Braddon's oldest buildings set to start as apartment plans revised",
-      "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9392549/braddons-coggans-bakery-revamp-to-begin-amid-tower-changes/?src=rss",
-      "published_at": "2026-11-16T18:30:00Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
     }
   ]
 }
