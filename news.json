@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-11-27T08:41:03Z",
+  "updated_at": "2026-11-27T21:22:12Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Markets Residences developer still in business, working with receiver, buyers told",
+      "source": "Region Canberra",
+      "url": "https://region.com.au/markets-residences-developer-still-in-business-working-with-receiver-buyers-told/1019246/",
+      "published_at": "2026-11-27T18:45:08Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "Why the money being poured into housing isn't making life easier",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9399629/is-social-housing-the-best-way-to-improve-affordability/?src=rss",
+      "published_at": "2026-11-27T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Next light rail stage granted environmental approval in 'significant' step",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9399596/light-rail-to-woden-granted-federal-environmental-approval/?src=rss",
+      "published_at": "2026-11-27T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
+    },
+    {
+      "title": "Belconnen Markets Residences developer enters receivership",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9399043/belconnen-markets-residences-developer-in-administration/?src=rss",
+      "published_at": "2026-11-27T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
     {
       "title": "'Enabling housing supply': Thoroughbred Park progresses to next stage after community consultation",
       "source": "The Canberra Times",
@@ -22,10 +54,18 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Belconnen light rail, new stadium flagged in fed govt masterplan for Canberra",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU1xTGNtZUlFVjlhV3BCMUh1SkpfTTN3ek1TOGRfQTdFMmFHVTZxbVJvNnBhRnpkYkZ1MUhhSnR6cjlnTkppNUNXaW9WX0RQYUdBMjhhQXJ4QndiVUlOMVREN3BLR3lvSkJ2RzZqLVgwNEMtVkZaVV82NmZkWDFWMU5zS1dVd3E2QTlQX0lhWklqZGlhODI2OEdHOVFrQW9QcjBzMV9ra2M?oc=5",
+      "published_at": "2026-11-27T06:14:08Z",
+      "region": "Canberra",
+      "topic": "Infrastructure"
+    },
+    {
       "title": "Thoroughbred Park precinct to require public or community housing",
       "source": "Region Canberra",
-      "url": "https://region.com.au/thoroughbred-park-precinct-to-require-public-or-community-housing/1019326/",
-      "published_at": "2026-11-27T05:44:07Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnpzZmxrUDFGWEg0N05YOWtFZzZfY2ZYU0E1OVRjM3JsUnQ1QXo3TXJoVndCOXlwb096cTAzZDdzQlFXNEpWb1FiUWUwNXpKNzZtMTU4TWdPaWQxRk5xRXhXN2ZDbmExUC1RSXhaNDlCU1YzSUc2eEVqUTdBQTJfUHdtbUFVRG43OUE3d2R6S09UdEwzeXVYLUtsVnE?oc=5",
+      "published_at": "2026-11-27T05:48:25Z",
       "region": "Canberra",
       "topic": "Housing & residential"
     },
@@ -76,6 +116,14 @@
       "published_at": "2026-11-26T08:23:51Z",
       "region": "Australia",
       "topic": "Housing & residential"
+    },
+    {
+      "title": "NSW 500 Women in Property Mid-Year Networking Event",
+      "source": "Property Council Australia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3F3alU4NDgyX2ljZnFpbnhOSGF0NHRRN3VRSXhTTVZWRjh4ajlXTlAwd2xRcmNkTlNrT0Q0WW5kWVY1RmR0YzZHZVVCNVFqalJBOWR6ZnBBU0hXa0RtNjhsSW40emhCQloyb042alFNMGtxWGE2QWFRRUxob0NTeklKYklhYTZuXzMyYjNoMS13eDJSZTRvYjFUZUN0V2drMEJtdw?oc=5",
+      "published_at": "2026-11-26T05:41:40Z",
+      "region": "Australia",
+      "topic": "Development"
     },
     {
       "title": "West Dapto investment shows how infrastructure can unlock more homes",
@@ -350,14 +398,6 @@
       "topic": "Development"
     },
     {
-      "title": "Ocean Reef Marina’s new waterfront precinct is now open to the public",
-      "source": "Perth is OK!",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmZrSV9yd3QwODk3b0tUeXE1OTBTYWxldkxvZEJRbnd1ZGpJTUdCWHZJTW9KVTRtVmhKdGZVVFJyVHlyM3VnaWN5aTlHNXhvM2R1SFdmdkJPWDlpc2N6eUtwSkk3RnR4c2hLalVWbHlQR2hwcVZ6bGZGX0hKRGZ2ei1MRzY3Y2JlRjRBczE1eVZyVDBkblBEUTVKN2VIa3FBR3c?oc=5",
-      "published_at": "2026-11-23T03:30:46Z",
-      "region": "Australia",
-      "topic": "Land & precincts"
-    },
-    {
       "title": "Why do 60 Housing ACT tenants have two tenancies when thousands are waiting for a home?",
       "source": "Region Canberra",
       "url": "https://region.com.au/why-do-60-housing-act-tenants-have-two-tenancies-when-thousands-are-waiting-for-a-home/1017758/",
@@ -454,6 +494,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
+      "source": "HerCanberra",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZng3dDV6VkM5SDczWjllRTg2c29iZU1pdC1JanBoMlNFNTBIa0lPY0I1NTczeFlEVkx4emp4NVhwTm1RSVNlMGFoMjRIZWxobzRhYXNKbmhqX1RWbWhSeHJCaGJPcl83SVVicFlnRWVnQXR4WGU1Q2tGdkRCSmE5QXdpNEJBRFV0dnEzZDh1QnY4ZkU?oc=5",
+      "published_at": "2026-11-19T08:00:00Z",
+      "region": "Canberra",
+      "topic": "Land & precincts"
+    },
+    {
       "title": "Development milestone reached for the new suburb of Molonglo",
       "source": "Suburban Land Agency",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU5xRFVzcUV4RTVyV2wwWUFYU1ZETGYyX1AtTmZUR01FcUNpOEdUMVAzTFpaVWRNWjZBTEZmNWplTmZlT2dZMUZwVGc0TE1kZXZBbVAyNEhnSVppbzdUUmo3SERxUmh1OW9ySGhZVnZPV2Y1VTU1SGVXUHE0V1pKcE13elFXM0RmX2xNT2ptUWlQVnhYRTdZREpqMTd1WEVBWENINlBOVE9vR3NOR2x5Z1ZEZzVxSTdMenNFbVczYw?oc=5",
@@ -468,54 +516,6 @@
       "published_at": "2026-11-19T05:08:52Z",
       "region": "Canberra",
       "topic": "Housing & residential"
-    },
-    {
-      "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
-      "source": "HerCanberra",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZng3dDV6VkM5SDczWjllRTg2c29iZU1pdC1JanBoMlNFNTBIa0lPY0I1NTczeFlEVkx4emp4NVhwTm1RSVNlMGFoMjRIZWxobzRhYXNKbmhqX1RWbWhSeHJCaGJPcl83SVVicFlnRWVnQXR4WGU1Q2tGdkRCSmE5QXdpNEJBRFV0dnEzZDh1QnY4ZkU?oc=5",
-      "published_at": "2026-11-18T19:27:31Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Planning authority reveals key tests for Canberra lakeside stadium",
-      "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9392462/canberra-stadium-plan-clears-height-limit-as-nca-weighs-vibe/?src=rss",
-      "published_at": "2026-11-18T18:30:00Z",
-      "region": "Canberra",
-      "topic": "Planning & zoning"
-    },
-    {
-      "title": "Balcony solar could slash power bills for Canberra apartment residents, but what’s stopping it?",
-      "source": "Region Canberra",
-      "url": "https://region.com.au/balcony-solar-could-slash-power-bills-for-canberra-apartment-residents-but-whats-stopping-it/1016263/",
-      "published_at": "2026-11-18T18:00:30Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Navigating a cooling property market: what falling clearance rates mean",
-      "source": "The Canberra Times",
-      "url": "https://www.canberratimes.com.au/story/9393993/in-a-falling-real-estate-market-should-you-still-sell-by-auction/?src=rss",
-      "published_at": "2026-11-18T18:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
-    },
-    {
-      "title": "Harman Technology Estate - Data Centre with Renewable Energy Infrastructure (EIS202600045)",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQeUo0ZXBzcjdPYzBZekpPRTFMWFdBZUNRZEs3NUpiX21NZ2dWUEZ1Um9wSjlMWnJja0NrbXpHaTBtTmtxZXJWbVdqSERXN0tudThNM21LTHlFdWIxb29KMUM5dG1GdU9kajdsalIwS1ZtSEFnMEFHRUpERUhfV1ctYm1OcGU4NFRxRmJHUEZOR3Q3elBxV3hQY2paV1JieTdlMWJTV3ZyUjgxWDl5X3JhTHAydWZ2elBrakk3Tk5wV19qOVhtaVZ6ZlpxT3pwenZzUF9YZ0FGNzA1cTdqSmlWUGpiOU9TZjIta3l5Vzdub3FKSlU5NVBmczd0bzA1SWV4dW55YWV1R19ra2ZRQ0x0SHRYTUFrVVd1SE5Uekd4TWVkYmkwTWNwVVAtb2Y3cjhlVVNfUw?oc=5",
-      "published_at": "2026-11-18T14:19:21Z",
-      "region": "Canberra",
-      "topic": "Infrastructure"
-    },
-    {
-      "title": "New lyric theatre construction information",
-      "source": "ACT Government",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFJCTVJDUHpuN1p5WE01UUpSenJCdk02QUNKR2VDbjU5U01DN2VFVlZVcGFVTU8wcEtreVk5RUhXdGI1WmFkbk5TejBTXy0wVDlFdF9NN3ZxQ3VTWTMwbDV1Z3BhMVZ6TUJ3Zk9tN3lkNVdGMnRqODdqX3h1U2pBY0thUnRGTnNWZzJvbkJTUXc5QjRrVGdvcU9GZUN6R0NFTFZYeTl1SlhBSkNKdVdmRmpXN3ItQnJJRlpvYXJtZEE3TkRNLXNNWDVucG5VSE1Bb3N6UE8tREpRZFVtelE?oc=5",
-      "published_at": "2026-11-18T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Development"
     }
   ]
 }
