@@ -1,10 +1,18 @@
 {
-  "updated_at": "2026-11-27T21:22:12Z",
+  "updated_at": "2026-11-28T07:54:43Z",
   "refresh_method": "GitHub Actions; publisher and Google News RSS",
   "note": "Headlines from external publishers; linked sources are responsible for accuracy. Not independently fact-checked.",
   "feeds_ok": 8,
   "feeds_checked": 8,
   "articles": [
+    {
+      "title": "Thoroughbred Park precinct to require public or community housing",
+      "source": "Region Canberra",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnpzZmxrUDFGWEg0N05YOWtFZzZfY2ZYU0E1OVRjM3JsUnQ1QXo3TXJoVndCOXlwb096cTAzZDdzQlFXNEpWb1FiUWUwNXpKNzZtMTU4TWdPaWQxRk5xRXhXN2ZDbmExUC1RSXhaNDlCU1YzSUc2eEVqUTdBQTJfUHdtbUFVRG43OUE3d2R6S09UdEwzeXVYLUtsVnE?oc=5",
+      "published_at": "2026-11-28T02:21:01Z",
+      "region": "Canberra",
+      "topic": "Housing & residential"
+    },
     {
       "title": "Markets Residences developer still in business, working with receiver, buyers told",
       "source": "Region Canberra",
@@ -22,6 +30,22 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Developer of 350-unit Belconnen project enters receivership, leaving buyers worried",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9399043/belconnen-markets-residences-developer-in-administration/?src=rss",
+      "published_at": "2026-11-27T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Development"
+    },
+    {
+      "title": "'Significant step': major win for Woden light rail",
+      "source": "The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9399596/light-rail-to-woden-granted-federal-environmental-approval/?src=rss",
+      "published_at": "2026-11-27T18:30:00Z",
+      "region": "Canberra",
+      "topic": "Infrastructure"
+    },
+    {
       "title": "Next light rail stage granted environmental approval in 'significant' step",
       "source": "The Canberra Times",
       "url": "https://www.canberratimes.com.au/story/9399596/light-rail-to-woden-granted-federal-environmental-approval/?src=rss",
@@ -36,6 +60,22 @@
       "published_at": "2026-11-27T18:30:00Z",
       "region": "Canberra",
       "topic": "Development"
+    },
+    {
+      "title": "IIM Ahmedabad Professor Recommends Ashwinder R. Singh's Book for GREMI's Residential Development Course",
+      "source": "India's News.Net",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVFLczVfTTNxNk1jd0VYWHJ6cGVlRmdLRTZWUk14SzUtYjFTTHRMclIyTGlqQ3dHUUt4ZUNfX1doMnNob3lIRU1nOGlLS1JpOE1sSVducW1CU1FZUG1ET3VhdDdwd3JHdzU5NTJPUmV3OXB5YVVmQm5meDh0TUdaNTJ6dnh6TThwbFNMN2k2dFNNOFR0ZTdvck4yS2x3S2FlWTlxWER3VEpRcEJyWjdOS21fdTZhSnVnWEk5RDZYT1JhT3Y2RVVwV3F6b01ILUp2NVJWV09Vbw?oc=5",
+      "published_at": "2026-11-27T17:05:00Z",
+      "region": "Australia",
+      "topic": "Housing & residential"
+    },
+    {
+      "title": "Canberra’s Light Rail Stage 2B wins environment approval, more consents ahead",
+      "source": "Railway Supply",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaThfd2s1ZEZ4T0wxN1F3ZWU2VUg1ZTFmNVlEbVF3WDdLdlBJdFV2TnoyNEg2QVFURExFRDRKTzJCWnRXRFpLV2RuMmR4Y3IxTVVValF2Tk9jczJVaGFDdFpRUjhoR3hYQVJJTFZtRVJKMHV3WkhfaEktVlliY09ZczVEajZDWm14blJYOG5oMGJGUDhELXJFUTdRNkdEWG9UQUpuaFVn?oc=5",
+      "published_at": "2026-11-27T10:26:24Z",
+      "region": "Canberra",
+      "topic": "Planning & zoning"
     },
     {
       "title": "'Enabling housing supply': Thoroughbred Park progresses to next stage after community consultation",
@@ -60,14 +100,6 @@
       "published_at": "2026-11-27T06:14:08Z",
       "region": "Canberra",
       "topic": "Infrastructure"
-    },
-    {
-      "title": "Thoroughbred Park precinct to require public or community housing",
-      "source": "Region Canberra",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnpzZmxrUDFGWEg0N05YOWtFZzZfY2ZYU0E1OVRjM3JsUnQ1QXo3TXJoVndCOXlwb096cTAzZDdzQlFXNEpWb1FiUWUwNXpKNzZtMTU4TWdPaWQxRk5xRXhXN2ZDbmExUC1RSXhaNDlCU1YzSUc2eEVqUTdBQTJfUHdtbUFVRG43OUE3d2R6S09UdEwzeXVYLUtsVnE?oc=5",
-      "published_at": "2026-11-27T05:48:25Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
     },
     {
       "title": "Light rail to Woden given environmental tick of approval from Commonwealth",
@@ -254,6 +286,14 @@
       "topic": "Housing & residential"
     },
     {
+      "title": "Matrix Concepts founder Lee Tian Hock named Property Man of the Year 2026",
+      "source": "KLSE Screener",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnk4dHYydkNHdFVmMUpoTnRBZnd3VnJ6YWh4X09jLVRheFpPNTNQNUR5X1p0ZkhzRGdYbmp2Ml9iU2o0MHFMblIwaU0wRVBDQUNMSkdRejJXUmpreG1pd0phbllyam5UQlNIaUdIbjVFMm1iVHBxSXRheFV0ME1DMnAwTEhEZHhEZjZpeWxnZUlvRENBRWVzQ1VCWktGLU1mTmZHaVpCaDVpX2lpaEUzM2E2ZEpRNjlQY2swUXQtSUk?oc=5",
+      "published_at": "2026-11-25T04:27:59Z",
+      "region": "Australia",
+      "topic": "Development"
+    },
+    {
       "title": "Ebb & Flow: Plans unveiled for major riverfront apartment precinct in West End",
       "source": "Apartments.com.au",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmM1MUJuVEtqSmhway1WSE9JRDV3elZfcWJ0aXRvWmlVckY1TzYyNXVWTVFsWjdhMFpKc3RTR3QxNFItYjNHZXI3emIxcnc1b0RaV0d5VGJHcFljYnpZN2tlbG4ydDc2aWtacDZ3QnBiZnd2ZlVjUW1HRWkwbDJJT2cyVF9qclcxNlhYWXcyNlFHRnFvb2hYNVc4Y1hhcGNMV256SUhySGFFSG9fUW5LYVRSU2M?oc=5",
@@ -374,22 +414,6 @@
       "topic": "Development"
     },
     {
-      "title": "Development of the Gabba Entertainment & Housing Precinct begins",
-      "source": "Felix Project News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanItY3ozTVA5OFFuY2U1ZDJtdHBfc0JGOGtUUjhiWHZEbGF4OUhzMjMyclBQaTVVdkoyWVVXLXR4Wkk3RUJoNjdnOERLTmlZMFJmUFpWamNjaXp2eGZyUjQ5czBmVUNWWWNmNHdXdTJrTXV6MjRVNjZ1b3BhSVZzLUdvRTRvY3AzQTJHVGJyR01pdl9xN29GT1k3eGtUSGZMajdnT0dlQ1lnQW5lYmfSAa4BQVVfeXFMTWpyLWN6M01QOThRbmNlNWQybXRwX3NCRjhrVFI4Ylh2RGxheDlIczIzMnJQUGk1VXZKMllVVy10eFpJN0VCaDY3ZzhES05pWTBSZlBaVmpjY2l6dnhmclI0OXMwZlVDVlljZjR3V3Uya011ejI0VTY2dW9wYUlWcy1Hb0U0b2NwM0EyR1RickdNaXZfcTdvRk9ZN3hrVEhmTGo3Z09HZUNZZ0FuZWJn?oc=5",
-      "published_at": "2026-11-23T07:25:15Z",
-      "region": "Australia",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Building WA: The Cost Challenge",
-      "source": "Property Council Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeS15eHpWaHhMTjFIdTQtQjY5UUR6dTR5dWVLbXJ5TTRabk1WaVlaTXc0UDc3SmJMWUJ5UWlKdWVMOEFVd3NlX3RBT09rRHFCQ3RIcUMzVTVLQzhxVGpZbjhDOVNwTXgyUUdYbk1RbklkMV9JeFpBck8tY0U3WGhtcEgwWktOaThJ?oc=5",
-      "published_at": "2026-11-23T05:50:46Z",
-      "region": "Australia",
-      "topic": "Development"
-    },
-    {
       "title": "Stabbing, biting, property damage: police called to multiple alleged family violence incidents on weekend",
       "source": "The Canberra Times",
       "url": "https://www.canberratimes.com.au/story/9396679/stabbing-assaults-property-damage-police-called-to-separate-family-violence-reports-in-canberra/?src=rss",
@@ -490,30 +514,6 @@
       "source": "Region Canberra",
       "url": "https://region.com.au/housing-crisis-sees-increasing-number-of-women-trapped-at-home-with-their-abuser/1016705/",
       "published_at": "2026-11-19T18:00:27Z",
-      "region": "Canberra",
-      "topic": "Housing & residential"
-    },
-    {
-      "title": "Is this Canberra’s coolest (pun intended) precinct? Where to get your fix of froyo and gelato in the city",
-      "source": "HerCanberra",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZng3dDV6VkM5SDczWjllRTg2c29iZU1pdC1JanBoMlNFNTBIa0lPY0I1NTczeFlEVkx4emp4NVhwTm1RSVNlMGFoMjRIZWxobzRhYXNKbmhqX1RWbWhSeHJCaGJPcl83SVVicFlnRWVnQXR4WGU1Q2tGdkRCSmE5QXdpNEJBRFV0dnEzZDh1QnY4ZkU?oc=5",
-      "published_at": "2026-11-19T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Development milestone reached for the new suburb of Molonglo",
-      "source": "Suburban Land Agency",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQU5xRFVzcUV4RTVyV2wwWUFYU1ZETGYyX1AtTmZUR01FcUNpOEdUMVAzTFpaVWRNWjZBTEZmNWplTmZlT2dZMUZwVGc0TE1kZXZBbVAyNEhnSVppbzdUUmo3SERxUmh1OW9ySGhZVnZPV2Y1VTU1SGVXUHE0V1pKcE13elFXM0RmX2xNT2ptUWlQVnhYRTdZREpqMTd1WEVBWENINlBOVE9vR3NOR2x5Z1ZEZzVxSTdMenNFbVczYw?oc=5",
-      "published_at": "2026-11-19T08:00:00Z",
-      "region": "Canberra",
-      "topic": "Land & precincts"
-    },
-    {
-      "title": "Hackett community shocked at three-storey supportive housing proposal",
-      "source": "Region Canberra",
-      "url": "https://region.com.au/hackett-community-shocked-at-three-storey-supportive-housing-proposal/1016861/",
-      "published_at": "2026-11-19T05:08:52Z",
       "region": "Canberra",
       "topic": "Housing & residential"
     }
